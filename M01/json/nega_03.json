@@ -1,0 +1,967 @@
+{
+    "accountId": "befbcc2a-3d47-4edd-b239-5165d2c58eca",
+    "id": "6012698048",
+    "partition": null,
+    "name": "567520998.141669_nega",
+    "description": null,
+    "userName": "Naoki Saito",
+    "created": "2018-12-26T14:56:30.4264001+00:00",
+    "privacyMode": "Private",
+    "state": "Processed",
+    "isOwned": true,
+    "isEditable": true,
+    "isBase": true,
+    "durationInSeconds": 61,
+    "summarizedInsights": {
+        "name": "567520998.141669_nega",
+        "id": "6012698048",
+        "privacyMode": "Private",
+        "duration": {
+            "time": "0:01:01.931",
+            "seconds": 61.9
+        },
+        "thumbnailVideoId": "6012698048",
+        "thumbnailId": "5c755b3f-4070-4b89-a7f0-4df108a71321",
+        "faces": [
+            {
+                "id": 1001,
+                "videoId": "6012698048",
+                "referenceId": null,
+                "referenceType": "Bing",
+                "knownPersonId": "00000000-0000-0000-0000-000000000000",
+                "confidence": 0,
+                "name": "Unknown #1",
+                "description": null,
+                "title": null,
+                "thumbnailId": "9d97ba9a-d968-4884-a487-007d1e118161",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:01.833",
+                        "startSeconds": 0,
+                        "endSeconds": 61.8
+                    }
+                ],
+                "seenDuration": 61.8,
+                "seenDurationRatio": 0.9979
+            }
+        ],
+        "keywords": [
+            {
+                "id": 0,
+                "name": "すね",
+                "appearances": [
+                    {
+                        "startTime": "0:00:01.02",
+                        "endTime": "0:00:17",
+                        "startSeconds": 1,
+                        "endSeconds": 17
+                    },
+                    {
+                        "startTime": "0:00:17.01",
+                        "endTime": "0:00:26.28",
+                        "startSeconds": 17,
+                        "endSeconds": 26.3
+                    },
+                    {
+                        "startTime": "0:00:49.71",
+                        "endTime": "0:01:01.837",
+                        "startSeconds": 49.7,
+                        "endSeconds": 61.8
+                    }
+                ],
+                "isTranscript": true
+            },
+            {
+                "id": 1,
+                "name": "思っ",
+                "appearances": [
+                    {
+                        "startTime": "0:00:17.01",
+                        "endTime": "0:00:26.28",
+                        "startSeconds": 17,
+                        "endSeconds": 26.3
+                    },
+                    {
+                        "startTime": "0:00:26.29",
+                        "endTime": "0:00:38.39",
+                        "startSeconds": 26.3,
+                        "endSeconds": 38.4
+                    },
+                    {
+                        "startTime": "0:00:38.4",
+                        "endTime": "0:00:49.7",
+                        "startSeconds": 38.4,
+                        "endSeconds": 49.7
+                    }
+                ],
+                "isTranscript": true
+            }
+        ],
+        "sentiments": [
+            {
+                "sentimentKey": "Neutral",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:01.837",
+                        "startSeconds": 0,
+                        "endSeconds": 61.8
+                    }
+                ],
+                "seenDurationRatio": 0.9985
+            }
+        ],
+        "emotions": [],
+        "audioEffects": [],
+        "labels": [
+            {
+                "id": 0,
+                "name": "person",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:00.831",
+                        "startSeconds": 0,
+                        "endSeconds": 60.8
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "wall",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:00.831",
+                        "startSeconds": 0,
+                        "endSeconds": 60.8
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "indoor",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:00.831",
+                        "startSeconds": 0,
+                        "endSeconds": 60.8
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "young",
+                "appearances": [
+                    {
+                        "startTime": "0:00:14.933",
+                        "endTime": "0:00:16",
+                        "startSeconds": 14.9,
+                        "endSeconds": 16
+                    },
+                    {
+                        "startTime": "0:00:28.8",
+                        "endTime": "0:00:33.067",
+                        "startSeconds": 28.8,
+                        "endSeconds": 33.1
+                    },
+                    {
+                        "startTime": "0:00:59.732",
+                        "endTime": "0:00:59.765",
+                        "startSeconds": 59.7,
+                        "endSeconds": 59.8
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "yellow",
+                "appearances": [
+                    {
+                        "startTime": "0:00:28.8",
+                        "endTime": "0:00:29.867",
+                        "startSeconds": 28.8,
+                        "endSeconds": 29.9
+                    },
+                    {
+                        "startTime": "0:00:41.598",
+                        "endTime": "0:00:42.665",
+                        "startSeconds": 41.6,
+                        "endSeconds": 42.7
+                    },
+                    {
+                        "startTime": "0:00:51.198",
+                        "endTime": "0:00:52.265",
+                        "startSeconds": 51.2,
+                        "endSeconds": 52.3
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "boy",
+                "appearances": [
+                    {
+                        "startTime": "0:00:02.133",
+                        "endTime": "0:00:03.2",
+                        "startSeconds": 2.1,
+                        "endSeconds": 3.2
+                    },
+                    {
+                        "startTime": "0:00:58.665",
+                        "endTime": "0:00:59.732",
+                        "startSeconds": 58.7,
+                        "endSeconds": 59.7
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "laptop",
+                "appearances": [
+                    {
+                        "startTime": "0:00:17.067",
+                        "endTime": "0:00:18.134",
+                        "startSeconds": 17.1,
+                        "endSeconds": 18.1
+                    }
+                ]
+            }
+        ],
+        "brands": [],
+        "statistics": {
+            "correspondenceCount": 0,
+            "speakerTalkToListenRatio": {
+                "1": 1
+            },
+            "speakerLongestMonolog": {
+                "1": 60
+            },
+            "speakerNumberOfFragments": {
+                "1": 5
+            },
+            "speakerWordCount": {
+                "1": 7
+            }
+        },
+        "topics": [
+            {
+                "id": 0,
+                "name": "Music",
+                "referenceUrl": null,
+                "iptcName": null,
+                "confidence": 0.6841,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:01.837",
+                        "startSeconds": 0,
+                        "endSeconds": 61.8
+                    }
+                ]
+            }
+        ]
+    },
+    "videos": [
+        {
+            "accountId": "befbcc2a-3d47-4edd-b239-5165d2c58eca",
+            "id": "6012698048",
+            "state": "Processed",
+            "moderationState": "OK",
+            "reviewState": "None",
+            "privacyMode": "Private",
+            "processingProgress": "100%",
+            "failureCode": "None",
+            "failureMessage": "",
+            "externalId": null,
+            "externalUrl": null,
+            "metadata": null,
+            "insights": {
+                "version": "1.0.0.0",
+                "duration": "0:01:01.931",
+                "sourceLanguage": "ja-JP",
+                "language": "ja-JP",
+                "transcript": [
+                    {
+                        "id": 0,
+                        "text": "今回は企業さんの頃からトランペットを提供してもらって一ヶ月間練習してみます。かれ最初はやっぱりですね。拭いても全然音がまったくでなくて。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:01.02",
+                                "adjustedEnd": "0:00:17",
+                                "start": "0:00:01.02",
+                                "end": "0:00:17"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "なんじゃこりゃって思ってたんですけどまあ、毎日毎日とりあえず練習して行くとですね。少しずつ音が出るようになって。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:17.01",
+                                "adjustedEnd": "0:00:26.28",
+                                "start": "0:00:17.01",
+                                "end": "0:00:26.28"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "音階どれもはフラッシュどうですかね。それぐらいは問題なく、けるようになっていきました。やっぱりふける to 音楽ってたのしいなあと思っていてこれからも。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:26.29",
+                                "adjustedEnd": "0:00:38.39",
+                                "start": "0:00:26.29",
+                                "end": "0:00:38.39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "text": "続けたいなあっていうふうに今思っています。少し簡単な曲もてるようになったのですごく嬉しいです。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:38.4",
+                                "adjustedEnd": "0:00:49.7",
+                                "start": "0:00:38.4",
+                                "end": "0:00:49.7"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "text": "ないですね。それから友達ともやっているので、これからの楽しみになっています。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:49.71",
+                                "adjustedEnd": "0:01:01.837",
+                                "start": "0:00:49.71",
+                                "end": "0:01:01.837"
+                            }
+                        ]
+                    }
+                ],
+                "keywords": [
+                    {
+                        "id": 0,
+                        "text": "すね",
+                        "confidence": 0.6211,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:17",
+                                "start": "0:00:00",
+                                "end": "0:00:17"
+                            },
+                            {
+                                "adjustedStart": "0:00:17",
+                                "adjustedEnd": "0:00:26.33",
+                                "start": "0:00:17",
+                                "end": "0:00:26.33"
+                            },
+                            {
+                                "adjustedStart": "0:00:50.21",
+                                "adjustedEnd": "0:01:01.837",
+                                "start": "0:00:50.21",
+                                "end": "0:01:01.837"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "思っ",
+                        "confidence": 0.6211,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:17",
+                                "adjustedEnd": "0:00:26.33",
+                                "start": "0:00:17",
+                                "end": "0:00:26.33"
+                            },
+                            {
+                                "adjustedStart": "0:00:26.33",
+                                "adjustedEnd": "0:00:38.4",
+                                "start": "0:00:26.33",
+                                "end": "0:00:38.4"
+                            },
+                            {
+                                "adjustedStart": "0:00:38.4",
+                                "adjustedEnd": "0:00:50.21",
+                                "start": "0:00:38.4",
+                                "end": "0:00:50.21"
+                            }
+                        ]
+                    }
+                ],
+                "topics": [
+                    {
+                        "id": 0,
+                        "name": "Music",
+                        "referenceId": "Music",
+                        "referenceType": "VideoIndexer",
+                        "confidence": 0.6841,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:01.837",
+                                "start": "0:00:00",
+                                "end": "0:01:01.837"
+                            }
+                        ]
+                    }
+                ],
+                "faces": [
+                    {
+                        "id": 1001,
+                        "name": "Unknown #1",
+                        "confidence": 0,
+                        "description": null,
+                        "thumbnailId": "9d97ba9a-d968-4884-a487-007d1e118161",
+                        "referenceId": null,
+                        "title": null,
+                        "imageUrl": null,
+                        "thumbnails": [
+                            {
+                                "id": "68381efc-e86e-4dcd-b22a-81806cdfad2b",
+                                "fileName": "FaceThumbnail_68381efc-e86e-4dcd-b22a-81806cdfad2b.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:00",
+                                        "adjustedEnd": "0:00:00.033",
+                                        "start": "0:00:00",
+                                        "end": "0:00:00.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "9d97ba9a-d968-4884-a487-007d1e118161",
+                                "fileName": "FaceThumbnail_9d97ba9a-d968-4884-a487-007d1e118161.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:05",
+                                        "adjustedEnd": "0:00:05.033",
+                                        "start": "0:00:05",
+                                        "end": "0:00:05.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "57e14289-ad20-4bc8-a3aa-618e7dacd14d",
+                                "fileName": "FaceThumbnail_57e14289-ad20-4bc8-a3aa-618e7dacd14d.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:09.133",
+                                        "adjustedEnd": "0:00:09.166",
+                                        "start": "0:00:09.133",
+                                        "end": "0:00:09.166"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "694dba34-35a8-4746-98e7-249a95d0f543",
+                                "fileName": "FaceThumbnail_694dba34-35a8-4746-98e7-249a95d0f543.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:10",
+                                        "adjustedEnd": "0:00:10.033",
+                                        "start": "0:00:10",
+                                        "end": "0:00:10.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "5040de50-47b5-458f-97d5-4f9acddbf06e",
+                                "fileName": "FaceThumbnail_5040de50-47b5-458f-97d5-4f9acddbf06e.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:15",
+                                        "adjustedEnd": "0:00:15.033",
+                                        "start": "0:00:15",
+                                        "end": "0:00:15.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "d03133fd-f285-4ebd-997e-029ac3601da6",
+                                "fileName": "FaceThumbnail_d03133fd-f285-4ebd-997e-029ac3601da6.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:20",
+                                        "adjustedEnd": "0:00:20.033",
+                                        "start": "0:00:20",
+                                        "end": "0:00:20.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1c333392-7d3c-481f-98ec-059eefa576e0",
+                                "fileName": "FaceThumbnail_1c333392-7d3c-481f-98ec-059eefa576e0.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:25",
+                                        "adjustedEnd": "0:00:25.033",
+                                        "start": "0:00:25",
+                                        "end": "0:00:25.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "02455507-e3d0-4235-a14c-2d5b003928de",
+                                "fileName": "FaceThumbnail_02455507-e3d0-4235-a14c-2d5b003928de.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:30",
+                                        "adjustedEnd": "0:00:30.033",
+                                        "start": "0:00:30",
+                                        "end": "0:00:30.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "7a71ab90-3ea4-45ae-8207-759dea907971",
+                                "fileName": "FaceThumbnail_7a71ab90-3ea4-45ae-8207-759dea907971.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:35",
+                                        "adjustedEnd": "0:00:35.033",
+                                        "start": "0:00:35",
+                                        "end": "0:00:35.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1b84e73b-9e7b-4831-87b5-65dc265ceea1",
+                                "fileName": "FaceThumbnail_1b84e73b-9e7b-4831-87b5-65dc265ceea1.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:40.065",
+                                        "adjustedEnd": "0:00:40.098",
+                                        "start": "0:00:40.065",
+                                        "end": "0:00:40.098"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1420d34e-7882-4ced-b1b6-c0742ae7eaae",
+                                "fileName": "FaceThumbnail_1420d34e-7882-4ced-b1b6-c0742ae7eaae.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:45.065",
+                                        "adjustedEnd": "0:00:45.098",
+                                        "start": "0:00:45.065",
+                                        "end": "0:00:45.098"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b2a67a0e-a442-471f-b027-0f6786d5fff6",
+                                "fileName": "FaceThumbnail_b2a67a0e-a442-471f-b027-0f6786d5fff6.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:50.065",
+                                        "adjustedEnd": "0:00:50.098",
+                                        "start": "0:00:50.065",
+                                        "end": "0:00:50.098"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "004f06b5-a4d3-44a7-bc8d-4039d0bc7834",
+                                "fileName": "FaceThumbnail_004f06b5-a4d3-44a7-bc8d-4039d0bc7834.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:55.065",
+                                        "adjustedEnd": "0:00:55.098",
+                                        "start": "0:00:55.065",
+                                        "end": "0:00:55.098"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "13f7cdd4-430f-4ec8-bb23-84d49089ae54",
+                                "fileName": "FaceThumbnail_13f7cdd4-430f-4ec8-bb23-84d49089ae54.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:00.065",
+                                        "adjustedEnd": "0:01:00.098",
+                                        "start": "0:01:00.065",
+                                        "end": "0:01:00.098"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "thumbnailsIds": [
+                                    "68381efc-e86e-4dcd-b22a-81806cdfad2b",
+                                    "7a71ab90-3ea4-45ae-8207-759dea907971",
+                                    "1b84e73b-9e7b-4831-87b5-65dc265ceea1",
+                                    "1420d34e-7882-4ced-b1b6-c0742ae7eaae",
+                                    "b2a67a0e-a442-471f-b027-0f6786d5fff6",
+                                    "9d97ba9a-d968-4884-a487-007d1e118161",
+                                    "004f06b5-a4d3-44a7-bc8d-4039d0bc7834",
+                                    "13f7cdd4-430f-4ec8-bb23-84d49089ae54",
+                                    "57e14289-ad20-4bc8-a3aa-618e7dacd14d",
+                                    "694dba34-35a8-4746-98e7-249a95d0f543",
+                                    "5040de50-47b5-458f-97d5-4f9acddbf06e",
+                                    "d03133fd-f285-4ebd-997e-029ac3601da6",
+                                    "1c333392-7d3c-481f-98ec-059eefa576e0",
+                                    "02455507-e3d0-4235-a14c-2d5b003928de"
+                                ],
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:01.833",
+                                "start": "0:00:00",
+                                "end": "0:01:01.833"
+                            }
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "id": 0,
+                        "name": "person",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9992,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:59.765",
+                                "start": "0:00:00",
+                                "end": "0:00:59.765"
+                            },
+                            {
+                                "confidence": 0.9988,
+                                "adjustedStart": "0:01:00.798",
+                                "adjustedEnd": "0:01:00.831",
+                                "start": "0:01:00.798",
+                                "end": "0:01:00.831"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "wall",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9632,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:01.067",
+                                "start": "0:00:00",
+                                "end": "0:00:01.067"
+                            },
+                            {
+                                "confidence": 0.9762,
+                                "adjustedStart": "0:00:02.133",
+                                "adjustedEnd": "0:00:33.067",
+                                "start": "0:00:02.133",
+                                "end": "0:00:33.067"
+                            },
+                            {
+                                "confidence": 0.9735,
+                                "adjustedStart": "0:00:34.133",
+                                "adjustedEnd": "0:00:59.765",
+                                "start": "0:00:34.133",
+                                "end": "0:00:59.765"
+                            },
+                            {
+                                "confidence": 0.9592,
+                                "adjustedStart": "0:01:00.798",
+                                "adjustedEnd": "0:01:00.831",
+                                "start": "0:01:00.798",
+                                "end": "0:01:00.831"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "indoor",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.956,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:59.765",
+                                "start": "0:00:00",
+                                "end": "0:00:59.765"
+                            },
+                            {
+                                "confidence": 0.9621,
+                                "adjustedStart": "0:01:00.798",
+                                "adjustedEnd": "0:01:00.831",
+                                "start": "0:01:00.798",
+                                "end": "0:01:00.831"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "boy",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.8168,
+                                "adjustedStart": "0:00:02.133",
+                                "adjustedEnd": "0:00:03.2",
+                                "start": "0:00:02.133",
+                                "end": "0:00:03.2"
+                            },
+                            {
+                                "confidence": 0.8092,
+                                "adjustedStart": "0:00:58.665",
+                                "adjustedEnd": "0:00:59.732",
+                                "start": "0:00:58.665",
+                                "end": "0:00:59.732"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "young",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.8083,
+                                "adjustedStart": "0:00:14.933",
+                                "adjustedEnd": "0:00:16",
+                                "start": "0:00:14.933",
+                                "end": "0:00:16"
+                            },
+                            {
+                                "confidence": 0.8409,
+                                "adjustedStart": "0:00:28.8",
+                                "adjustedEnd": "0:00:29.867",
+                                "start": "0:00:28.8",
+                                "end": "0:00:29.867"
+                            },
+                            {
+                                "confidence": 0.8108,
+                                "adjustedStart": "0:00:32",
+                                "adjustedEnd": "0:00:33.067",
+                                "start": "0:00:32",
+                                "end": "0:00:33.067"
+                            },
+                            {
+                                "confidence": 0.8234,
+                                "adjustedStart": "0:00:59.732",
+                                "adjustedEnd": "0:00:59.765",
+                                "start": "0:00:59.732",
+                                "end": "0:00:59.765"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "laptop",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.8004,
+                                "adjustedStart": "0:00:17.067",
+                                "adjustedEnd": "0:00:18.134",
+                                "start": "0:00:17.067",
+                                "end": "0:00:18.134"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "yellow",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.8584,
+                                "adjustedStart": "0:00:28.8",
+                                "adjustedEnd": "0:00:29.867",
+                                "start": "0:00:28.8",
+                                "end": "0:00:29.867"
+                            },
+                            {
+                                "confidence": 0.8656,
+                                "adjustedStart": "0:00:41.598",
+                                "adjustedEnd": "0:00:42.665",
+                                "start": "0:00:41.598",
+                                "end": "0:00:42.665"
+                            },
+                            {
+                                "confidence": 0.8368,
+                                "adjustedStart": "0:00:51.198",
+                                "adjustedEnd": "0:00:52.265",
+                                "start": "0:00:51.198",
+                                "end": "0:00:52.265"
+                            }
+                        ]
+                    }
+                ],
+                "shots": [
+                    {
+                        "id": 0,
+                        "keyFrames": [
+                            {
+                                "id": 0,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "16d131bd-9b0f-4934-b8bd-f25639199b3f",
+                                        "adjustedStart": "0:00:01.1",
+                                        "adjustedEnd": "0:00:01.133",
+                                        "start": "0:00:01.1",
+                                        "end": "0:00:01.133"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "dd3ebac8-0a9d-4d58-9df5-03e41861c25c",
+                                        "adjustedStart": "0:00:12.767",
+                                        "adjustedEnd": "0:00:12.8",
+                                        "start": "0:00:12.767",
+                                        "end": "0:00:12.8"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "70a2925d-631f-426e-9ddb-db4a9a4ac55b",
+                                        "adjustedStart": "0:00:55.398",
+                                        "adjustedEnd": "0:00:55.431",
+                                        "start": "0:00:55.398",
+                                        "end": "0:00:55.431"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:01.1",
+                                "adjustedEnd": "0:01:01.831",
+                                "start": "0:00:01.1",
+                                "end": "0:01:01.831"
+                            }
+                        ]
+                    }
+                ],
+                "sentiments": [
+                    {
+                        "id": 0,
+                        "averageScore": 0.4295,
+                        "sentimentType": "Neutral",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:01.837",
+                                "start": "0:00:00",
+                                "end": "0:01:01.837"
+                            }
+                        ]
+                    }
+                ],
+                "blocks": [
+                    {
+                        "id": 0,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:38.39",
+                                "start": "0:00:00",
+                                "end": "0:00:38.39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:38.39",
+                                "adjustedEnd": "0:01:01.837",
+                                "start": "0:00:38.39",
+                                "end": "0:01:01.837"
+                            }
+                        ]
+                    }
+                ],
+                "speakers": [
+                    {
+                        "id": 1,
+                        "name": "Speaker #1",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:01.837",
+                                "start": "0:00:00",
+                                "end": "0:01:01.837"
+                            }
+                        ]
+                    }
+                ],
+                "textualContentModeration": {
+                    "id": 0,
+                    "bannedWordsCount": 0,
+                    "bannedWordsRatio": 0,
+                    "instances": []
+                },
+                "statistics": {
+                    "correspondenceCount": 0,
+                    "speakerTalkToListenRatio": {
+                        "1": 1
+                    },
+                    "speakerLongestMonolog": {
+                        "1": 60
+                    },
+                    "speakerNumberOfFragments": {
+                        "1": 5
+                    },
+                    "speakerWordCount": {
+                        "1": 7
+                    }
+                },
+                "sourceLanguageConfidence": 1
+            },
+            "thumbnailId": "5c755b3f-4070-4b89-a7f0-4df108a71321",
+            "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/b6344282-d432-4a2a-a2f3-d8e86bb461a8/bc4d5b5e-9a55-482b-ada2-1f103989.ism/manifest(encryption=cbc)",
+            "publishedProxyUrl": null,
+            "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiIzNDZjNGU4MS0xNjJmLTQxODgtYjBjZC03ZTM0ODUyOWFmMDciLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NDU5MjUxODUsIm5iZiI6MTU0NTgzODcyNX0.0xh5h-F19G6l_8MgpKitYQWRJ3udq4rDnX31tsBlQ0g",
+            "detectSourceLanguage": false,
+            "sourceLanguage": "ja-JP",
+            "language": "ja-JP",
+            "indexingPreset": "Default",
+            "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+            "personModelId": "00000000-0000-0000-0000-000000000000",
+            "isAdult": false
+        }
+    ],
+    "videosRanges": [
+        {
+            "videoId": "6012698048",
+            "range": {
+                "start": "0:00:00",
+                "end": "0:01:01.931"
+            }
+        }
+    ]
+}

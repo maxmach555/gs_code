@@ -1,0 +1,166 @@
+@charset "utf-8";
+
+/* 松井さんのスタイルシート */
+body {
+  background: linear-gradient( to bottom left,#ff2d70, #fc7005 ) fixed;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 100;
+}
+#top_area{
+  display: flex;
+  position: relative;
+}
+p,h2,h1{
+  margin: 2px;
+  font-size:12px;
+}
+#name{
+  font-size:16px;
+}
+#intro{
+  color: white;
+  font-size:12px;
+  padding-top: 20px;
+  position: absolute;
+}
+#thum{
+  margin: 0 auto;
+}
+#score{
+  color: yellow;
+  display: flex;
+  justify-content: space-around;
+}
+#rank{
+  text-align: center;
+}
+#ranking{
+  font-size:36px;
+  font-weight: 500;
+}
+.title { 
+  font-size:12px;
+}
+.wrapper {
+  /* padding: 30px; */
+  text-align: center;
+  position: relative;
+  top:30px;
+  width: 100%;
+  height: 100%;
+}
+
+#myCanvas{
+  background-color: white;
+  border-radius:10px;
+  box-shadow: 0 2px 3px #993f00;
+  position: relative;
+  z-index: -1;
+  top:-40px;
+}
+.chart{
+  text-align: center;
+}
+#chartTitle{
+  width: 270px;
+  left:40px;
+  top: 15px;
+  font-size: 18px;
+  font-weight: 700;
+  color:#ff2d70;
+  position: absolute;
+}
+#chartRadar{
+  position: absolute;
+  top:90px;
+}
+
+#score00{
+  width: 270px;
+  left:40px;
+  top: 370px;
+  color:#282828;
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+}
+#chartScore01{
+  font-size: 14px;
+  font-weight:  300;
+}
+#bar{
+  left: 40px;
+  top: 470px;
+  color: #282828;
+  position: absolute;
+}
+
+/* #chartBar{
+  position: absolute;
+  top:300px;
+} */
+
+.bar-wrap,
+.bar::before {
+  border-radius: 3em;
+}
+#amount{
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  margin: auto;
+  left: 20px;
+  font-weight: 500;
+}
+.bar-wrap {
+  left: 32px;
+  width:300px;
+  position: relative;
+  top:500px;
+  height: 2.5em;
+  background: #efefef;
+  /* position: relative; */
+  display: flex;
+  align-items: center;
+}
+.bar-wrap:not(:first-child) {
+  margin-top: 1em;
+}
+
+.bar, .bar::before {
+  height: 100%;
+}
+.bar::before {
+  content: '';
+  display: block;
+  background: #ff2d70;
+  -webkit-animation: bar 2s;
+          animation: bar 2s;
+}
+.anime {
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+}
+
+
+@-webkit-keyframes bar {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes bar {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+/* body {
+  padding: 2em;
+} */

@@ -1,0 +1,1138 @@
+{
+    "accountId": "befbcc2a-3d47-4edd-b239-5165d2c58eca",
+    "id": "bb1fd91d1a",
+    "partition": null,
+    "name": "567520998.416152_nega",
+    "description": null,
+    "userName": "Naoki Saito",
+    "created": "2018-12-26T14:57:26.4470064+00:00",
+    "privacyMode": "Private",
+    "state": "Processed",
+    "isOwned": true,
+    "isEditable": true,
+    "isBase": true,
+    "durationInSeconds": 59,
+    "summarizedInsights": {
+        "name": "567520998.416152_nega",
+        "id": "bb1fd91d1a",
+        "privacyMode": "Private",
+        "duration": {
+            "time": "0:00:59.456",
+            "seconds": 59.5
+        },
+        "thumbnailVideoId": "bb1fd91d1a",
+        "thumbnailId": "a82ed7ac-9cc2-41f0-96d0-96ee3d4d0e70",
+        "faces": [
+            {
+                "id": 1000,
+                "videoId": "bb1fd91d1a",
+                "referenceId": null,
+                "referenceType": "Bing",
+                "knownPersonId": "00000000-0000-0000-0000-000000000000",
+                "confidence": 0,
+                "name": "Unknown #1",
+                "description": null,
+                "title": null,
+                "thumbnailId": "ad0ded5a-ee68-4584-a478-31bc77d13592",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:59.3",
+                        "startSeconds": 0,
+                        "endSeconds": 59.3
+                    }
+                ],
+                "seenDuration": 59.3,
+                "seenDurationRatio": 0.9974
+            }
+        ],
+        "keywords": [
+            {
+                "id": 0,
+                "name": "バリ島",
+                "appearances": [
+                    {
+                        "startTime": "0:00:12.38",
+                        "endTime": "0:00:26.83",
+                        "startSeconds": 12.4,
+                        "endSeconds": 26.8
+                    },
+                    {
+                        "startTime": "0:00:26.84",
+                        "endTime": "0:00:45.17",
+                        "startSeconds": 26.8,
+                        "endSeconds": 45.2
+                    }
+                ],
+                "isTranscript": true
+            },
+            {
+                "id": 1,
+                "name": "旅行",
+                "appearances": [
+                    {
+                        "startTime": "0:00:01.4",
+                        "endTime": "0:00:12.37",
+                        "startSeconds": 1.4,
+                        "endSeconds": 12.4
+                    },
+                    {
+                        "startTime": "0:00:12.38",
+                        "endTime": "0:00:26.83",
+                        "startSeconds": 12.4,
+                        "endSeconds": 26.8
+                    }
+                ],
+                "isTranscript": true
+            }
+        ],
+        "sentiments": [
+            {
+                "sentimentKey": "Neutral",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:07.04",
+                        "startSeconds": 0,
+                        "endSeconds": 7
+                    },
+                    {
+                        "startTime": "0:00:07.29",
+                        "endTime": "0:00:59.376",
+                        "startSeconds": 7.3,
+                        "endSeconds": 59.4
+                    }
+                ],
+                "seenDurationRatio": 0.9944
+            }
+        ],
+        "emotions": [],
+        "audioEffects": [],
+        "labels": [
+            {
+                "id": 0,
+                "name": "person",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:59.361",
+                        "startSeconds": 0,
+                        "endSeconds": 59.4
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "indoor",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:59.361",
+                        "startSeconds": 0,
+                        "endSeconds": 59.4
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "wall",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:30.965",
+                        "startSeconds": 0,
+                        "endSeconds": 31
+                    },
+                    {
+                        "startTime": "0:00:36.305",
+                        "endTime": "0:00:37.372",
+                        "startSeconds": 36.3,
+                        "endSeconds": 37.4
+                    },
+                    {
+                        "startTime": "0:00:40.575",
+                        "endTime": "0:00:41.643",
+                        "startSeconds": 40.6,
+                        "endSeconds": 41.6
+                    },
+                    {
+                        "startTime": "0:00:48.05",
+                        "endTime": "0:00:59.361",
+                        "startSeconds": 48,
+                        "endSeconds": 59.4
+                    }
+                ]
+            }
+        ],
+        "brands": [],
+        "statistics": {
+            "correspondenceCount": 1,
+            "speakerTalkToListenRatio": {
+                "1": 0.189,
+                "2": 0.81
+            },
+            "speakerLongestMonolog": {
+                "1": 10,
+                "2": 46
+            },
+            "speakerNumberOfFragments": {
+                "1": 1,
+                "2": 3
+            },
+            "speakerWordCount": {
+                "1": 3,
+                "2": 3
+            }
+        },
+        "topics": [
+            {
+                "id": 0,
+                "name": "Tourism/visiting And Travel/visiting And Travel Advice",
+                "referenceUrl": null,
+                "iptcName": null,
+                "confidence": 0.9709,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:59.376",
+                        "startSeconds": 0,
+                        "endSeconds": 59.4
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Tourism",
+                "referenceUrl": null,
+                "iptcName": "Lifestyle and Leisure",
+                "confidence": 0.9108,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:59.376",
+                        "startSeconds": 0,
+                        "endSeconds": 59.4
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "International Travel Hacks",
+                "referenceUrl": null,
+                "iptcName": null,
+                "confidence": 0.8829,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:59.376",
+                        "startSeconds": 0,
+                        "endSeconds": 59.4
+                    }
+                ]
+            }
+        ]
+    },
+    "videos": [
+        {
+            "accountId": "befbcc2a-3d47-4edd-b239-5165d2c58eca",
+            "id": "bb1fd91d1a",
+            "state": "Processed",
+            "moderationState": "OK",
+            "reviewState": "None",
+            "privacyMode": "Private",
+            "processingProgress": "100%",
+            "failureCode": "None",
+            "failureMessage": "",
+            "externalId": null,
+            "externalUrl": null,
+            "metadata": null,
+            "insights": {
+                "version": "1.0.0.0",
+                "duration": "0:00:59.456",
+                "sourceLanguage": "ja-JP",
+                "language": "ja-JP",
+                "transcript": [
+                    {
+                        "id": 0,
+                        "text": "足は今回まるまる旅行会社さんに飛行機のチケット to 初期費用を旅行の初期費用をいただいて。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:01.4",
+                                "adjustedEnd": "0:00:12.37",
+                                "start": "0:00:01.4",
+                                "end": "0:00:12.37"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "バリ島に旅行に行ってきました。そこでヘクタールバリ島では買い物をしたり、サーフィンをしたりシュノーケルツアーに行ったり。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:12.38",
+                                "adjustedEnd": "0:00:26.83",
+                                "start": "0:00:12.38",
+                                "end": "0:00:26.83"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "いろいろ経験させて頂きました後はバリ島ノーぱり料理脳クッキングクラスにも参加してきました。すごい楽しかったです。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:26.84",
+                                "adjustedEnd": "0:00:45.17",
+                                "start": "0:00:26.84",
+                                "end": "0:00:45.17"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "text": "また今後も割りに行きたいなと思える体験ができたのでありがたかったです。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:45.18",
+                                "adjustedEnd": "0:00:59.376",
+                                "start": "0:00:45.18",
+                                "end": "0:00:59.376"
+                            }
+                        ]
+                    }
+                ],
+                "ocr": [
+                    {
+                        "id": 0,
+                        "text": "токуо",
+                        "confidence": 326,
+                        "left": 1,
+                        "top": 315,
+                        "width": 42,
+                        "height": 17,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:07.942",
+                                "adjustedEnd": "0:00:14.014",
+                                "start": "0:00:07.942",
+                                "end": "0:00:14.014"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "Токт",
+                        "confidence": 276,
+                        "left": 123,
+                        "top": 360,
+                        "width": 52,
+                        "height": 16,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:17.283",
+                                "adjustedEnd": "0:00:27.093",
+                                "start": "0:00:17.283",
+                                "end": "0:00:27.093"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "TOKYO",
+                        "confidence": 293,
+                        "left": 869,
+                        "top": 260,
+                        "width": 51,
+                        "height": 17,
+                        "language": "de-DE",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:49.517",
+                                "adjustedEnd": "0:00:52.787",
+                                "start": "0:00:49.517",
+                                "end": "0:00:52.787"
+                            }
+                        ]
+                    }
+                ],
+                "keywords": [
+                    {
+                        "id": 0,
+                        "text": "バリ島",
+                        "confidence": 0.6211,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:12.42",
+                                "adjustedEnd": "0:00:26.84",
+                                "start": "0:00:12.42",
+                                "end": "0:00:26.84"
+                            },
+                            {
+                                "adjustedStart": "0:00:26.84",
+                                "adjustedEnd": "0:00:38.98",
+                                "start": "0:00:26.84",
+                                "end": "0:00:38.98"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "旅行",
+                        "confidence": 0.6211,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:07.04",
+                                "start": "0:00:00",
+                                "end": "0:00:07.04"
+                            },
+                            {
+                                "adjustedStart": "0:00:07.29",
+                                "adjustedEnd": "0:00:12.42",
+                                "start": "0:00:07.29",
+                                "end": "0:00:12.42"
+                            },
+                            {
+                                "adjustedStart": "0:00:12.42",
+                                "adjustedEnd": "0:00:26.84",
+                                "start": "0:00:12.42",
+                                "end": "0:00:26.84"
+                            }
+                        ]
+                    }
+                ],
+                "topics": [
+                    {
+                        "id": 0,
+                        "name": "Visiting And Travel Advice",
+                        "referenceId": "Tourism/visiting And Travel/visiting And Travel Advice",
+                        "referenceType": "VideoIndexer",
+                        "confidence": 0.9709,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:59.376",
+                                "start": "0:00:00",
+                                "end": "0:00:59.376"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "Tourism",
+                        "referenceId": "Tourism",
+                        "referenceType": "VideoIndexer",
+                        "iptcName": "Lifestyle and Leisure",
+                        "confidence": 0.9108,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:59.376",
+                                "start": "0:00:00",
+                                "end": "0:00:59.376"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "International Travel Hacks",
+                        "referenceId": "International Travel Hacks",
+                        "referenceType": "VideoIndexer",
+                        "confidence": 0.8829,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:59.376",
+                                "start": "0:00:00",
+                                "end": "0:00:59.376"
+                            }
+                        ]
+                    }
+                ],
+                "faces": [
+                    {
+                        "id": 1000,
+                        "name": "Unknown #1",
+                        "confidence": 0,
+                        "description": null,
+                        "thumbnailId": "ad0ded5a-ee68-4584-a478-31bc77d13592",
+                        "referenceId": null,
+                        "title": null,
+                        "imageUrl": null,
+                        "thumbnails": [
+                            {
+                                "id": "aa2c91d3-23da-4dc2-b3b8-2d92fe84968f",
+                                "fileName": "FaceThumbnail_aa2c91d3-23da-4dc2-b3b8-2d92fe84968f.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:00",
+                                        "adjustedEnd": "0:00:00.033",
+                                        "start": "0:00:00",
+                                        "end": "0:00:00.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ef9af395-fd8f-49f1-9059-c3ba0aa7e1ee",
+                                "fileName": "FaceThumbnail_ef9af395-fd8f-49f1-9059-c3ba0aa7e1ee.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:00.267",
+                                        "adjustedEnd": "0:00:00.3",
+                                        "start": "0:00:00.267",
+                                        "end": "0:00:00.3"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "51073371-bdfb-4822-b3ca-fc1ca7c5b693",
+                                "fileName": "FaceThumbnail_51073371-bdfb-4822-b3ca-fc1ca7c5b693.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:05.005",
+                                        "adjustedEnd": "0:00:05.038",
+                                        "start": "0:00:05.005",
+                                        "end": "0:00:05.038"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "2ce0a128-e447-4a61-a2bf-af21eac45431",
+                                "fileName": "FaceThumbnail_2ce0a128-e447-4a61-a2bf-af21eac45431.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:10.01",
+                                        "adjustedEnd": "0:00:10.043",
+                                        "start": "0:00:10.01",
+                                        "end": "0:00:10.043"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "5d8c08b6-2c3d-411e-b745-71fc0c714565",
+                                "fileName": "FaceThumbnail_5d8c08b6-2c3d-411e-b745-71fc0c714565.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:15.015",
+                                        "adjustedEnd": "0:00:15.048",
+                                        "start": "0:00:15.015",
+                                        "end": "0:00:15.048"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b7597eaa-f386-4c0d-8d1a-173ce4d6af8c",
+                                "fileName": "FaceThumbnail_b7597eaa-f386-4c0d-8d1a-173ce4d6af8c.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:20.02",
+                                        "adjustedEnd": "0:00:20.053",
+                                        "start": "0:00:20.02",
+                                        "end": "0:00:20.053"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "d9cb3e3b-ec53-486f-9418-59c08b250a03",
+                                "fileName": "FaceThumbnail_d9cb3e3b-ec53-486f-9418-59c08b250a03.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:25.027",
+                                        "adjustedEnd": "0:00:25.06",
+                                        "start": "0:00:25.027",
+                                        "end": "0:00:25.06"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "3ca7fe8f-b839-416b-8fe0-d5acc91413b4",
+                                "fileName": "FaceThumbnail_3ca7fe8f-b839-416b-8fe0-d5acc91413b4.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:30.032",
+                                        "adjustedEnd": "0:00:30.065",
+                                        "start": "0:00:30.032",
+                                        "end": "0:00:30.065"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "2e425c18-8399-431e-9f50-01d31845aaa9",
+                                "fileName": "FaceThumbnail_2e425c18-8399-431e-9f50-01d31845aaa9.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:35.037",
+                                        "adjustedEnd": "0:00:35.07",
+                                        "start": "0:00:35.037",
+                                        "end": "0:00:35.07"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "41ee74fe-f6f7-4216-bdb7-a0f5e46d3cac",
+                                "fileName": "FaceThumbnail_41ee74fe-f6f7-4216-bdb7-a0f5e46d3cac.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:40.042",
+                                        "adjustedEnd": "0:00:40.075",
+                                        "start": "0:00:40.042",
+                                        "end": "0:00:40.075"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "16e35003-d680-49b3-ac14-bfb708324108",
+                                "fileName": "FaceThumbnail_16e35003-d680-49b3-ac14-bfb708324108.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:45.047",
+                                        "adjustedEnd": "0:00:45.08",
+                                        "start": "0:00:45.047",
+                                        "end": "0:00:45.08"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "d6d8ca55-421d-464c-a57a-d420d532b5bb",
+                                "fileName": "FaceThumbnail_d6d8ca55-421d-464c-a57a-d420d532b5bb.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:50.052",
+                                        "adjustedEnd": "0:00:50.085",
+                                        "start": "0:00:50.052",
+                                        "end": "0:00:50.085"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ad0ded5a-ee68-4584-a478-31bc77d13592",
+                                "fileName": "FaceThumbnail_ad0ded5a-ee68-4584-a478-31bc77d13592.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:55.057",
+                                        "adjustedEnd": "0:00:55.09",
+                                        "start": "0:00:55.057",
+                                        "end": "0:00:55.09"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "thumbnailsIds": [
+                                    "aa2c91d3-23da-4dc2-b3b8-2d92fe84968f",
+                                    "2e425c18-8399-431e-9f50-01d31845aaa9",
+                                    "41ee74fe-f6f7-4216-bdb7-a0f5e46d3cac",
+                                    "16e35003-d680-49b3-ac14-bfb708324108",
+                                    "d6d8ca55-421d-464c-a57a-d420d532b5bb",
+                                    "51073371-bdfb-4822-b3ca-fc1ca7c5b693",
+                                    "ad0ded5a-ee68-4584-a478-31bc77d13592",
+                                    "2ce0a128-e447-4a61-a2bf-af21eac45431",
+                                    "5d8c08b6-2c3d-411e-b745-71fc0c714565",
+                                    "b7597eaa-f386-4c0d-8d1a-173ce4d6af8c",
+                                    "d9cb3e3b-ec53-486f-9418-59c08b250a03",
+                                    "ef9af395-fd8f-49f1-9059-c3ba0aa7e1ee",
+                                    "3ca7fe8f-b839-416b-8fe0-d5acc91413b4"
+                                ],
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:59.3",
+                                "start": "0:00:00",
+                                "end": "0:00:59.3"
+                            }
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "id": 0,
+                        "name": "person",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9998,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:04.271",
+                                "start": "0:00:00",
+                                "end": "0:00:04.271"
+                            },
+                            {
+                                "confidence": 0.9998,
+                                "adjustedStart": "0:00:04.272",
+                                "adjustedEnd": "0:00:06.406",
+                                "start": "0:00:04.272",
+                                "end": "0:00:06.406"
+                            },
+                            {
+                                "confidence": 0.9998,
+                                "adjustedStart": "0:00:06.407",
+                                "adjustedEnd": "0:00:13.881",
+                                "start": "0:00:06.407",
+                                "end": "0:00:13.881"
+                            },
+                            {
+                                "confidence": 0.9997,
+                                "adjustedStart": "0:00:13.882",
+                                "adjustedEnd": "0:00:16.016",
+                                "start": "0:00:13.882",
+                                "end": "0:00:16.016"
+                            },
+                            {
+                                "confidence": 0.9998,
+                                "adjustedStart": "0:00:16.017",
+                                "adjustedEnd": "0:00:23.491",
+                                "start": "0:00:16.017",
+                                "end": "0:00:23.491"
+                            },
+                            {
+                                "confidence": 0.9997,
+                                "adjustedStart": "0:00:23.492",
+                                "adjustedEnd": "0:00:25.626",
+                                "start": "0:00:23.492",
+                                "end": "0:00:25.626"
+                            },
+                            {
+                                "confidence": 0.9997,
+                                "adjustedStart": "0:00:25.627",
+                                "adjustedEnd": "0:00:33.101",
+                                "start": "0:00:25.627",
+                                "end": "0:00:33.101"
+                            },
+                            {
+                                "confidence": 0.9997,
+                                "adjustedStart": "0:00:33.102",
+                                "adjustedEnd": "0:00:35.236",
+                                "start": "0:00:33.102",
+                                "end": "0:00:35.236"
+                            },
+                            {
+                                "confidence": 0.9996,
+                                "adjustedStart": "0:00:35.237",
+                                "adjustedEnd": "0:00:42.711",
+                                "start": "0:00:35.237",
+                                "end": "0:00:42.711"
+                            },
+                            {
+                                "confidence": 0.9998,
+                                "adjustedStart": "0:00:42.712",
+                                "adjustedEnd": "0:00:44.846",
+                                "start": "0:00:42.712",
+                                "end": "0:00:44.846"
+                            },
+                            {
+                                "confidence": 0.9997,
+                                "adjustedStart": "0:00:44.847",
+                                "adjustedEnd": "0:00:52.321",
+                                "start": "0:00:44.847",
+                                "end": "0:00:52.321"
+                            },
+                            {
+                                "confidence": 0.9997,
+                                "adjustedStart": "0:00:52.322",
+                                "adjustedEnd": "0:00:54.456",
+                                "start": "0:00:52.322",
+                                "end": "0:00:54.456"
+                            },
+                            {
+                                "confidence": 0.9997,
+                                "adjustedStart": "0:00:54.457",
+                                "adjustedEnd": "0:00:59.361",
+                                "start": "0:00:54.457",
+                                "end": "0:00:59.361"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "wall",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9762,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:03.203",
+                                "start": "0:00:00",
+                                "end": "0:00:03.203"
+                            },
+                            {
+                                "confidence": 0.9552,
+                                "adjustedStart": "0:00:05.338",
+                                "adjustedEnd": "0:00:06.406",
+                                "start": "0:00:05.338",
+                                "end": "0:00:06.406"
+                            },
+                            {
+                                "confidence": 0.9684,
+                                "adjustedStart": "0:00:06.407",
+                                "adjustedEnd": "0:00:09.61",
+                                "start": "0:00:06.407",
+                                "end": "0:00:09.61"
+                            },
+                            {
+                                "confidence": 0.9665,
+                                "adjustedStart": "0:00:11.745",
+                                "adjustedEnd": "0:00:13.881",
+                                "start": "0:00:11.745",
+                                "end": "0:00:13.881"
+                            },
+                            {
+                                "confidence": 0.9608,
+                                "adjustedStart": "0:00:13.882",
+                                "adjustedEnd": "0:00:16.016",
+                                "start": "0:00:13.882",
+                                "end": "0:00:16.016"
+                            },
+                            {
+                                "confidence": 0.9694,
+                                "adjustedStart": "0:00:16.017",
+                                "adjustedEnd": "0:00:21.355",
+                                "start": "0:00:16.017",
+                                "end": "0:00:21.355"
+                            },
+                            {
+                                "confidence": 0.968,
+                                "adjustedStart": "0:00:23.492",
+                                "adjustedEnd": "0:00:25.626",
+                                "start": "0:00:23.492",
+                                "end": "0:00:25.626"
+                            },
+                            {
+                                "confidence": 0.9563,
+                                "adjustedStart": "0:00:26.695",
+                                "adjustedEnd": "0:00:27.762",
+                                "start": "0:00:26.695",
+                                "end": "0:00:27.762"
+                            },
+                            {
+                                "confidence": 0.9725,
+                                "adjustedStart": "0:00:29.898",
+                                "adjustedEnd": "0:00:30.965",
+                                "start": "0:00:29.898",
+                                "end": "0:00:30.965"
+                            },
+                            {
+                                "confidence": 0.9577,
+                                "adjustedStart": "0:00:36.305",
+                                "adjustedEnd": "0:00:37.372",
+                                "start": "0:00:36.305",
+                                "end": "0:00:37.372"
+                            },
+                            {
+                                "confidence": 0.9508,
+                                "adjustedStart": "0:00:40.575",
+                                "adjustedEnd": "0:00:41.643",
+                                "start": "0:00:40.575",
+                                "end": "0:00:41.643"
+                            },
+                            {
+                                "confidence": 0.9647,
+                                "adjustedStart": "0:00:48.05",
+                                "adjustedEnd": "0:00:51.253",
+                                "start": "0:00:48.05",
+                                "end": "0:00:51.253"
+                            },
+                            {
+                                "confidence": 0.9742,
+                                "adjustedStart": "0:00:53.388",
+                                "adjustedEnd": "0:00:54.456",
+                                "start": "0:00:53.388",
+                                "end": "0:00:54.456"
+                            },
+                            {
+                                "confidence": 0.9695,
+                                "adjustedStart": "0:00:54.457",
+                                "adjustedEnd": "0:00:59.361",
+                                "start": "0:00:54.457",
+                                "end": "0:00:59.361"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "indoor",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9666,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:04.271",
+                                "start": "0:00:00",
+                                "end": "0:00:04.271"
+                            },
+                            {
+                                "confidence": 0.9687,
+                                "adjustedStart": "0:00:04.272",
+                                "adjustedEnd": "0:00:06.406",
+                                "start": "0:00:04.272",
+                                "end": "0:00:06.406"
+                            },
+                            {
+                                "confidence": 0.9761,
+                                "adjustedStart": "0:00:06.407",
+                                "adjustedEnd": "0:00:13.881",
+                                "start": "0:00:06.407",
+                                "end": "0:00:13.881"
+                            },
+                            {
+                                "confidence": 0.9718,
+                                "adjustedStart": "0:00:13.882",
+                                "adjustedEnd": "0:00:16.016",
+                                "start": "0:00:13.882",
+                                "end": "0:00:16.016"
+                            },
+                            {
+                                "confidence": 0.9746,
+                                "adjustedStart": "0:00:16.017",
+                                "adjustedEnd": "0:00:23.491",
+                                "start": "0:00:16.017",
+                                "end": "0:00:23.491"
+                            },
+                            {
+                                "confidence": 0.9769,
+                                "adjustedStart": "0:00:23.492",
+                                "adjustedEnd": "0:00:25.626",
+                                "start": "0:00:23.492",
+                                "end": "0:00:25.626"
+                            },
+                            {
+                                "confidence": 0.9701,
+                                "adjustedStart": "0:00:25.627",
+                                "adjustedEnd": "0:00:33.101",
+                                "start": "0:00:25.627",
+                                "end": "0:00:33.101"
+                            },
+                            {
+                                "confidence": 0.9664,
+                                "adjustedStart": "0:00:33.102",
+                                "adjustedEnd": "0:00:35.236",
+                                "start": "0:00:33.102",
+                                "end": "0:00:35.236"
+                            },
+                            {
+                                "confidence": 0.9697,
+                                "adjustedStart": "0:00:35.237",
+                                "adjustedEnd": "0:00:42.711",
+                                "start": "0:00:35.237",
+                                "end": "0:00:42.711"
+                            },
+                            {
+                                "confidence": 0.9656,
+                                "adjustedStart": "0:00:42.712",
+                                "adjustedEnd": "0:00:44.846",
+                                "start": "0:00:42.712",
+                                "end": "0:00:44.846"
+                            },
+                            {
+                                "confidence": 0.9724,
+                                "adjustedStart": "0:00:44.847",
+                                "adjustedEnd": "0:00:52.321",
+                                "start": "0:00:44.847",
+                                "end": "0:00:52.321"
+                            },
+                            {
+                                "confidence": 0.9591,
+                                "adjustedStart": "0:00:52.322",
+                                "adjustedEnd": "0:00:54.456",
+                                "start": "0:00:52.322",
+                                "end": "0:00:54.456"
+                            },
+                            {
+                                "confidence": 0.9598,
+                                "adjustedStart": "0:00:54.457",
+                                "adjustedEnd": "0:00:59.361",
+                                "start": "0:00:54.457",
+                                "end": "0:00:59.361"
+                            }
+                        ]
+                    }
+                ],
+                "shots": [
+                    {
+                        "id": 0,
+                        "keyFrames": [
+                            {
+                                "id": 0,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "33a727bf-e245-4dd4-8732-0f3069a57bd2",
+                                        "adjustedStart": "0:00:00.2",
+                                        "adjustedEnd": "0:00:00.233",
+                                        "start": "0:00:00.2",
+                                        "end": "0:00:00.233"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "ea8559f5-b9b6-456f-8800-a345ccd5ab5f",
+                                        "adjustedStart": "0:00:08.308",
+                                        "adjustedEnd": "0:00:08.341",
+                                        "start": "0:00:08.308",
+                                        "end": "0:00:08.341"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "b199b1c8-2c8c-41f0-a766-8a114ad781d6",
+                                        "adjustedStart": "0:00:57.46",
+                                        "adjustedEnd": "0:00:57.493",
+                                        "start": "0:00:57.46",
+                                        "end": "0:00:57.493"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00.2",
+                                "adjustedEnd": "0:00:59.362",
+                                "start": "0:00:00.2",
+                                "end": "0:00:59.362"
+                            }
+                        ]
+                    }
+                ],
+                "sentiments": [
+                    {
+                        "id": 0,
+                        "averageScore": 0.4725,
+                        "sentimentType": "Neutral",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:07.04",
+                                "start": "0:00:00",
+                                "end": "0:00:07.04"
+                            },
+                            {
+                                "adjustedStart": "0:00:07.29",
+                                "adjustedEnd": "0:00:59.376",
+                                "start": "0:00:07.29",
+                                "end": "0:00:59.376"
+                            }
+                        ]
+                    }
+                ],
+                "blocks": [
+                    {
+                        "id": 0,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:45.17",
+                                "start": "0:00:00",
+                                "end": "0:00:45.17"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:45.17",
+                                "adjustedEnd": "0:00:59.376",
+                                "start": "0:00:45.17",
+                                "end": "0:00:59.376"
+                            }
+                        ]
+                    }
+                ],
+                "speakers": [
+                    {
+                        "id": 1,
+                        "name": "Speaker #1",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:07.04",
+                                "start": "0:00:00",
+                                "end": "0:00:07.04"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Speaker #2",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:07.29",
+                                "adjustedEnd": "0:00:59.376",
+                                "start": "0:00:07.29",
+                                "end": "0:00:59.376"
+                            }
+                        ]
+                    }
+                ],
+                "textualContentModeration": {
+                    "id": 0,
+                    "bannedWordsCount": 0,
+                    "bannedWordsRatio": 0,
+                    "instances": []
+                },
+                "statistics": {
+                    "correspondenceCount": 1,
+                    "speakerTalkToListenRatio": {
+                        "1": 0.189,
+                        "2": 0.81
+                    },
+                    "speakerLongestMonolog": {
+                        "1": 10,
+                        "2": 46
+                    },
+                    "speakerNumberOfFragments": {
+                        "1": 1,
+                        "2": 3
+                    },
+                    "speakerWordCount": {
+                        "1": 3,
+                        "2": 3
+                    }
+                },
+                "sourceLanguageConfidence": 1
+            },
+            "thumbnailId": "a82ed7ac-9cc2-41f0-96d0-96ee3d4d0e70",
+            "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/cc0a3cf9-6a3b-46a9-8fb6-f76ae5f3fcd3/f6586b24-0d2a-436c-8592-89c0f562.ism/manifest(encryption=cbc)",
+            "publishedProxyUrl": null,
+            "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiJhMGRmN2YyNi0zNWEyLTRhOGUtYjhlZS1hMTA3NDZmODgwYzAiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NDU5MjUxMTksIm5iZiI6MTU0NTgzODY1OX0.jbnhxGKBJ-Kx00vXNtKA94DOMq8QZx9oLtGaoV_Wank",
+            "detectSourceLanguage": false,
+            "sourceLanguage": "ja-JP",
+            "language": "ja-JP",
+            "indexingPreset": "Default",
+            "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+            "personModelId": "00000000-0000-0000-0000-000000000000",
+            "isAdult": false
+        }
+    ],
+    "videosRanges": [
+        {
+            "videoId": "bb1fd91d1a",
+            "range": {
+                "start": "0:00:00",
+                "end": "0:00:59.456"
+            }
+        }
+    ]
+}

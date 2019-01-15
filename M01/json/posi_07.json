@@ -1,0 +1,676 @@
+{
+    "accountId": "7ef52027-e24c-4ead-8353-106298b23434",
+    "id": "5e4d56791c",
+    "partition": null,
+    "name": "posi_07",
+    "description": null,
+    "userName": "",
+    "created": "2019-01-01T14:30:51.6949098+00:00",
+    "privacyMode": "Private",
+    "state": "Processed",
+    "isOwned": true,
+    "isEditable": true,
+    "isBase": true,
+    "durationInSeconds": 25,
+    "summarizedInsights": {
+        "name": "posi_07",
+        "id": "5e4d56791c",
+        "privacyMode": "Private",
+        "duration": {
+            "time": "0:00:25.856",
+            "seconds": 25.9
+        },
+        "thumbnailVideoId": "5e4d56791c",
+        "thumbnailId": "ddb5ad3f-ecf1-4c49-9c66-79c41e6ff681",
+        "faces": [
+            {
+                "id": 1002,
+                "videoId": "5e4d56791c",
+                "referenceId": null,
+                "referenceType": "Bing",
+                "knownPersonId": "00000000-0000-0000-0000-000000000000",
+                "confidence": 0,
+                "name": "Unknown #1",
+                "description": null,
+                "title": null,
+                "thumbnailId": "971e47d2-81fb-46d2-90cf-0a4f7d244cff",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:25.319",
+                        "startSeconds": 0,
+                        "endSeconds": 25.3
+                    }
+                ],
+                "seenDuration": 25.3,
+                "seenDurationRatio": 0.9785
+            }
+        ],
+        "keywords": [],
+        "sentiments": [
+            {
+                "sentimentKey": "Positive",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:24.01",
+                        "startSeconds": 0,
+                        "endSeconds": 24
+                    }
+                ],
+                "seenDurationRatio": 0.9286
+            },
+            {
+                "sentimentKey": "Neutral",
+                "appearances": [
+                    {
+                        "startTime": "0:00:24.01",
+                        "endTime": "0:00:25.823",
+                        "startSeconds": 24,
+                        "endSeconds": 25.8
+                    }
+                ],
+                "seenDurationRatio": 0.0701
+            }
+        ],
+        "emotions": [
+            {
+                "type": "Joy",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:24.01",
+                        "startSeconds": 0,
+                        "endSeconds": 24
+                    }
+                ],
+                "seenDurationRatio": 0.9286
+            }
+        ],
+        "audioEffects": [],
+        "labels": [
+            {
+                "id": 0,
+                "name": "sign",
+                "appearances": [
+                    {
+                        "startTime": "0:00:01.335",
+                        "endTime": "0:00:04.004",
+                        "startSeconds": 1.3,
+                        "endSeconds": 4
+                    },
+                    {
+                        "startTime": "0:00:08.008",
+                        "endTime": "0:00:13.347",
+                        "startSeconds": 8,
+                        "endSeconds": 13.3
+                    },
+                    {
+                        "startTime": "0:00:17.351",
+                        "endTime": "0:00:25.359",
+                        "startSeconds": 17.4,
+                        "endSeconds": 25.4
+                    }
+                ]
+            }
+        ],
+        "brands": [
+            {
+                "id": 1,
+                "name": "Rakuten",
+                "referenceId": "Rakuten",
+                "referenceUrl": "http://en.wikipedia.org/wiki/Rakuten",
+                "confidence": 1,
+                "description": "Rakuten, Inc. is a Japanese electronic commerce and Internet company based in Tokyo, Japan. Its B2B2C e-commerce platform Rakuten Ichiba is the largest e-commerce site in Japan and among the world’s largest by sales.",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:00.918",
+                        "startSeconds": 0,
+                        "endSeconds": 0.9
+                    }
+                ],
+                "seenDuration": 0.9
+            }
+        ],
+        "statistics": {
+            "correspondenceCount": 0,
+            "speakerTalkToListenRatio": {
+                "1": 1
+            },
+            "speakerLongestMonolog": {
+                "1": 24
+            },
+            "speakerNumberOfFragments": {
+                "1": 1
+            },
+            "speakerWordCount": {
+                "1": 1
+            }
+        },
+        "topics": []
+    },
+    "videos": [
+        {
+            "accountId": "7ef52027-e24c-4ead-8353-106298b23434",
+            "id": "5e4d56791c",
+            "state": "Processed",
+            "moderationState": "OK",
+            "reviewState": "None",
+            "privacyMode": "Private",
+            "processingProgress": "100%",
+            "failureCode": "None",
+            "failureMessage": "",
+            "externalId": null,
+            "externalUrl": null,
+            "metadata": null,
+            "insights": {
+                "version": "1.0.0.0",
+                "duration": "0:00:25.856",
+                "sourceLanguage": "ja-JP",
+                "language": "ja-JP",
+                "transcript": [
+                    {
+                        "id": 0,
+                        "text": "飲んでプルームをご覧の皆さんけみおです。こんにちは今ですね。奇妙あの欄を歩いてきたんですけど、お客さんがもう本当に元気いっぱいでぼくまで元気がいっぱいもらっちゃいました。もうすぐで僕はアメリカに帰るんですけど、アメリカに帰る前に良いチャージができたらって感じです。みんなありがとうそしてこれからですね。どこもインタビューの記事がこれから上がるので、よかったらみんなそれチェックしてくださいよろしくお願いします。バイバイ。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:24.01",
+                                "start": "0:00:00",
+                                "end": "0:00:24.01"
+                            }
+                        ]
+                    }
+                ],
+                "ocr": [
+                    {
+                        "id": 0,
+                        "text": "Rakuten",
+                        "confidence": 782.0372,
+                        "left": 913,
+                        "top": 525,
+                        "width": 119,
+                        "height": 31,
+                        "language": "de-DE",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:00.918",
+                                "start": "0:00:00",
+                                "end": "0:00:00.918"
+                            },
+                            {
+                                "adjustedStart": "0:00:01.835",
+                                "adjustedEnd": "0:00:03.212",
+                                "start": "0:00:01.835",
+                                "end": "0:00:03.212"
+                            },
+                            {
+                                "adjustedStart": "0:00:03.67",
+                                "adjustedEnd": "0:00:04.129",
+                                "start": "0:00:03.67",
+                                "end": "0:00:04.129"
+                            },
+                            {
+                                "adjustedStart": "0:00:04.588",
+                                "adjustedEnd": "0:00:05.965",
+                                "start": "0:00:04.588",
+                                "end": "0:00:05.965"
+                            },
+                            {
+                                "adjustedStart": "0:00:06.423",
+                                "adjustedEnd": "0:00:06.882",
+                                "start": "0:00:06.423",
+                                "end": "0:00:06.882"
+                            },
+                            {
+                                "adjustedStart": "0:00:08.717",
+                                "adjustedEnd": "0:00:10.094",
+                                "start": "0:00:08.717",
+                                "end": "0:00:10.094"
+                            },
+                            {
+                                "adjustedStart": "0:00:10.552",
+                                "adjustedEnd": "0:00:11.011",
+                                "start": "0:00:10.552",
+                                "end": "0:00:11.011"
+                            },
+                            {
+                                "adjustedStart": "0:00:11.47",
+                                "adjustedEnd": "0:00:11.929",
+                                "start": "0:00:11.47",
+                                "end": "0:00:11.929"
+                            },
+                            {
+                                "adjustedStart": "0:00:12.387",
+                                "adjustedEnd": "0:00:12.846",
+                                "start": "0:00:12.387",
+                                "end": "0:00:12.846"
+                            },
+                            {
+                                "adjustedStart": "0:00:13.305",
+                                "adjustedEnd": "0:00:16.517",
+                                "start": "0:00:13.305",
+                                "end": "0:00:16.517"
+                            },
+                            {
+                                "adjustedStart": "0:00:20.187",
+                                "adjustedEnd": "0:00:21.563",
+                                "start": "0:00:20.187",
+                                "end": "0:00:21.563"
+                            },
+                            {
+                                "adjustedStart": "0:00:22.022",
+                                "adjustedEnd": "0:00:23.858",
+                                "start": "0:00:22.022",
+                                "end": "0:00:23.858"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "FEL",
+                        "confidence": 369.75,
+                        "left": 657,
+                        "top": 435,
+                        "width": 89,
+                        "height": 62,
+                        "language": "de-DE",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:02.294",
+                                "adjustedEnd": "0:00:02.753",
+                                "start": "0:00:02.294",
+                                "end": "0:00:02.753"
+                            },
+                            {
+                                "adjustedStart": "0:00:08.717",
+                                "adjustedEnd": "0:00:09.176",
+                                "start": "0:00:08.717",
+                                "end": "0:00:09.176"
+                            },
+                            {
+                                "adjustedStart": "0:00:21.104",
+                                "adjustedEnd": "0:00:21.563",
+                                "start": "0:00:21.104",
+                                "end": "0:00:21.563"
+                            }
+                        ]
+                    }
+                ],
+                "faces": [
+                    {
+                        "id": 1002,
+                        "name": "Unknown #1",
+                        "confidence": 0,
+                        "description": null,
+                        "thumbnailId": "971e47d2-81fb-46d2-90cf-0a4f7d244cff",
+                        "referenceId": null,
+                        "title": null,
+                        "imageUrl": null,
+                        "thumbnails": [
+                            {
+                                "id": "29a83c4b-9eb1-4d44-95d9-c2bae6cac0dc",
+                                "fileName": "FaceThumbnail_29a83c4b-9eb1-4d44-95d9-c2bae6cac0dc.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:00",
+                                        "adjustedEnd": "0:00:00.042",
+                                        "start": "0:00:00",
+                                        "end": "0:00:00.042"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b0a0066f-02fc-4c68-a97c-d0c52f09e6ec",
+                                "fileName": "FaceThumbnail_b0a0066f-02fc-4c68-a97c-d0c52f09e6ec.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:05.005",
+                                        "adjustedEnd": "0:00:05.047",
+                                        "start": "0:00:05.005",
+                                        "end": "0:00:05.047"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "d74ec899-c8f7-49ab-8bbf-a33494569345",
+                                "fileName": "FaceThumbnail_d74ec899-c8f7-49ab-8bbf-a33494569345.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:10.01",
+                                        "adjustedEnd": "0:00:10.052",
+                                        "start": "0:00:10.01",
+                                        "end": "0:00:10.052"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "376dfc76-70f9-4524-a322-fc167c39f5ab",
+                                "fileName": "FaceThumbnail_376dfc76-70f9-4524-a322-fc167c39f5ab.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:15.015",
+                                        "adjustedEnd": "0:00:15.057",
+                                        "start": "0:00:15.015",
+                                        "end": "0:00:15.057"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "971e47d2-81fb-46d2-90cf-0a4f7d244cff",
+                                "fileName": "FaceThumbnail_971e47d2-81fb-46d2-90cf-0a4f7d244cff.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:18.602",
+                                        "adjustedEnd": "0:00:18.644",
+                                        "start": "0:00:18.602",
+                                        "end": "0:00:18.644"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b6217c5d-56e7-4ca9-9667-5ec27e87e641",
+                                "fileName": "FaceThumbnail_b6217c5d-56e7-4ca9-9667-5ec27e87e641.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:20.02",
+                                        "adjustedEnd": "0:00:20.062",
+                                        "start": "0:00:20.02",
+                                        "end": "0:00:20.062"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "thumbnailsIds": [
+                                    "29a83c4b-9eb1-4d44-95d9-c2bae6cac0dc",
+                                    "b0a0066f-02fc-4c68-a97c-d0c52f09e6ec",
+                                    "d74ec899-c8f7-49ab-8bbf-a33494569345",
+                                    "376dfc76-70f9-4524-a322-fc167c39f5ab",
+                                    "971e47d2-81fb-46d2-90cf-0a4f7d244cff",
+                                    "b6217c5d-56e7-4ca9-9667-5ec27e87e641"
+                                ],
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:25.319",
+                                "start": "0:00:00",
+                                "end": "0:00:25.319"
+                            }
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "id": 0,
+                        "name": "sign",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9479,
+                                "adjustedStart": "0:00:01.335",
+                                "adjustedEnd": "0:00:04.004",
+                                "start": "0:00:01.335",
+                                "end": "0:00:04.004"
+                            },
+                            {
+                                "confidence": 0.9372,
+                                "adjustedStart": "0:00:08.008",
+                                "adjustedEnd": "0:00:10.678",
+                                "start": "0:00:08.008",
+                                "end": "0:00:10.678"
+                            },
+                            {
+                                "confidence": 0.8197,
+                                "adjustedStart": "0:00:12.012",
+                                "adjustedEnd": "0:00:13.347",
+                                "start": "0:00:12.012",
+                                "end": "0:00:13.347"
+                            },
+                            {
+                                "confidence": 0.8264,
+                                "adjustedStart": "0:00:17.351",
+                                "adjustedEnd": "0:00:18.686",
+                                "start": "0:00:17.351",
+                                "end": "0:00:18.686"
+                            },
+                            {
+                                "confidence": 0.947,
+                                "adjustedStart": "0:00:20.02",
+                                "adjustedEnd": "0:00:25.359",
+                                "start": "0:00:20.02",
+                                "end": "0:00:25.359"
+                            }
+                        ]
+                    }
+                ],
+                "shots": [
+                    {
+                        "id": 0,
+                        "keyFrames": [
+                            {
+                                "id": 0,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "0fedecb6-54e8-4840-9560-bf4e354b5c65",
+                                        "adjustedStart": "0:00:00.209",
+                                        "adjustedEnd": "0:00:00.251",
+                                        "start": "0:00:00.209",
+                                        "end": "0:00:00.251"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "9635ff2f-ad23-402c-ac31-8547a12c40e1",
+                                        "adjustedStart": "0:00:00.25",
+                                        "adjustedEnd": "0:00:00.292",
+                                        "start": "0:00:00.25",
+                                        "end": "0:00:00.292"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:25.108",
+                                "start": "0:00:00",
+                                "end": "0:00:25.108"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "keyFrames": [
+                            {
+                                "id": 2,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "2cb546b2-0d83-4351-85b5-2e5f364379f0",
+                                        "adjustedStart": "0:00:25.108",
+                                        "adjustedEnd": "0:00:25.15",
+                                        "start": "0:00:25.108",
+                                        "end": "0:00:25.15"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "a6514c90-e946-4c60-ba98-65e056039f3d",
+                                        "adjustedStart": "0:00:25.275",
+                                        "adjustedEnd": "0:00:25.317",
+                                        "start": "0:00:25.275",
+                                        "end": "0:00:25.317"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "f08a8880-307d-4abd-a8af-6152a6b423a7",
+                                        "adjustedStart": "0:00:25.484",
+                                        "adjustedEnd": "0:00:25.526",
+                                        "start": "0:00:25.484",
+                                        "end": "0:00:25.526"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:25.108",
+                                "adjustedEnd": "0:00:25.818",
+                                "start": "0:00:25.108",
+                                "end": "0:00:25.818"
+                            }
+                        ]
+                    }
+                ],
+                "brands": [
+                    {
+                        "id": 1,
+                        "name": "Rakuten",
+                        "referenceId": "Rakuten",
+                        "referenceUrl": "http://en.wikipedia.org/wiki/Rakuten",
+                        "referenceType": "Wiki",
+                        "description": "Rakuten, Inc. is a Japanese electronic commerce and Internet company based in Tokyo, Japan. Its B2B2C e-commerce platform Rakuten Ichiba is the largest e-commerce site in Japan and among the world’s largest by sales.",
+                        "tags": [],
+                        "confidence": 1,
+                        "isCustom": false,
+                        "instances": [
+                            {
+                                "brandType": "Ocr",
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:00.918",
+                                "start": "0:00:00",
+                                "end": "0:00:00.918"
+                            }
+                        ]
+                    }
+                ],
+                "sentiments": [
+                    {
+                        "id": 0,
+                        "averageScore": 0.9561,
+                        "sentimentType": "Positive",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:24.01",
+                                "start": "0:00:00",
+                                "end": "0:00:24.01"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "averageScore": 0.5,
+                        "sentimentType": "Neutral",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:24.01",
+                                "adjustedEnd": "0:00:25.823",
+                                "start": "0:00:24.01",
+                                "end": "0:00:25.823"
+                            }
+                        ]
+                    }
+                ],
+                "emotions": [
+                    {
+                        "id": 0,
+                        "type": "Joy",
+                        "instances": [
+                            {
+                                "confidence": 0.7075,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:24.01",
+                                "start": "0:00:00",
+                                "end": "0:00:24.01"
+                            }
+                        ]
+                    }
+                ],
+                "blocks": [
+                    {
+                        "id": 0,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:25.823",
+                                "start": "0:00:00",
+                                "end": "0:00:25.823"
+                            }
+                        ]
+                    }
+                ],
+                "speakers": [
+                    {
+                        "id": 1,
+                        "name": "Speaker #1",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:25.823",
+                                "start": "0:00:00",
+                                "end": "0:00:25.823"
+                            }
+                        ]
+                    }
+                ],
+                "textualContentModeration": {
+                    "id": 0,
+                    "bannedWordsCount": 0,
+                    "bannedWordsRatio": 0,
+                    "instances": []
+                },
+                "statistics": {
+                    "correspondenceCount": 0,
+                    "speakerTalkToListenRatio": {
+                        "1": 1
+                    },
+                    "speakerLongestMonolog": {
+                        "1": 24
+                    },
+                    "speakerNumberOfFragments": {
+                        "1": 1
+                    },
+                    "speakerWordCount": {
+                        "1": 1
+                    }
+                },
+                "sourceLanguageConfidence": 1
+            },
+            "thumbnailId": "ddb5ad3f-ecf1-4c49-9c66-79c41e6ff681",
+            "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/e281a8fc-3add-4738-a9a1-c6e13bafc3f0/94046b35-c4c9-496b-87d8-522441f3.ism/manifest(encryption=cbc)",
+            "publishedProxyUrl": null,
+            "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiJiODg1MWZiOC0zNmE1LTRkNzYtOGU4Ni1mYzMxYTY1YjExYjMiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NDY0NDE2MTQsIm5iZiI6MTU0NjM1NTE1NH0.PX4ZC2cE3y3YZtF9ojT5yWm8w-xsvQbD4y0OPoDVIG4",
+            "detectSourceLanguage": false,
+            "sourceLanguage": "ja-JP",
+            "language": "ja-JP",
+            "indexingPreset": "Default",
+            "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+            "personModelId": "00000000-0000-0000-0000-000000000000",
+            "isAdult": false
+        }
+    ],
+    "videosRanges": [
+        {
+            "videoId": "5e4d56791c",
+            "range": {
+                "start": "0:00:00",
+                "end": "0:00:25.856"
+            }
+        }
+    ]
+}

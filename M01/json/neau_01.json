@@ -1,0 +1,4410 @@
+{
+    "accountId": "7ef52027-e24c-4ead-8353-106298b23434",
+    "id": "02378533c9",
+    "partition": null,
+    "name": "neau_01",
+    "description": null,
+    "userName": "",
+    "created": "2019-01-01T14:48:39.3315514+00:00",
+    "privacyMode": "Private",
+    "state": "Processed",
+    "isOwned": true,
+    "isEditable": true,
+    "isBase": true,
+    "durationInSeconds": 107,
+    "summarizedInsights": {
+        "name": "neau_01",
+        "id": "02378533c9",
+        "privacyMode": "Private",
+        "duration": {
+            "time": "0:01:47.328",
+            "seconds": 107.3
+        },
+        "thumbnailVideoId": "02378533c9",
+        "thumbnailId": "eb8e4e50-b2d1-4a2d-84a7-2bf283ac84fb",
+        "faces": [
+            {
+                "id": 2077,
+                "videoId": "02378533c9",
+                "referenceId": null,
+                "referenceType": "Bing",
+                "knownPersonId": "00000000-0000-0000-0000-000000000000",
+                "confidence": 0,
+                "name": "Unknown #1",
+                "description": null,
+                "title": null,
+                "thumbnailId": "78c85056-779c-497e-b98f-aa0dd8938edb",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:46.7",
+                        "startSeconds": 0,
+                        "endSeconds": 106.7
+                    }
+                ],
+                "seenDuration": 106.7,
+                "seenDurationRatio": 0.9941
+            }
+        ],
+        "keywords": [
+            {
+                "id": 0,
+                "name": "во",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:01",
+                        "startSeconds": 0,
+                        "endSeconds": 1
+                    },
+                    {
+                        "startTime": "0:00:11.5",
+                        "endTime": "0:00:12",
+                        "startSeconds": 11.5,
+                        "endSeconds": 12
+                    },
+                    {
+                        "startTime": "0:00:20",
+                        "endTime": "0:00:21",
+                        "startSeconds": 20,
+                        "endSeconds": 21
+                    },
+                    {
+                        "startTime": "0:00:25",
+                        "endTime": "0:00:25.5",
+                        "startSeconds": 25,
+                        "endSeconds": 25.5
+                    },
+                    {
+                        "startTime": "0:00:42.5",
+                        "endTime": "0:00:43.5",
+                        "startSeconds": 42.5,
+                        "endSeconds": 43.5
+                    },
+                    {
+                        "startTime": "0:00:50",
+                        "endTime": "0:00:50.5",
+                        "startSeconds": 50,
+                        "endSeconds": 50.5
+                    },
+                    {
+                        "startTime": "0:01:13.5",
+                        "endTime": "0:01:14",
+                        "startSeconds": 73.5,
+                        "endSeconds": 74
+                    },
+                    {
+                        "startTime": "0:01:24",
+                        "endTime": "0:01:24.5",
+                        "startSeconds": 84,
+                        "endSeconds": 84.5
+                    },
+                    {
+                        "startTime": "0:01:27.5",
+                        "endTime": "0:01:28.5",
+                        "startSeconds": 87.5,
+                        "endSeconds": 88.5
+                    }
+                ],
+                "isTranscript": false
+            },
+            {
+                "id": 1,
+                "name": "ех",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00.5",
+                        "endTime": "0:00:01",
+                        "startSeconds": 0.5,
+                        "endSeconds": 1
+                    },
+                    {
+                        "startTime": "0:00:11.5",
+                        "endTime": "0:00:12",
+                        "startSeconds": 11.5,
+                        "endSeconds": 12
+                    },
+                    {
+                        "startTime": "0:01:13.5",
+                        "endTime": "0:01:14",
+                        "startSeconds": 73.5,
+                        "endSeconds": 74
+                    },
+                    {
+                        "startTime": "0:01:28",
+                        "endTime": "0:01:28.5",
+                        "startSeconds": 88,
+                        "endSeconds": 88.5
+                    }
+                ],
+                "isTranscript": false
+            },
+            {
+                "id": 2,
+                "name": "тк",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00.5",
+                        "endTime": "0:00:01",
+                        "startSeconds": 0.5,
+                        "endSeconds": 1
+                    },
+                    {
+                        "startTime": "0:00:04.5",
+                        "endTime": "0:00:05",
+                        "startSeconds": 4.5,
+                        "endSeconds": 5
+                    },
+                    {
+                        "startTime": "0:00:50",
+                        "endTime": "0:00:50.5",
+                        "startSeconds": 50,
+                        "endSeconds": 50.5
+                    },
+                    {
+                        "startTime": "0:01:28",
+                        "endTime": "0:01:28.5",
+                        "startSeconds": 88,
+                        "endSeconds": 88.5
+                    }
+                ],
+                "isTranscript": false
+            }
+        ],
+        "sentiments": [
+            {
+                "sentimentKey": "Neutral",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:02.93",
+                        "startSeconds": 0,
+                        "endSeconds": 62.9
+                    },
+                    {
+                        "startTime": "0:01:23.03",
+                        "endTime": "0:01:47.279",
+                        "startSeconds": 83,
+                        "endSeconds": 107.3
+                    }
+                ],
+                "seenDurationRatio": 0.8123
+            },
+            {
+                "sentimentKey": "Negative",
+                "appearances": [
+                    {
+                        "startTime": "0:01:02.93",
+                        "endTime": "0:01:23.03",
+                        "startSeconds": 62.9,
+                        "endSeconds": 83
+                    }
+                ],
+                "seenDurationRatio": 0.1873
+            }
+        ],
+        "emotions": [
+            {
+                "type": "Fear",
+                "appearances": [
+                    {
+                        "startTime": "0:01:02.93",
+                        "endTime": "0:01:23.03",
+                        "startSeconds": 62.9,
+                        "endSeconds": 83
+                    }
+                ],
+                "seenDurationRatio": 0.1873
+            }
+        ],
+        "audioEffects": [],
+        "labels": [
+            {
+                "id": 1,
+                "name": "person",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:46.667",
+                        "startSeconds": 0,
+                        "endSeconds": 106.7
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "indoor",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:46.667",
+                        "startSeconds": 0,
+                        "endSeconds": 106.7
+                    }
+                ]
+            },
+            {
+                "id": 0,
+                "name": "wall",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:14.934",
+                        "startSeconds": 0,
+                        "endSeconds": 14.9
+                    },
+                    {
+                        "startTime": "0:00:18.133",
+                        "endTime": "0:00:20.267",
+                        "startSeconds": 18.1,
+                        "endSeconds": 20.3
+                    },
+                    {
+                        "startTime": "0:00:29.867",
+                        "endTime": "0:00:45.867",
+                        "startSeconds": 29.9,
+                        "endSeconds": 45.9
+                    },
+                    {
+                        "startTime": "0:00:50.133",
+                        "endTime": "0:01:20",
+                        "startSeconds": 50.1,
+                        "endSeconds": 80
+                    },
+                    {
+                        "startTime": "0:01:24.267",
+                        "endTime": "0:01:25.334",
+                        "startSeconds": 84.3,
+                        "endSeconds": 85.3
+                    },
+                    {
+                        "startTime": "0:01:39.2",
+                        "endTime": "0:01:41.334",
+                        "startSeconds": 99.2,
+                        "endSeconds": 101.3
+                    },
+                    {
+                        "startTime": "0:01:44.533",
+                        "endTime": "0:01:45.6",
+                        "startSeconds": 104.5,
+                        "endSeconds": 105.6
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "woman",
+                "appearances": [
+                    {
+                        "startTime": "0:00:33.067",
+                        "endTime": "0:00:36.267",
+                        "startSeconds": 33.1,
+                        "endSeconds": 36.3
+                    },
+                    {
+                        "startTime": "0:00:39.467",
+                        "endTime": "0:00:43.734",
+                        "startSeconds": 39.5,
+                        "endSeconds": 43.7
+                    },
+                    {
+                        "startTime": "0:01:06.133",
+                        "endTime": "0:01:09.334",
+                        "startSeconds": 66.1,
+                        "endSeconds": 69.3
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "young",
+                "appearances": [
+                    {
+                        "startTime": "0:00:41.6",
+                        "endTime": "0:00:42.667",
+                        "startSeconds": 41.6,
+                        "endSeconds": 42.7
+                    },
+                    {
+                        "startTime": "0:01:06.133",
+                        "endTime": "0:01:10.4",
+                        "startSeconds": 66.1,
+                        "endSeconds": 70.4
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "girl",
+                "appearances": [
+                    {
+                        "startTime": "0:00:07.467",
+                        "endTime": "0:00:08.534",
+                        "startSeconds": 7.5,
+                        "endSeconds": 8.5
+                    },
+                    {
+                        "startTime": "0:00:41.6",
+                        "endTime": "0:00:42.667",
+                        "startSeconds": 41.6,
+                        "endSeconds": 42.7
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "holding",
+                "appearances": [
+                    {
+                        "startTime": "0:00:10.667",
+                        "endTime": "0:00:11.734",
+                        "startSeconds": 10.7,
+                        "endSeconds": 11.7
+                    }
+                ]
+            }
+        ],
+        "brands": [],
+        "statistics": {
+            "correspondenceCount": 7,
+            "speakerTalkToListenRatio": {
+                "1": 0.194,
+                "2": 0.313,
+                "5": 0.059,
+                "6": 0.216,
+                "7": 0.037,
+                "8": 0.116,
+                "9": 0.063
+            },
+            "speakerLongestMonolog": {
+                "1": 18,
+                "2": 29,
+                "5": 5,
+                "6": 20,
+                "7": 3,
+                "8": 6,
+                "9": 5
+            },
+            "speakerNumberOfFragments": {
+                "1": 1,
+                "2": 5,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 3
+            },
+            "speakerWordCount": {
+                "1": 1,
+                "2": 5,
+                "5": 1,
+                "6": 1,
+                "7": 2,
+                "8": 3,
+                "9": 3
+            }
+        },
+        "topics": []
+    },
+    "videos": [
+        {
+            "accountId": "7ef52027-e24c-4ead-8353-106298b23434",
+            "id": "02378533c9",
+            "state": "Processed",
+            "moderationState": "OK",
+            "reviewState": "None",
+            "privacyMode": "Private",
+            "processingProgress": "100%",
+            "failureCode": "None",
+            "failureMessage": "",
+            "externalId": null,
+            "externalUrl": null,
+            "metadata": null,
+            "insights": {
+                "version": "1.0.0.0",
+                "duration": "0:01:47.328",
+                "sourceLanguage": "ja-JP",
+                "language": "ja-JP",
+                "transcript": [
+                    {
+                        "id": 0,
+                        "text": "あこいつの生活はいことで、今日の動画で都市伝説の対決をしたんですけど、私が一番つまらなかったっていうことで、私が覚めチャンネルで都市伝説を話すって言う罰ゲームになったので。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:02.3",
+                                "adjustedEnd": "0:00:20.39",
+                                "start": "0:00:02.3",
+                                "end": "0:00:20.39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "私は今から尋ねフルーツを話したいとおもいます。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:20.76",
+                                "adjustedEnd": "0:00:26.22",
+                                "start": "0:00:20.76",
+                                "end": "0:00:26.22"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "はい。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:27",
+                                "adjustedEnd": "0:00:27.6",
+                                "start": "0:00:27",
+                                "end": "0:00:27.6"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "text": "サザエさんの話した。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:28.69",
+                                "adjustedEnd": "0:00:33.05",
+                                "start": "0:00:28.69",
+                                "end": "0:00:33.05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "text": "私の支えさんもまだ最終かがガエル最終回がやってなくて色々言われているのはその一つなんですけど。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:36.78",
+                                "adjustedEnd": "0:00:52.63",
+                                "start": "0:00:36.78",
+                                "end": "0:00:52.63"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "text": "最終回の時に活動が。",
+                        "confidence": 1,
+                        "speakerId": 2,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:53.24",
+                                "adjustedEnd": "0:00:56.09",
+                                "start": "0:00:53.24",
+                                "end": "0:00:56.09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "text": "商店街のくじびきでハワイ旅行を当てたら人生の方が。",
+                        "confidence": 1,
+                        "speakerId": 5,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:56.91",
+                                "adjustedEnd": "0:01:02.45",
+                                "start": "0:00:56.91",
+                                "end": "0:01:02.45"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "text": "でみんなねいいのって家族全員でハワイ旅行に行くってことになって言ったらしいんですけど、その行きの飛行機で飛行機が事故で墜落しちゃったらしくて。",
+                        "confidence": 1,
+                        "speakerId": 6,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:02.93",
+                                "adjustedEnd": "0:01:23.03",
+                                "start": "0:01:02.93",
+                                "end": "0:01:23.03"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "text": "それで海を吸って。",
+                        "confidence": 1,
+                        "speakerId": 7,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:23.45",
+                                "adjustedEnd": "0:01:26.15",
+                                "start": "0:01:23.45",
+                                "end": "0:01:26.15"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "text": "みんな。",
+                        "confidence": 1,
+                        "speakerId": 7,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:26.54",
+                                "adjustedEnd": "0:01:27.3",
+                                "start": "0:01:26.54",
+                                "end": "0:01:27.3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "text": "サザエさんはサザエ肝臓我妻壁やわかめサラダ炭酸とかみんな。",
+                        "confidence": 1,
+                        "speakerId": 8,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:27.67",
+                                "adjustedEnd": "0:01:34.62",
+                                "start": "0:01:27.67",
+                                "end": "0:01:34.62"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "text": "自分の名前の同じ並ぶ。",
+                        "confidence": 1,
+                        "speakerId": 9,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:34.93",
+                                "adjustedEnd": "0:01:37.26",
+                                "start": "0:01:34.93",
+                                "end": "0:01:37.26"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "text": "は何？",
+                        "confidence": 0.9999,
+                        "speakerId": 9,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:37.66",
+                                "adjustedEnd": "0:01:38.34",
+                                "start": "0:01:37.66",
+                                "end": "0:01:38.34"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "text": "探偵いうすっごい。",
+                        "confidence": 1,
+                        "speakerId": 9,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:38.71",
+                                "adjustedEnd": "0:01:41.59",
+                                "start": "0:01:38.71",
+                                "end": "0:01:41.59"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "text": "乾いた自然でございます。",
+                        "confidence": 1,
+                        "speakerId": 8,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:42.2",
+                                "adjustedEnd": "0:01:44.02",
+                                "start": "0:01:42.2",
+                                "end": "0:01:44.02"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "text": "ありがとうございました。",
+                        "confidence": 1,
+                        "speakerId": 8,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:44.65",
+                                "adjustedEnd": "0:01:46.69",
+                                "start": "0:01:44.65",
+                                "end": "0:01:46.69"
+                            }
+                        ]
+                    }
+                ],
+                "ocr": [
+                    {
+                        "id": 0,
+                        "text": "100",
+                        "confidence": 500.1172,
+                        "left": 407,
+                        "top": 4,
+                        "width": 33,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:01",
+                                "start": "0:00:00",
+                                "end": "0:00:01"
+                            },
+                            {
+                                "adjustedStart": "0:00:02",
+                                "adjustedEnd": "0:00:02.5",
+                                "start": "0:00:02",
+                                "end": "0:00:02.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:04",
+                                "adjustedEnd": "0:00:05",
+                                "start": "0:00:04",
+                                "end": "0:00:05"
+                            },
+                            {
+                                "adjustedStart": "0:00:07",
+                                "adjustedEnd": "0:00:07.5",
+                                "start": "0:00:07",
+                                "end": "0:00:07.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:10.5",
+                                "adjustedEnd": "0:00:11",
+                                "start": "0:00:10.5",
+                                "end": "0:00:11"
+                            },
+                            {
+                                "adjustedStart": "0:00:11.5",
+                                "adjustedEnd": "0:00:12",
+                                "start": "0:00:11.5",
+                                "end": "0:00:12"
+                            },
+                            {
+                                "adjustedStart": "0:00:13",
+                                "adjustedEnd": "0:00:13.5",
+                                "start": "0:00:13",
+                                "end": "0:00:13.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:14",
+                                "adjustedEnd": "0:00:14.5",
+                                "start": "0:00:14",
+                                "end": "0:00:14.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:15",
+                                "adjustedEnd": "0:00:16",
+                                "start": "0:00:15",
+                                "end": "0:00:16"
+                            },
+                            {
+                                "adjustedStart": "0:00:16.5",
+                                "adjustedEnd": "0:00:17",
+                                "start": "0:00:16.5",
+                                "end": "0:00:17"
+                            },
+                            {
+                                "adjustedStart": "0:00:18",
+                                "adjustedEnd": "0:00:19",
+                                "start": "0:00:18",
+                                "end": "0:00:19"
+                            },
+                            {
+                                "adjustedStart": "0:00:19.5",
+                                "adjustedEnd": "0:00:20",
+                                "start": "0:00:19.5",
+                                "end": "0:00:20"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "во",
+                        "confidence": 684,
+                        "left": 393,
+                        "top": 208,
+                        "width": 26,
+                        "height": 14,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:01",
+                                "start": "0:00:00",
+                                "end": "0:00:01"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "EXTRA",
+                        "confidence": 476.602,
+                        "left": 598,
+                        "top": 690,
+                        "width": 71,
+                        "height": 18,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:00.5",
+                                "start": "0:00:00",
+                                "end": "0:00:00.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:01.5",
+                                "adjustedEnd": "0:00:02.5",
+                                "start": "0:00:01.5",
+                                "end": "0:00:02.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:04",
+                                "adjustedEnd": "0:00:05",
+                                "start": "0:00:04",
+                                "end": "0:00:05"
+                            },
+                            {
+                                "adjustedStart": "0:00:10",
+                                "adjustedEnd": "0:00:11",
+                                "start": "0:00:10",
+                                "end": "0:00:11"
+                            },
+                            {
+                                "adjustedStart": "0:00:12",
+                                "adjustedEnd": "0:00:17",
+                                "start": "0:00:12",
+                                "end": "0:00:17"
+                            },
+                            {
+                                "adjustedStart": "0:00:18",
+                                "adjustedEnd": "0:00:18.5",
+                                "start": "0:00:18",
+                                "end": "0:00:18.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:19.5",
+                                "adjustedEnd": "0:00:20",
+                                "start": "0:00:19.5",
+                                "end": "0:00:20"
+                            },
+                            {
+                                "adjustedStart": "0:00:31.5",
+                                "adjustedEnd": "0:00:32",
+                                "start": "0:00:31.5",
+                                "end": "0:00:32"
+                            },
+                            {
+                                "adjustedStart": "0:00:45",
+                                "adjustedEnd": "0:00:45.5",
+                                "start": "0:00:45",
+                                "end": "0:00:45.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:47.5",
+                                "adjustedEnd": "0:00:48",
+                                "start": "0:00:47.5",
+                                "end": "0:00:48"
+                            },
+                            {
+                                "adjustedStart": "0:00:56.5",
+                                "adjustedEnd": "0:00:57.5",
+                                "start": "0:00:56.5",
+                                "end": "0:00:57.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:17",
+                                "adjustedEnd": "0:01:17.5",
+                                "start": "0:01:17",
+                                "end": "0:01:17.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:18",
+                                "adjustedEnd": "0:01:18.5",
+                                "start": "0:01:18",
+                                "end": "0:01:18.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:19.5",
+                                "adjustedEnd": "0:01:20",
+                                "start": "0:01:19.5",
+                                "end": "0:01:20"
+                            },
+                            {
+                                "adjustedStart": "0:01:37.5",
+                                "adjustedEnd": "0:01:38",
+                                "start": "0:01:37.5",
+                                "end": "0:01:38"
+                            },
+                            {
+                                "adjustedStart": "0:01:38.5",
+                                "adjustedEnd": "0:01:39",
+                                "start": "0:01:38.5",
+                                "end": "0:01:39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "text": "90",
+                        "confidence": 568.5591,
+                        "left": 424,
+                        "top": 105,
+                        "width": 26,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:01",
+                                "start": "0:00:00",
+                                "end": "0:00:01"
+                            },
+                            {
+                                "adjustedStart": "0:00:01.5",
+                                "adjustedEnd": "0:00:02.5",
+                                "start": "0:00:01.5",
+                                "end": "0:00:02.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:04",
+                                "adjustedEnd": "0:00:05",
+                                "start": "0:00:04",
+                                "end": "0:00:05"
+                            },
+                            {
+                                "adjustedStart": "0:01:00",
+                                "adjustedEnd": "0:01:01",
+                                "start": "0:01:00",
+                                "end": "0:01:01"
+                            },
+                            {
+                                "adjustedStart": "0:01:01.5",
+                                "adjustedEnd": "0:01:02",
+                                "start": "0:01:01.5",
+                                "end": "0:01:02"
+                            },
+                            {
+                                "adjustedStart": "0:01:02.5",
+                                "adjustedEnd": "0:01:03",
+                                "start": "0:01:02.5",
+                                "end": "0:01:03"
+                            },
+                            {
+                                "adjustedStart": "0:01:04.5",
+                                "adjustedEnd": "0:01:05",
+                                "start": "0:01:04.5",
+                                "end": "0:01:05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "text": "ЕХТКА",
+                        "confidence": 301,
+                        "left": 532,
+                        "top": 676,
+                        "width": 67,
+                        "height": 17,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00.5",
+                                "adjustedEnd": "0:00:01",
+                                "start": "0:00:00.5",
+                                "end": "0:00:01"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "text": "JUNGLE",
+                        "confidence": 330.6914,
+                        "left": 984,
+                        "top": 362,
+                        "width": 88,
+                        "height": 35,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:02",
+                                "adjustedEnd": "0:00:02.5",
+                                "start": "0:00:02",
+                                "end": "0:00:02.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:05.5",
+                                "adjustedEnd": "0:00:07.5",
+                                "start": "0:00:05.5",
+                                "end": "0:00:07.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:16",
+                                "adjustedEnd": "0:00:16.5",
+                                "start": "0:00:16",
+                                "end": "0:00:16.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:18",
+                                "adjustedEnd": "0:00:18.5",
+                                "start": "0:00:18",
+                                "end": "0:00:18.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:45",
+                                "adjustedEnd": "0:00:45.5",
+                                "start": "0:00:45",
+                                "end": "0:00:45.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:54",
+                                "adjustedEnd": "0:00:54.5",
+                                "start": "0:00:54",
+                                "end": "0:00:54.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:57",
+                                "adjustedEnd": "0:00:57.5",
+                                "start": "0:00:57",
+                                "end": "0:00:57.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:13",
+                                "adjustedEnd": "0:01:13.5",
+                                "start": "0:01:13",
+                                "end": "0:01:13.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "text": "Happiness natural flower of du",
+                        "confidence": 639.8705,
+                        "left": 485,
+                        "top": 685,
+                        "width": 243,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:04",
+                                "adjustedEnd": "0:00:04.5",
+                                "start": "0:00:04",
+                                "end": "0:00:04.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:37",
+                                "adjustedEnd": "0:00:37.5",
+                                "start": "0:00:37",
+                                "end": "0:00:37.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:43.5",
+                                "adjustedEnd": "0:01:44",
+                                "start": "0:01:43.5",
+                                "end": "0:01:44"
+                            },
+                            {
+                                "adjustedStart": "0:01:45",
+                                "adjustedEnd": "0:01:45.5",
+                                "start": "0:01:45",
+                                "end": "0:01:45.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "text": "ТК",
+                        "confidence": 442.625,
+                        "left": 1022,
+                        "top": 289,
+                        "width": 46,
+                        "height": 32,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:04.5",
+                                "adjustedEnd": "0:00:05",
+                                "start": "0:00:04.5",
+                                "end": "0:00:05"
+                            },
+                            {
+                                "adjustedStart": "0:00:14",
+                                "adjustedEnd": "0:00:14.5",
+                                "start": "0:00:14",
+                                "end": "0:00:14.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:15.5",
+                                "adjustedEnd": "0:00:16",
+                                "start": "0:00:15.5",
+                                "end": "0:00:16"
+                            },
+                            {
+                                "adjustedStart": "0:00:20",
+                                "adjustedEnd": "0:00:20.5",
+                                "start": "0:00:20",
+                                "end": "0:00:20.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:41.5",
+                                "adjustedEnd": "0:01:42",
+                                "start": "0:01:41.5",
+                                "end": "0:01:42"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "text": "ов",
+                        "confidence": 327,
+                        "left": 677,
+                        "top": 703,
+                        "width": 14,
+                        "height": 17,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:04.5",
+                                "adjustedEnd": "0:00:05",
+                                "start": "0:00:04.5",
+                                "end": "0:00:05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "text": "90",
+                        "confidence": 520.3049,
+                        "left": 436,
+                        "top": 163,
+                        "width": 26,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:05",
+                                "adjustedEnd": "0:00:10",
+                                "start": "0:00:05",
+                                "end": "0:00:10"
+                            },
+                            {
+                                "adjustedStart": "0:00:45",
+                                "adjustedEnd": "0:00:45.5",
+                                "start": "0:00:45",
+                                "end": "0:00:45.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:46",
+                                "adjustedEnd": "0:00:46.5",
+                                "start": "0:00:46",
+                                "end": "0:00:46.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:49.5",
+                                "adjustedEnd": "0:00:50",
+                                "start": "0:00:49.5",
+                                "end": "0:00:50"
+                            },
+                            {
+                                "adjustedStart": "0:00:56.5",
+                                "adjustedEnd": "0:00:58.5",
+                                "start": "0:00:56.5",
+                                "end": "0:00:58.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "text": "Happiness is the natural flower of du",
+                        "confidence": 588.4218,
+                        "left": 457,
+                        "top": 680,
+                        "width": 248,
+                        "height": 29,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:06",
+                                "adjustedEnd": "0:00:07",
+                                "start": "0:00:06",
+                                "end": "0:00:07"
+                            },
+                            {
+                                "adjustedStart": "0:00:08",
+                                "adjustedEnd": "0:00:09",
+                                "start": "0:00:08",
+                                "end": "0:00:09"
+                            },
+                            {
+                                "adjustedStart": "0:01:13",
+                                "adjustedEnd": "0:01:13.5",
+                                "start": "0:01:13",
+                                "end": "0:01:13.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:19",
+                                "adjustedEnd": "0:01:20",
+                                "start": "0:01:19",
+                                "end": "0:01:20"
+                            },
+                            {
+                                "adjustedStart": "0:01:20.5",
+                                "adjustedEnd": "0:01:21",
+                                "start": "0:01:20.5",
+                                "end": "0:01:21"
+                            },
+                            {
+                                "adjustedStart": "0:01:23.5",
+                                "adjustedEnd": "0:01:24",
+                                "start": "0:01:23.5",
+                                "end": "0:01:24"
+                            },
+                            {
+                                "adjustedStart": "0:01:24.5",
+                                "adjustedEnd": "0:01:25",
+                                "start": "0:01:24.5",
+                                "end": "0:01:25"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "text": "MARES EVERYTHING SHIN",
+                        "confidence": 392.7949,
+                        "left": 481,
+                        "top": 685,
+                        "width": 231,
+                        "height": 20,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:07",
+                                "adjustedEnd": "0:00:07.5",
+                                "start": "0:00:07",
+                                "end": "0:00:07.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:08.5",
+                                "adjustedEnd": "0:00:09",
+                                "start": "0:00:08.5",
+                                "end": "0:00:09"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "text": "ness",
+                        "confidence": 434,
+                        "left": 523,
+                        "top": 662,
+                        "width": 29,
+                        "height": 9,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:07.5",
+                                "adjustedEnd": "0:00:08",
+                                "start": "0:00:07.5",
+                                "end": "0:00:08"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "text": "EXTRA",
+                        "confidence": 479.7737,
+                        "left": 581,
+                        "top": 638,
+                        "width": 67,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:06",
+                                "adjustedEnd": "0:00:10",
+                                "start": "0:00:06",
+                                "end": "0:00:10"
+                            },
+                            {
+                                "adjustedStart": "0:00:36.5",
+                                "adjustedEnd": "0:00:37.5",
+                                "start": "0:00:36.5",
+                                "end": "0:00:37.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:51.5",
+                                "adjustedEnd": "0:00:53.5",
+                                "start": "0:00:51.5",
+                                "end": "0:00:53.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:54",
+                                "adjustedEnd": "0:00:55",
+                                "start": "0:00:54",
+                                "end": "0:00:55"
+                            },
+                            {
+                                "adjustedStart": "0:01:04.5",
+                                "adjustedEnd": "0:01:05",
+                                "start": "0:01:04.5",
+                                "end": "0:01:05"
+                            },
+                            {
+                                "adjustedStart": "0:01:40",
+                                "adjustedEnd": "0:01:40.5",
+                                "start": "0:01:40",
+                                "end": "0:01:40.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:41.5",
+                                "adjustedEnd": "0:01:43",
+                                "start": "0:01:41.5",
+                                "end": "0:01:43"
+                            },
+                            {
+                                "adjustedStart": "0:01:43.5",
+                                "adjustedEnd": "0:01:44.5",
+                                "start": "0:01:43.5",
+                                "end": "0:01:44.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:45",
+                                "adjustedEnd": "0:01:46",
+                                "start": "0:01:45",
+                                "end": "0:01:46"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "text": "EVERYTHING SHI",
+                        "confidence": 450.2083,
+                        "left": 575,
+                        "top": 700,
+                        "width": 163,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:09",
+                                "adjustedEnd": "0:00:09.5",
+                                "start": "0:00:09",
+                                "end": "0:00:09.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:43.5",
+                                "adjustedEnd": "0:01:44",
+                                "start": "0:01:43.5",
+                                "end": "0:01:44"
+                            },
+                            {
+                                "adjustedStart": "0:01:45",
+                                "adjustedEnd": "0:01:45.5",
+                                "start": "0:01:45",
+                                "end": "0:01:45.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "text": "iGppinesöis the du",
+                        "confidence": 495,
+                        "left": 469,
+                        "top": 671,
+                        "width": 246,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:09.5",
+                                "adjustedEnd": "0:00:10",
+                                "start": "0:00:09.5",
+                                "end": "0:00:10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "text": "SHIN",
+                        "confidence": 292.75,
+                        "left": 683,
+                        "top": 669,
+                        "width": 39,
+                        "height": 13,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:06",
+                                "adjustedEnd": "0:00:07",
+                                "start": "0:00:06",
+                                "end": "0:00:07"
+                            },
+                            {
+                                "adjustedStart": "0:00:09.5",
+                                "adjustedEnd": "0:00:10",
+                                "start": "0:00:09.5",
+                                "end": "0:00:10"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 17,
+                        "text": "EVERYTHING",
+                        "confidence": 395,
+                        "left": 572,
+                        "top": 664,
+                        "width": 112,
+                        "height": 22,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:07.5",
+                                "adjustedEnd": "0:00:08.5",
+                                "start": "0:00:07.5",
+                                "end": "0:00:08.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "text": "90",
+                        "confidence": 516.0106,
+                        "left": 435,
+                        "top": 200,
+                        "width": 26,
+                        "height": 14,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:10",
+                                "adjustedEnd": "0:00:11",
+                                "start": "0:00:10",
+                                "end": "0:00:11"
+                            },
+                            {
+                                "adjustedStart": "0:00:11.5",
+                                "adjustedEnd": "0:00:15",
+                                "start": "0:00:11.5",
+                                "end": "0:00:15"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "text": "MAKES EVERYTHING SHIN",
+                        "confidence": 448.7917,
+                        "left": 487,
+                        "top": 699,
+                        "width": 253,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:10",
+                                "adjustedEnd": "0:00:11",
+                                "start": "0:00:10",
+                                "end": "0:00:11"
+                            },
+                            {
+                                "adjustedStart": "0:00:51.5",
+                                "adjustedEnd": "0:00:52",
+                                "start": "0:00:51.5",
+                                "end": "0:00:52"
+                            },
+                            {
+                                "adjustedStart": "0:01:44",
+                                "adjustedEnd": "0:01:44.5",
+                                "start": "0:01:44",
+                                "end": "0:01:44.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "text": "OL",
+                        "confidence": 451,
+                        "left": 818,
+                        "top": 412,
+                        "width": 24,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:11",
+                                "adjustedEnd": "0:00:11.5",
+                                "start": "0:00:11",
+                                "end": "0:00:11.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "text": "06",
+                        "confidence": 521.75,
+                        "left": 824,
+                        "top": 580,
+                        "width": 26,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:11",
+                                "adjustedEnd": "0:00:11.5",
+                                "start": "0:00:11",
+                                "end": "0:00:11.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:33",
+                                "adjustedEnd": "0:01:34",
+                                "start": "0:01:33",
+                                "end": "0:01:34"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 22,
+                        "text": "во",
+                        "confidence": 593.2656,
+                        "left": 446,
+                        "top": 294,
+                        "width": 23,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:11.5",
+                                "adjustedEnd": "0:00:12",
+                                "start": "0:00:11.5",
+                                "end": "0:00:12"
+                            },
+                            {
+                                "adjustedStart": "0:00:13",
+                                "adjustedEnd": "0:00:15",
+                                "start": "0:00:13",
+                                "end": "0:00:15"
+                            },
+                            {
+                                "adjustedStart": "0:00:18.5",
+                                "adjustedEnd": "0:00:19",
+                                "start": "0:00:18.5",
+                                "end": "0:00:19"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 23,
+                        "text": "ЕХПА",
+                        "confidence": 412.875,
+                        "left": 571,
+                        "top": 695,
+                        "width": 68,
+                        "height": 18,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:11.5",
+                                "adjustedEnd": "0:00:12",
+                                "start": "0:00:11.5",
+                                "end": "0:00:12"
+                            },
+                            {
+                                "adjustedStart": "0:00:18.5",
+                                "adjustedEnd": "0:00:19",
+                                "start": "0:00:18.5",
+                                "end": "0:00:19"
+                            },
+                            {
+                                "adjustedStart": "0:00:20.5",
+                                "adjustedEnd": "0:00:21",
+                                "start": "0:00:20.5",
+                                "end": "0:00:21"
+                            },
+                            {
+                                "adjustedStart": "0:01:01.5",
+                                "adjustedEnd": "0:01:02",
+                                "start": "0:01:01.5",
+                                "end": "0:01:02"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 24,
+                        "text": "JUNGLE",
+                        "confidence": 359,
+                        "left": 972,
+                        "top": 291,
+                        "width": 87,
+                        "height": 35,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:10",
+                                "adjustedEnd": "0:00:10.5",
+                                "start": "0:00:10",
+                                "end": "0:00:10.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 25,
+                        "text": "Happinessis the natural flower du",
+                        "confidence": 579.6,
+                        "left": 481,
+                        "top": 674,
+                        "width": 244,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:10",
+                                "adjustedEnd": "0:00:10.5",
+                                "start": "0:00:10",
+                                "end": "0:00:10.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 26,
+                        "text": "Happiness is the ",
+                        "confidence": 737.3333,
+                        "left": 486,
+                        "top": 679,
+                        "width": 107,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:10.5",
+                                "adjustedEnd": "0:00:11",
+                                "start": "0:00:10.5",
+                                "end": "0:00:11"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 27,
+                        "text": "001",
+                        "confidence": 316.75,
+                        "left": 807,
+                        "top": 687,
+                        "width": 33,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:11",
+                                "adjustedEnd": "0:00:11.5",
+                                "start": "0:00:11",
+                                "end": "0:00:11.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:33",
+                                "adjustedEnd": "0:01:34",
+                                "start": "0:01:33",
+                                "end": "0:01:34"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 28,
+                        "text": "90",
+                        "confidence": 586.0918,
+                        "left": 442,
+                        "top": 147,
+                        "width": 26,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:15",
+                                "adjustedEnd": "0:00:17",
+                                "start": "0:00:15",
+                                "end": "0:00:17"
+                            },
+                            {
+                                "adjustedStart": "0:00:18",
+                                "adjustedEnd": "0:00:19",
+                                "start": "0:00:18",
+                                "end": "0:00:19"
+                            },
+                            {
+                                "adjustedStart": "0:00:19.5",
+                                "adjustedEnd": "0:00:22",
+                                "start": "0:00:19.5",
+                                "end": "0:00:22"
+                            },
+                            {
+                                "adjustedStart": "0:00:24",
+                                "adjustedEnd": "0:00:25",
+                                "start": "0:00:24",
+                                "end": "0:00:25"
+                            },
+                            {
+                                "adjustedStart": "0:00:50",
+                                "adjustedEnd": "0:00:50.5",
+                                "start": "0:00:50",
+                                "end": "0:00:50.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:51.5",
+                                "adjustedEnd": "0:00:55",
+                                "start": "0:00:51.5",
+                                "end": "0:00:55"
+                            },
+                            {
+                                "adjustedStart": "0:01:41.5",
+                                "adjustedEnd": "0:01:44.5",
+                                "start": "0:01:41.5",
+                                "end": "0:01:44.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:45",
+                                "adjustedEnd": "0:01:46",
+                                "start": "0:01:45",
+                                "end": "0:01:46"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 29,
+                        "text": "лмш",
+                        "confidence": 285,
+                        "left": 1001,
+                        "top": 342,
+                        "width": 89,
+                        "height": 34,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:15.5",
+                                "adjustedEnd": "0:00:16",
+                                "start": "0:00:15.5",
+                                "end": "0:00:16"
+                            },
+                            {
+                                "adjustedStart": "0:01:41.5",
+                                "adjustedEnd": "0:01:42",
+                                "start": "0:01:41.5",
+                                "end": "0:01:42"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 30,
+                        "text": "naturåi flower of du",
+                        "confidence": 486.6,
+                        "left": 559,
+                        "top": 701,
+                        "width": 192,
+                        "height": 19,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:16",
+                                "adjustedEnd": "0:00:16.5",
+                                "start": "0:00:16",
+                                "end": "0:00:16.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:21.5",
+                                "adjustedEnd": "0:01:22",
+                                "start": "0:01:21.5",
+                                "end": "0:01:22"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "text": "EXTRA",
+                        "confidence": 490.3438,
+                        "left": 585,
+                        "top": 699,
+                        "width": 69,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:20",
+                                "adjustedEnd": "0:00:20.5",
+                                "start": "0:00:20",
+                                "end": "0:00:20.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:21",
+                                "adjustedEnd": "0:00:22",
+                                "start": "0:00:21",
+                                "end": "0:00:22"
+                            },
+                            {
+                                "adjustedStart": "0:00:24",
+                                "adjustedEnd": "0:00:25.5",
+                                "start": "0:00:24",
+                                "end": "0:00:25.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:27",
+                                "adjustedEnd": "0:00:28",
+                                "start": "0:00:27",
+                                "end": "0:00:28"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 32,
+                        "text": "100",
+                        "confidence": 450.8843,
+                        "left": 456,
+                        "top": 32,
+                        "width": 32,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:20.5",
+                                "adjustedEnd": "0:00:21",
+                                "start": "0:00:20.5",
+                                "end": "0:00:21"
+                            },
+                            {
+                                "adjustedStart": "0:00:21.5",
+                                "adjustedEnd": "0:00:22",
+                                "start": "0:00:21.5",
+                                "end": "0:00:22"
+                            },
+                            {
+                                "adjustedStart": "0:00:24.5",
+                                "adjustedEnd": "0:00:25",
+                                "start": "0:00:24.5",
+                                "end": "0:00:25"
+                            },
+                            {
+                                "adjustedStart": "0:00:30.5",
+                                "adjustedEnd": "0:00:31",
+                                "start": "0:00:30.5",
+                                "end": "0:00:31"
+                            },
+                            {
+                                "adjustedStart": "0:00:31.5",
+                                "adjustedEnd": "0:00:32",
+                                "start": "0:00:31.5",
+                                "end": "0:00:32"
+                            },
+                            {
+                                "adjustedStart": "0:00:50",
+                                "adjustedEnd": "0:00:50.5",
+                                "start": "0:00:50",
+                                "end": "0:00:50.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:51.5",
+                                "adjustedEnd": "0:00:54.5",
+                                "start": "0:00:51.5",
+                                "end": "0:00:54.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:17",
+                                "adjustedEnd": "0:01:18.5",
+                                "start": "0:01:17",
+                                "end": "0:01:18.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:19",
+                                "adjustedEnd": "0:01:20",
+                                "start": "0:01:19",
+                                "end": "0:01:20"
+                            },
+                            {
+                                "adjustedStart": "0:01:31",
+                                "adjustedEnd": "0:01:31.5",
+                                "start": "0:01:31",
+                                "end": "0:01:31.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:37.5",
+                                "adjustedEnd": "0:01:38",
+                                "start": "0:01:37.5",
+                                "end": "0:01:38"
+                            },
+                            {
+                                "adjustedStart": "0:01:40",
+                                "adjustedEnd": "0:01:40.5",
+                                "start": "0:01:40",
+                                "end": "0:01:40.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:42.5",
+                                "adjustedEnd": "0:01:43.5",
+                                "start": "0:01:42.5",
+                                "end": "0:01:43.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 33,
+                        "text": "во",
+                        "confidence": 589.125,
+                        "left": 427,
+                        "top": 315,
+                        "width": 24,
+                        "height": 16,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:20",
+                                "adjustedEnd": "0:00:21",
+                                "start": "0:00:20",
+                                "end": "0:00:21"
+                            },
+                            {
+                                "adjustedStart": "0:01:45.5",
+                                "adjustedEnd": "0:01:46",
+                                "start": "0:01:45.5",
+                                "end": "0:01:46"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 34,
+                        "text": "оь",
+                        "confidence": 611,
+                        "left": 837,
+                        "top": 438,
+                        "width": 25,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:23",
+                                "adjustedEnd": "0:00:23.5",
+                                "start": "0:00:23",
+                                "end": "0:00:23.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 35,
+                        "text": "06",
+                        "confidence": 602,
+                        "left": 851,
+                        "top": 512,
+                        "width": 26,
+                        "height": 16,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:23",
+                                "adjustedEnd": "0:00:23.5",
+                                "start": "0:00:23",
+                                "end": "0:00:23.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 36,
+                        "text": "001",
+                        "confidence": 255.5,
+                        "left": 871,
+                        "top": 608,
+                        "width": 33,
+                        "height": 19,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:23",
+                                "adjustedEnd": "0:00:23.5",
+                                "start": "0:00:23",
+                                "end": "0:00:23.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:31",
+                                "adjustedEnd": "0:00:31.5",
+                                "start": "0:00:31",
+                                "end": "0:00:31.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 37,
+                        "text": "90",
+                        "confidence": 553.135,
+                        "left": 460,
+                        "top": 145,
+                        "width": 25,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:25",
+                                "adjustedEnd": "0:00:26.5",
+                                "start": "0:00:25",
+                                "end": "0:00:26.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:27",
+                                "adjustedEnd": "0:00:28.5",
+                                "start": "0:00:27",
+                                "end": "0:00:28.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:29.5",
+                                "adjustedEnd": "0:00:30",
+                                "start": "0:00:29.5",
+                                "end": "0:00:30"
+                            },
+                            {
+                                "adjustedStart": "0:00:30.5",
+                                "adjustedEnd": "0:00:31",
+                                "start": "0:00:30.5",
+                                "end": "0:00:31"
+                            },
+                            {
+                                "adjustedStart": "0:00:31.5",
+                                "adjustedEnd": "0:00:32",
+                                "start": "0:00:31.5",
+                                "end": "0:00:32"
+                            },
+                            {
+                                "adjustedStart": "0:00:36.5",
+                                "adjustedEnd": "0:00:38",
+                                "start": "0:00:36.5",
+                                "end": "0:00:38"
+                            },
+                            {
+                                "adjustedStart": "0:01:31",
+                                "adjustedEnd": "0:01:31.5",
+                                "start": "0:01:31",
+                                "end": "0:01:31.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:37.5",
+                                "adjustedEnd": "0:01:38",
+                                "start": "0:01:37.5",
+                                "end": "0:01:38"
+                            },
+                            {
+                                "adjustedStart": "0:01:38.5",
+                                "adjustedEnd": "0:01:39",
+                                "start": "0:01:38.5",
+                                "end": "0:01:39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 38,
+                        "text": "во",
+                        "confidence": 664.5938,
+                        "left": 427,
+                        "top": 247,
+                        "width": 25,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:25",
+                                "adjustedEnd": "0:00:25.5",
+                                "start": "0:00:25",
+                                "end": "0:00:25.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:28",
+                                "adjustedEnd": "0:00:28.5",
+                                "start": "0:00:28",
+                                "end": "0:00:28.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:30.5",
+                                "adjustedEnd": "0:00:31",
+                                "start": "0:00:30.5",
+                                "end": "0:00:31"
+                            },
+                            {
+                                "adjustedStart": "0:00:56.5",
+                                "adjustedEnd": "0:00:57",
+                                "start": "0:00:56.5",
+                                "end": "0:00:57"
+                            },
+                            {
+                                "adjustedStart": "0:00:57.5",
+                                "adjustedEnd": "0:00:58.5",
+                                "start": "0:00:57.5",
+                                "end": "0:00:58.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:00.5",
+                                "adjustedEnd": "0:01:01",
+                                "start": "0:01:00.5",
+                                "end": "0:01:01"
+                            },
+                            {
+                                "adjustedStart": "0:01:01.5",
+                                "adjustedEnd": "0:01:02",
+                                "start": "0:01:01.5",
+                                "end": "0:01:02"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 39,
+                        "text": "100",
+                        "confidence": 419.375,
+                        "left": 386,
+                        "top": 78,
+                        "width": 34,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:25",
+                                "adjustedEnd": "0:00:26.5",
+                                "start": "0:00:25",
+                                "end": "0:00:26.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:27",
+                                "adjustedEnd": "0:00:27.5",
+                                "start": "0:00:27",
+                                "end": "0:00:27.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:28",
+                                "adjustedEnd": "0:00:28.5",
+                                "start": "0:00:28",
+                                "end": "0:00:28.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:29.5",
+                                "adjustedEnd": "0:00:30",
+                                "start": "0:00:29.5",
+                                "end": "0:00:30"
+                            },
+                            {
+                                "adjustedStart": "0:00:45",
+                                "adjustedEnd": "0:00:45.5",
+                                "start": "0:00:45",
+                                "end": "0:00:45.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:46",
+                                "adjustedEnd": "0:00:46.5",
+                                "start": "0:00:46",
+                                "end": "0:00:46.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:47.5",
+                                "adjustedEnd": "0:00:48",
+                                "start": "0:00:47.5",
+                                "end": "0:00:48"
+                            },
+                            {
+                                "adjustedStart": "0:00:49.5",
+                                "adjustedEnd": "0:00:50",
+                                "start": "0:00:49.5",
+                                "end": "0:00:50"
+                            },
+                            {
+                                "adjustedStart": "0:01:26",
+                                "adjustedEnd": "0:01:27",
+                                "start": "0:01:26",
+                                "end": "0:01:27"
+                            },
+                            {
+                                "adjustedStart": "0:01:27.5",
+                                "adjustedEnd": "0:01:28.5",
+                                "start": "0:01:27.5",
+                                "end": "0:01:28.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:29",
+                                "adjustedEnd": "0:01:29.5",
+                                "start": "0:01:29",
+                                "end": "0:01:29.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 40,
+                        "text": "so",
+                        "confidence": 449,
+                        "left": 454,
+                        "top": 353,
+                        "width": 24,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:26",
+                                "adjustedEnd": "0:00:26.5",
+                                "start": "0:00:26",
+                                "end": "0:00:26.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 41,
+                        "text": "06",
+                        "confidence": 602.5,
+                        "left": 797,
+                        "top": 502,
+                        "width": 25,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:30",
+                                "adjustedEnd": "0:00:30.5",
+                                "start": "0:00:30",
+                                "end": "0:00:30.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:31",
+                                "adjustedEnd": "0:00:31.5",
+                                "start": "0:00:31",
+                                "end": "0:00:31.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:33.5",
+                                "adjustedEnd": "0:00:34",
+                                "start": "0:00:33.5",
+                                "end": "0:00:34"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 42,
+                        "text": "ов",
+                        "confidence": 690,
+                        "left": 825,
+                        "top": 453,
+                        "width": 26,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:31",
+                                "adjustedEnd": "0:00:31.5",
+                                "start": "0:00:31",
+                                "end": "0:00:31.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 43,
+                        "text": "ES EVERYTHING SHIN",
+                        "confidence": 475.3333,
+                        "left": 524,
+                        "top": 695,
+                        "width": 184,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:36.5",
+                                "adjustedEnd": "0:00:37",
+                                "start": "0:00:36.5",
+                                "end": "0:00:37"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 44,
+                        "text": "06",
+                        "confidence": 614.5,
+                        "left": 850,
+                        "top": 537,
+                        "width": 26,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:35",
+                                "adjustedEnd": "0:00:35.5",
+                                "start": "0:00:35",
+                                "end": "0:00:35.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:38.5",
+                                "adjustedEnd": "0:00:39",
+                                "start": "0:00:38.5",
+                                "end": "0:00:39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 45,
+                        "text": "100",
+                        "confidence": 413.3125,
+                        "left": 433,
+                        "top": 26,
+                        "width": 32,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:37",
+                                "adjustedEnd": "0:00:37.5",
+                                "start": "0:00:37",
+                                "end": "0:00:37.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:39",
+                                "adjustedEnd": "0:00:39.5",
+                                "start": "0:00:39",
+                                "end": "0:00:39.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:20",
+                                "adjustedEnd": "0:01:20.5",
+                                "start": "0:01:20",
+                                "end": "0:01:20.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:22",
+                                "adjustedEnd": "0:01:22.5",
+                                "start": "0:01:22",
+                                "end": "0:01:22.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:23.5",
+                                "adjustedEnd": "0:01:25",
+                                "start": "0:01:23.5",
+                                "end": "0:01:25"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46,
+                        "text": "100",
+                        "confidence": 375,
+                        "left": 381,
+                        "top": 80,
+                        "width": 33,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:43.5",
+                                "adjustedEnd": "0:00:44.5",
+                                "start": "0:00:43.5",
+                                "end": "0:00:44.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47,
+                        "text": "во",
+                        "confidence": 996,
+                        "left": 377,
+                        "top": 251,
+                        "width": 26,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:42.5",
+                                "adjustedEnd": "0:00:43.5",
+                                "start": "0:00:42.5",
+                                "end": "0:00:43.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 48,
+                        "text": "EXTRA",
+                        "confidence": 432,
+                        "left": 514,
+                        "top": 684,
+                        "width": 69,
+                        "height": 27,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:44.5",
+                                "adjustedEnd": "0:00:45",
+                                "start": "0:00:44.5",
+                                "end": "0:00:45"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 49,
+                        "text": "OL",
+                        "confidence": 406,
+                        "left": 824,
+                        "top": 374,
+                        "width": 24,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:45.5",
+                                "adjustedEnd": "0:00:46",
+                                "start": "0:00:45.5",
+                                "end": "0:00:46"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 50,
+                        "text": "06",
+                        "confidence": 545.75,
+                        "left": 823,
+                        "top": 465,
+                        "width": 25,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:45.5",
+                                "adjustedEnd": "0:00:46",
+                                "start": "0:00:45.5",
+                                "end": "0:00:46"
+                            },
+                            {
+                                "adjustedStart": "0:00:46.5",
+                                "adjustedEnd": "0:00:47",
+                                "start": "0:00:46.5",
+                                "end": "0:00:47"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 51,
+                        "text": "001",
+                        "confidence": 275,
+                        "left": 835,
+                        "top": 642,
+                        "width": 33,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:45.5",
+                                "adjustedEnd": "0:00:46",
+                                "start": "0:00:45.5",
+                                "end": "0:00:46"
+                            },
+                            {
+                                "adjustedStart": "0:00:46.5",
+                                "adjustedEnd": "0:00:47",
+                                "start": "0:00:46.5",
+                                "end": "0:00:47"
+                            },
+                            {
+                                "adjustedStart": "0:01:12.5",
+                                "adjustedEnd": "0:01:13",
+                                "start": "0:01:12.5",
+                                "end": "0:01:13"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 52,
+                        "text": "во",
+                        "confidence": 610.75,
+                        "left": 427,
+                        "top": 218,
+                        "width": 25,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:50",
+                                "adjustedEnd": "0:00:50.5",
+                                "start": "0:00:50",
+                                "end": "0:00:50.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:52",
+                                "adjustedEnd": "0:00:52.5",
+                                "start": "0:00:52",
+                                "end": "0:00:52.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 53,
+                        "text": "Happiness is the natural flower of du",
+                        "confidence": 610.5567,
+                        "left": 469,
+                        "top": 693,
+                        "width": 256,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:51.5",
+                                "adjustedEnd": "0:00:52",
+                                "start": "0:00:51.5",
+                                "end": "0:00:52"
+                            },
+                            {
+                                "adjustedStart": "0:00:54",
+                                "adjustedEnd": "0:00:54.5",
+                                "start": "0:00:54",
+                                "end": "0:00:54.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 54,
+                        "text": "ТК",
+                        "confidence": 494,
+                        "left": 412,
+                        "top": 318,
+                        "width": 24,
+                        "height": 16,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:50",
+                                "adjustedEnd": "0:00:50.5",
+                                "start": "0:00:50",
+                                "end": "0:00:50.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 55,
+                        "text": "MAKES EVERY IN",
+                        "confidence": 368,
+                        "left": 506,
+                        "top": 703,
+                        "width": 173,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:54.5",
+                                "adjustedEnd": "0:00:55",
+                                "start": "0:00:54.5",
+                                "end": "0:00:55"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 56,
+                        "text": "100",
+                        "confidence": 438,
+                        "left": 440,
+                        "top": 361,
+                        "width": 23,
+                        "height": 17,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:56.5",
+                                "adjustedEnd": "0:00:57",
+                                "start": "0:00:56.5",
+                                "end": "0:00:57"
+                            },
+                            {
+                                "adjustedStart": "0:00:57.5",
+                                "adjustedEnd": "0:00:58",
+                                "start": "0:00:57.5",
+                                "end": "0:00:58"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 57,
+                        "text": "so",
+                        "confidence": 494,
+                        "left": 412,
+                        "top": 306,
+                        "width": 25,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:58.5",
+                                "adjustedEnd": "0:00:59",
+                                "start": "0:00:58.5",
+                                "end": "0:00:59"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 58,
+                        "text": "SHI",
+                        "confidence": 314,
+                        "left": 694,
+                        "top": 687,
+                        "width": 30,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:04.5",
+                                "adjustedEnd": "0:01:05",
+                                "start": "0:01:04.5",
+                                "end": "0:01:05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 59,
+                        "text": "ТУЕ",
+                        "confidence": 326,
+                        "left": 1035,
+                        "top": 291,
+                        "width": 46,
+                        "height": 33,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:01.5",
+                                "adjustedEnd": "0:01:02",
+                                "start": "0:01:01.5",
+                                "end": "0:01:02"
+                            },
+                            {
+                                "adjustedStart": "0:01:37.5",
+                                "adjustedEnd": "0:01:38",
+                                "start": "0:01:37.5",
+                                "end": "0:01:38"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 60,
+                        "text": "naturåi flower of du",
+                        "confidence": 634,
+                        "left": 598,
+                        "top": 672,
+                        "width": 137,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:04.5",
+                                "adjustedEnd": "0:01:05",
+                                "start": "0:01:04.5",
+                                "end": "0:01:05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 61,
+                        "text": "90",
+                        "confidence": 565.875,
+                        "left": 408,
+                        "top": 161,
+                        "width": 26,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:11",
+                                "adjustedEnd": "0:01:11.5",
+                                "start": "0:01:11",
+                                "end": "0:01:11.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:13",
+                                "adjustedEnd": "0:01:13.5",
+                                "start": "0:01:13",
+                                "end": "0:01:13.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:14.5",
+                                "adjustedEnd": "0:01:15",
+                                "start": "0:01:14.5",
+                                "end": "0:01:15"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 62,
+                        "text": "06",
+                        "confidence": 542.75,
+                        "left": 852,
+                        "top": 474,
+                        "width": 25,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:12",
+                                "adjustedEnd": "0:01:13",
+                                "start": "0:01:12",
+                                "end": "0:01:13"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 63,
+                        "text": "OL",
+                        "confidence": 530,
+                        "left": 854,
+                        "top": 384,
+                        "width": 24,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:12.5",
+                                "adjustedEnd": "0:01:13",
+                                "start": "0:01:12.5",
+                                "end": "0:01:13"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 64,
+                        "text": "во",
+                        "confidence": 988,
+                        "left": 405,
+                        "top": 303,
+                        "width": 26,
+                        "height": 16,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:13.5",
+                                "adjustedEnd": "0:01:14",
+                                "start": "0:01:13.5",
+                                "end": "0:01:14"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 65,
+                        "text": "100",
+                        "confidence": 342.25,
+                        "left": 409,
+                        "top": 136,
+                        "width": 33,
+                        "height": 18,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:11",
+                                "adjustedEnd": "0:01:11.5",
+                                "start": "0:01:11",
+                                "end": "0:01:11.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:14.5",
+                                "adjustedEnd": "0:01:15",
+                                "start": "0:01:14.5",
+                                "end": "0:01:15"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 66,
+                        "text": "EXTRA",
+                        "confidence": 581.7422,
+                        "left": 556,
+                        "top": 658,
+                        "width": 65,
+                        "height": 21,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:13",
+                                "adjustedEnd": "0:01:13.5",
+                                "start": "0:01:13",
+                                "end": "0:01:13.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:20",
+                                "adjustedEnd": "0:01:21",
+                                "start": "0:01:20",
+                                "end": "0:01:21"
+                            },
+                            {
+                                "adjustedStart": "0:01:21.5",
+                                "adjustedEnd": "0:01:22",
+                                "start": "0:01:21.5",
+                                "end": "0:01:22"
+                            },
+                            {
+                                "adjustedStart": "0:01:23",
+                                "adjustedEnd": "0:01:25",
+                                "start": "0:01:23",
+                                "end": "0:01:25"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 67,
+                        "text": "ЕХПА",
+                        "confidence": 333,
+                        "left": 645,
+                        "top": 666,
+                        "width": 68,
+                        "height": 22,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:13.5",
+                                "adjustedEnd": "0:01:14",
+                                "start": "0:01:13.5",
+                                "end": "0:01:14"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 68,
+                        "text": "so",
+                        "confidence": 581,
+                        "left": 449,
+                        "top": 307,
+                        "width": 25,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:14.5",
+                                "adjustedEnd": "0:01:15",
+                                "start": "0:01:14.5",
+                                "end": "0:01:15"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 69,
+                        "text": "06",
+                        "confidence": 536.5,
+                        "left": 787,
+                        "top": 527,
+                        "width": 25,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:15",
+                                "adjustedEnd": "0:01:15.5",
+                                "start": "0:01:15",
+                                "end": "0:01:15.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 70,
+                        "text": "90",
+                        "confidence": 593.4812,
+                        "left": 464,
+                        "top": 126,
+                        "width": 25,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:17",
+                                "adjustedEnd": "0:01:21",
+                                "start": "0:01:17",
+                                "end": "0:01:21"
+                            },
+                            {
+                                "adjustedStart": "0:01:21.5",
+                                "adjustedEnd": "0:01:22.5",
+                                "start": "0:01:21.5",
+                                "end": "0:01:22.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:23",
+                                "adjustedEnd": "0:01:25",
+                                "start": "0:01:23",
+                                "end": "0:01:25"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 71,
+                        "text": "001",
+                        "confidence": 415,
+                        "left": 780,
+                        "top": 626,
+                        "width": 32,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:15",
+                                "adjustedEnd": "0:01:15.5",
+                                "start": "0:01:15",
+                                "end": "0:01:15.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:39",
+                                "adjustedEnd": "0:01:39.5",
+                                "start": "0:01:39",
+                                "end": "0:01:39.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 72,
+                        "text": "\"iness",
+                        "confidence": 375,
+                        "left": 520,
+                        "top": 673,
+                        "width": 53,
+                        "height": 19,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:20",
+                                "adjustedEnd": "0:01:20.5",
+                                "start": "0:01:20",
+                                "end": "0:01:20.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 73,
+                        "text": "SHI",
+                        "confidence": 341,
+                        "left": 725,
+                        "top": 685,
+                        "width": 29,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:20.5",
+                                "adjustedEnd": "0:01:21",
+                                "start": "0:01:20.5",
+                                "end": "0:01:21"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 74,
+                        "text": "MAKES EVERYTHING",
+                        "confidence": 460.5,
+                        "left": 525,
+                        "top": 692,
+                        "width": 181,
+                        "height": 17,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:20",
+                                "adjustedEnd": "0:01:20.5",
+                                "start": "0:01:20",
+                                "end": "0:01:20.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 75,
+                        "text": "Happiness is the ",
+                        "confidence": 501.5,
+                        "left": 503,
+                        "top": 701,
+                        "width": 211,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:23",
+                                "adjustedEnd": "0:01:23.5",
+                                "start": "0:01:23",
+                                "end": "0:01:23.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:24",
+                                "adjustedEnd": "0:01:24.5",
+                                "start": "0:01:24",
+                                "end": "0:01:24.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 76,
+                        "text": "во",
+                        "confidence": 638,
+                        "left": 452,
+                        "top": 195,
+                        "width": 25,
+                        "height": 14,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:24",
+                                "adjustedEnd": "0:01:24.5",
+                                "start": "0:01:24",
+                                "end": "0:01:24.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 77,
+                        "text": "90",
+                        "confidence": 615.3125,
+                        "left": 490,
+                        "top": 137,
+                        "width": 25,
+                        "height": 15,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:26",
+                                "adjustedEnd": "0:01:27",
+                                "start": "0:01:26",
+                                "end": "0:01:27"
+                            },
+                            {
+                                "adjustedStart": "0:01:27.5",
+                                "adjustedEnd": "0:01:28.5",
+                                "start": "0:01:27.5",
+                                "end": "0:01:28.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:29",
+                                "adjustedEnd": "0:01:29.5",
+                                "start": "0:01:29",
+                                "end": "0:01:29.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 78,
+                        "text": "EXTRA",
+                        "confidence": 459.5,
+                        "left": 687,
+                        "top": 662,
+                        "width": 69,
+                        "height": 22,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:26",
+                                "adjustedEnd": "0:01:27",
+                                "start": "0:01:26",
+                                "end": "0:01:27"
+                            },
+                            {
+                                "adjustedStart": "0:01:27.5",
+                                "adjustedEnd": "0:01:28",
+                                "start": "0:01:27.5",
+                                "end": "0:01:28"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 79,
+                        "text": "во",
+                        "confidence": 566.5,
+                        "left": 488,
+                        "top": 239,
+                        "width": 25,
+                        "height": 16,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:27.5",
+                                "adjustedEnd": "0:01:28.5",
+                                "start": "0:01:27.5",
+                                "end": "0:01:28.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 80,
+                        "text": "ЕХТКА",
+                        "confidence": 310,
+                        "left": 681,
+                        "top": 684,
+                        "width": 70,
+                        "height": 21,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:28",
+                                "adjustedEnd": "0:01:28.5",
+                                "start": "0:01:28",
+                                "end": "0:01:28.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 81,
+                        "text": "so",
+                        "confidence": 548,
+                        "left": 453,
+                        "top": 276,
+                        "width": 25,
+                        "height": 15,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:29",
+                                "adjustedEnd": "0:01:29.5",
+                                "start": "0:01:29",
+                                "end": "0:01:29.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 82,
+                        "text": "ов",
+                        "confidence": 569,
+                        "left": 830,
+                        "top": 492,
+                        "width": 25,
+                        "height": 14,
+                        "language": "ru-RU",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:33.5",
+                                "adjustedEnd": "0:01:34",
+                                "start": "0:01:33.5",
+                                "end": "0:01:34"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 83,
+                        "text": "06",
+                        "confidence": 702.5,
+                        "left": 818,
+                        "top": 520,
+                        "width": 25,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:35.5",
+                                "adjustedEnd": "0:01:36",
+                                "start": "0:01:35.5",
+                                "end": "0:01:36"
+                            },
+                            {
+                                "adjustedStart": "0:01:39",
+                                "adjustedEnd": "0:01:39.5",
+                                "start": "0:01:39",
+                                "end": "0:01:39.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 84,
+                        "text": "Happiness is the",
+                        "confidence": 775,
+                        "left": 507,
+                        "top": 685,
+                        "width": 110,
+                        "height": 14,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:44",
+                                "adjustedEnd": "0:01:44.5",
+                                "start": "0:01:44",
+                                "end": "0:01:44.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 85,
+                        "text": "so",
+                        "confidence": 538,
+                        "left": 420,
+                        "top": 248,
+                        "width": 25,
+                        "height": 16,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:42.5",
+                                "adjustedEnd": "0:01:43",
+                                "start": "0:01:42.5",
+                                "end": "0:01:43"
+                            }
+                        ]
+                    }
+                ],
+                "keywords": [
+                    {
+                        "id": 0,
+                        "text": "во",
+                        "confidence": 0.6211,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:01",
+                                "start": "0:00:00",
+                                "end": "0:00:01"
+                            },
+                            {
+                                "adjustedStart": "0:00:11.5",
+                                "adjustedEnd": "0:00:12",
+                                "start": "0:00:11.5",
+                                "end": "0:00:12"
+                            },
+                            {
+                                "adjustedStart": "0:00:20",
+                                "adjustedEnd": "0:00:21",
+                                "start": "0:00:20",
+                                "end": "0:00:21"
+                            },
+                            {
+                                "adjustedStart": "0:00:25",
+                                "adjustedEnd": "0:00:25.5",
+                                "start": "0:00:25",
+                                "end": "0:00:25.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:42.5",
+                                "adjustedEnd": "0:00:43.5",
+                                "start": "0:00:42.5",
+                                "end": "0:00:43.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:50",
+                                "adjustedEnd": "0:00:50.5",
+                                "start": "0:00:50",
+                                "end": "0:00:50.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:13.5",
+                                "adjustedEnd": "0:01:14",
+                                "start": "0:01:13.5",
+                                "end": "0:01:14"
+                            },
+                            {
+                                "adjustedStart": "0:01:24",
+                                "adjustedEnd": "0:01:24.5",
+                                "start": "0:01:24",
+                                "end": "0:01:24.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:27.5",
+                                "adjustedEnd": "0:01:28.5",
+                                "start": "0:01:27.5",
+                                "end": "0:01:28.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "ех",
+                        "confidence": 0.6211,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00.5",
+                                "adjustedEnd": "0:00:01",
+                                "start": "0:00:00.5",
+                                "end": "0:00:01"
+                            },
+                            {
+                                "adjustedStart": "0:00:11.5",
+                                "adjustedEnd": "0:00:12",
+                                "start": "0:00:11.5",
+                                "end": "0:00:12"
+                            },
+                            {
+                                "adjustedStart": "0:01:13.5",
+                                "adjustedEnd": "0:01:14",
+                                "start": "0:01:13.5",
+                                "end": "0:01:14"
+                            },
+                            {
+                                "adjustedStart": "0:01:28",
+                                "adjustedEnd": "0:01:28.5",
+                                "start": "0:01:28",
+                                "end": "0:01:28.5"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "тк",
+                        "confidence": 0.6211,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00.5",
+                                "adjustedEnd": "0:00:01",
+                                "start": "0:00:00.5",
+                                "end": "0:00:01"
+                            },
+                            {
+                                "adjustedStart": "0:00:04.5",
+                                "adjustedEnd": "0:00:05",
+                                "start": "0:00:04.5",
+                                "end": "0:00:05"
+                            },
+                            {
+                                "adjustedStart": "0:00:50",
+                                "adjustedEnd": "0:00:50.5",
+                                "start": "0:00:50",
+                                "end": "0:00:50.5"
+                            },
+                            {
+                                "adjustedStart": "0:01:28",
+                                "adjustedEnd": "0:01:28.5",
+                                "start": "0:01:28",
+                                "end": "0:01:28.5"
+                            }
+                        ]
+                    }
+                ],
+                "faces": [
+                    {
+                        "id": 2077,
+                        "name": "Unknown #1",
+                        "confidence": 0,
+                        "description": null,
+                        "thumbnailId": "78c85056-779c-497e-b98f-aa0dd8938edb",
+                        "referenceId": null,
+                        "title": null,
+                        "imageUrl": null,
+                        "thumbnails": [
+                            {
+                                "id": "819c590b-415e-4873-8f1a-092843c6d5df",
+                                "fileName": "FaceThumbnail_819c590b-415e-4873-8f1a-092843c6d5df.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:00",
+                                        "adjustedEnd": "0:00:00.033",
+                                        "start": "0:00:00",
+                                        "end": "0:00:00.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "dbde407d-b226-447e-90da-f4c986cf7cf1",
+                                "fileName": "FaceThumbnail_dbde407d-b226-447e-90da-f4c986cf7cf1.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:05",
+                                        "adjustedEnd": "0:00:05.033",
+                                        "start": "0:00:05",
+                                        "end": "0:00:05.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "0c55487c-cd97-4c54-85c7-af0213734942",
+                                "fileName": "FaceThumbnail_0c55487c-cd97-4c54-85c7-af0213734942.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:10",
+                                        "adjustedEnd": "0:00:10.033",
+                                        "start": "0:00:10",
+                                        "end": "0:00:10.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b2565ce2-35b8-45cb-8eca-97780b6cb6c7",
+                                "fileName": "FaceThumbnail_b2565ce2-35b8-45cb-8eca-97780b6cb6c7.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:15",
+                                        "adjustedEnd": "0:00:15.033",
+                                        "start": "0:00:15",
+                                        "end": "0:00:15.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "bb41f8dd-c196-42fd-bfeb-4e39295002fe",
+                                "fileName": "FaceThumbnail_bb41f8dd-c196-42fd-bfeb-4e39295002fe.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:20",
+                                        "adjustedEnd": "0:00:20.033",
+                                        "start": "0:00:20",
+                                        "end": "0:00:20.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "17af5374-453b-4f2a-9962-813197bf860a",
+                                "fileName": "FaceThumbnail_17af5374-453b-4f2a-9962-813197bf860a.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:25",
+                                        "adjustedEnd": "0:00:25.033",
+                                        "start": "0:00:25",
+                                        "end": "0:00:25.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "9b4b8669-d868-4e3d-9730-11e0f85e23bb",
+                                "fileName": "FaceThumbnail_9b4b8669-d868-4e3d-9730-11e0f85e23bb.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:30",
+                                        "adjustedEnd": "0:00:30.033",
+                                        "start": "0:00:30",
+                                        "end": "0:00:30.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "edf52edb-46a7-4b1f-8be4-2ffdaddd2526",
+                                "fileName": "FaceThumbnail_edf52edb-46a7-4b1f-8be4-2ffdaddd2526.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:35",
+                                        "adjustedEnd": "0:00:35.033",
+                                        "start": "0:00:35",
+                                        "end": "0:00:35.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "a4a11f14-db33-4407-b430-77deed1d70d7",
+                                "fileName": "FaceThumbnail_a4a11f14-db33-4407-b430-77deed1d70d7.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:40",
+                                        "adjustedEnd": "0:00:40.033",
+                                        "start": "0:00:40",
+                                        "end": "0:00:40.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "74698d62-55f8-4e00-a8ce-a212aabd212c",
+                                "fileName": "FaceThumbnail_74698d62-55f8-4e00-a8ce-a212aabd212c.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:45",
+                                        "adjustedEnd": "0:00:45.033",
+                                        "start": "0:00:45",
+                                        "end": "0:00:45.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "858b2789-5f31-4dc1-8788-8ebfffb4ace0",
+                                "fileName": "FaceThumbnail_858b2789-5f31-4dc1-8788-8ebfffb4ace0.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:50",
+                                        "adjustedEnd": "0:00:50.033",
+                                        "start": "0:00:50",
+                                        "end": "0:00:50.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "6c98aea2-ee40-47aa-8ccf-cdd3c371d674",
+                                "fileName": "FaceThumbnail_6c98aea2-ee40-47aa-8ccf-cdd3c371d674.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:55",
+                                        "adjustedEnd": "0:00:55.033",
+                                        "start": "0:00:55",
+                                        "end": "0:00:55.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ef7575e0-534e-4753-b16e-4aed23f74054",
+                                "fileName": "FaceThumbnail_ef7575e0-534e-4753-b16e-4aed23f74054.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:00",
+                                        "adjustedEnd": "0:01:00.033",
+                                        "start": "0:01:00",
+                                        "end": "0:01:00.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "907f6dc0-372e-4dc5-ad2c-15e40e48b828",
+                                "fileName": "FaceThumbnail_907f6dc0-372e-4dc5-ad2c-15e40e48b828.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:05",
+                                        "adjustedEnd": "0:01:05.033",
+                                        "start": "0:01:05",
+                                        "end": "0:01:05.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b0288348-4ad9-4902-bf1e-79338b3edf95",
+                                "fileName": "FaceThumbnail_b0288348-4ad9-4902-bf1e-79338b3edf95.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:10",
+                                        "adjustedEnd": "0:01:10.033",
+                                        "start": "0:01:10",
+                                        "end": "0:01:10.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "264c6d2e-10e1-4683-9e4a-a5025a44e6a7",
+                                "fileName": "FaceThumbnail_264c6d2e-10e1-4683-9e4a-a5025a44e6a7.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:15",
+                                        "adjustedEnd": "0:01:15.033",
+                                        "start": "0:01:15",
+                                        "end": "0:01:15.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "78c85056-779c-497e-b98f-aa0dd8938edb",
+                                "fileName": "FaceThumbnail_78c85056-779c-497e-b98f-aa0dd8938edb.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:17.6",
+                                        "adjustedEnd": "0:01:17.633",
+                                        "start": "0:01:17.6",
+                                        "end": "0:01:17.633"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "25e4c0a2-7d97-4f50-92e9-6d636c08c657",
+                                "fileName": "FaceThumbnail_25e4c0a2-7d97-4f50-92e9-6d636c08c657.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:20",
+                                        "adjustedEnd": "0:01:20.033",
+                                        "start": "0:01:20",
+                                        "end": "0:01:20.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "d0ce88c2-ae87-4afe-b18f-ea0f31ef278c",
+                                "fileName": "FaceThumbnail_d0ce88c2-ae87-4afe-b18f-ea0f31ef278c.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:25",
+                                        "adjustedEnd": "0:01:25.033",
+                                        "start": "0:01:25",
+                                        "end": "0:01:25.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "008b0fab-f914-494c-9888-ccb409385883",
+                                "fileName": "FaceThumbnail_008b0fab-f914-494c-9888-ccb409385883.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:30",
+                                        "adjustedEnd": "0:01:30.033",
+                                        "start": "0:01:30",
+                                        "end": "0:01:30.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "75e24aa0-ce7e-4fdd-a6ee-c476fdc3dba0",
+                                "fileName": "FaceThumbnail_75e24aa0-ce7e-4fdd-a6ee-c476fdc3dba0.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:35",
+                                        "adjustedEnd": "0:01:35.033",
+                                        "start": "0:01:35",
+                                        "end": "0:01:35.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "e1de82f8-6515-4648-8c91-008401c25089",
+                                "fileName": "FaceThumbnail_e1de82f8-6515-4648-8c91-008401c25089.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:40",
+                                        "adjustedEnd": "0:01:40.033",
+                                        "start": "0:01:40",
+                                        "end": "0:01:40.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "03256b66-f550-4dfe-80a1-9f8a126b79d0",
+                                "fileName": "FaceThumbnail_03256b66-f550-4dfe-80a1-9f8a126b79d0.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:45",
+                                        "adjustedEnd": "0:01:45.033",
+                                        "start": "0:01:45",
+                                        "end": "0:01:45.033"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "thumbnailsIds": [
+                                    "819c590b-415e-4873-8f1a-092843c6d5df",
+                                    "edf52edb-46a7-4b1f-8be4-2ffdaddd2526",
+                                    "a4a11f14-db33-4407-b430-77deed1d70d7",
+                                    "74698d62-55f8-4e00-a8ce-a212aabd212c",
+                                    "858b2789-5f31-4dc1-8788-8ebfffb4ace0",
+                                    "dbde407d-b226-447e-90da-f4c986cf7cf1",
+                                    "6c98aea2-ee40-47aa-8ccf-cdd3c371d674",
+                                    "ef7575e0-534e-4753-b16e-4aed23f74054",
+                                    "907f6dc0-372e-4dc5-ad2c-15e40e48b828",
+                                    "b0288348-4ad9-4902-bf1e-79338b3edf95",
+                                    "264c6d2e-10e1-4683-9e4a-a5025a44e6a7",
+                                    "78c85056-779c-497e-b98f-aa0dd8938edb",
+                                    "25e4c0a2-7d97-4f50-92e9-6d636c08c657",
+                                    "d0ce88c2-ae87-4afe-b18f-ea0f31ef278c",
+                                    "008b0fab-f914-494c-9888-ccb409385883",
+                                    "75e24aa0-ce7e-4fdd-a6ee-c476fdc3dba0",
+                                    "e1de82f8-6515-4648-8c91-008401c25089",
+                                    "0c55487c-cd97-4c54-85c7-af0213734942",
+                                    "03256b66-f550-4dfe-80a1-9f8a126b79d0",
+                                    "b2565ce2-35b8-45cb-8eca-97780b6cb6c7",
+                                    "bb41f8dd-c196-42fd-bfeb-4e39295002fe",
+                                    "17af5374-453b-4f2a-9962-813197bf860a",
+                                    "9b4b8669-d868-4e3d-9730-11e0f85e23bb"
+                                ],
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:46.7",
+                                "start": "0:00:00",
+                                "end": "0:01:46.7"
+                            }
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "id": 0,
+                        "name": "wall",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9806,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:01.067",
+                                "start": "0:00:00",
+                                "end": "0:00:01.067"
+                            },
+                            {
+                                "confidence": 0.9621,
+                                "adjustedStart": "0:00:02.133",
+                                "adjustedEnd": "0:00:07.467",
+                                "start": "0:00:02.133",
+                                "end": "0:00:07.467"
+                            },
+                            {
+                                "confidence": 0.9686,
+                                "adjustedStart": "0:00:09.6",
+                                "adjustedEnd": "0:00:12.8",
+                                "start": "0:00:09.6",
+                                "end": "0:00:12.8"
+                            },
+                            {
+                                "confidence": 0.9606,
+                                "adjustedStart": "0:00:13.867",
+                                "adjustedEnd": "0:00:14.934",
+                                "start": "0:00:13.867",
+                                "end": "0:00:14.934"
+                            },
+                            {
+                                "confidence": 0.9785,
+                                "adjustedStart": "0:00:18.133",
+                                "adjustedEnd": "0:00:20.267",
+                                "start": "0:00:18.133",
+                                "end": "0:00:20.267"
+                            },
+                            {
+                                "confidence": 0.982,
+                                "adjustedStart": "0:00:29.867",
+                                "adjustedEnd": "0:00:32",
+                                "start": "0:00:29.867",
+                                "end": "0:00:32"
+                            },
+                            {
+                                "confidence": 0.9622,
+                                "adjustedStart": "0:00:33.067",
+                                "adjustedEnd": "0:00:34.134",
+                                "start": "0:00:33.067",
+                                "end": "0:00:34.134"
+                            },
+                            {
+                                "confidence": 0.9646,
+                                "adjustedStart": "0:00:35.2",
+                                "adjustedEnd": "0:00:37.334",
+                                "start": "0:00:35.2",
+                                "end": "0:00:37.334"
+                            },
+                            {
+                                "confidence": 0.9859,
+                                "adjustedStart": "0:00:38.4",
+                                "adjustedEnd": "0:00:45.867",
+                                "start": "0:00:38.4",
+                                "end": "0:00:45.867"
+                            },
+                            {
+                                "confidence": 0.9794,
+                                "adjustedStart": "0:00:50.133",
+                                "adjustedEnd": "0:00:51.2",
+                                "start": "0:00:50.133",
+                                "end": "0:00:51.2"
+                            },
+                            {
+                                "confidence": 0.9742,
+                                "adjustedStart": "0:00:52.267",
+                                "adjustedEnd": "0:00:53.334",
+                                "start": "0:00:52.267",
+                                "end": "0:00:53.334"
+                            },
+                            {
+                                "confidence": 0.9904,
+                                "adjustedStart": "0:00:54.4",
+                                "adjustedEnd": "0:00:55.467",
+                                "start": "0:00:54.4",
+                                "end": "0:00:55.467"
+                            },
+                            {
+                                "confidence": 0.9829,
+                                "adjustedStart": "0:00:56.533",
+                                "adjustedEnd": "0:00:57.6",
+                                "start": "0:00:56.533",
+                                "end": "0:00:57.6"
+                            },
+                            {
+                                "confidence": 0.9809,
+                                "adjustedStart": "0:00:59.733",
+                                "adjustedEnd": "0:01:14.667",
+                                "start": "0:00:59.733",
+                                "end": "0:01:14.667"
+                            },
+                            {
+                                "confidence": 0.9642,
+                                "adjustedStart": "0:01:15.733",
+                                "adjustedEnd": "0:01:17.867",
+                                "start": "0:01:15.733",
+                                "end": "0:01:17.867"
+                            },
+                            {
+                                "confidence": 0.9649,
+                                "adjustedStart": "0:01:18.933",
+                                "adjustedEnd": "0:01:20",
+                                "start": "0:01:18.933",
+                                "end": "0:01:20"
+                            },
+                            {
+                                "confidence": 0.9805,
+                                "adjustedStart": "0:01:24.267",
+                                "adjustedEnd": "0:01:25.334",
+                                "start": "0:01:24.267",
+                                "end": "0:01:25.334"
+                            },
+                            {
+                                "confidence": 0.9709,
+                                "adjustedStart": "0:01:39.2",
+                                "adjustedEnd": "0:01:41.334",
+                                "start": "0:01:39.2",
+                                "end": "0:01:41.334"
+                            },
+                            {
+                                "confidence": 0.9659,
+                                "adjustedStart": "0:01:44.533",
+                                "adjustedEnd": "0:01:45.6",
+                                "start": "0:01:44.533",
+                                "end": "0:01:45.6"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "person",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9912,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:46.667",
+                                "start": "0:00:00",
+                                "end": "0:01:46.667"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "indoor",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9535,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:01.067",
+                                "start": "0:00:00",
+                                "end": "0:00:01.067"
+                            },
+                            {
+                                "confidence": 0.9381,
+                                "adjustedStart": "0:00:02.133",
+                                "adjustedEnd": "0:00:07.467",
+                                "start": "0:00:02.133",
+                                "end": "0:00:07.467"
+                            },
+                            {
+                                "confidence": 0.9366,
+                                "adjustedStart": "0:00:08.533",
+                                "adjustedEnd": "0:00:24.534",
+                                "start": "0:00:08.533",
+                                "end": "0:00:24.534"
+                            },
+                            {
+                                "confidence": 0.9358,
+                                "adjustedStart": "0:00:25.6",
+                                "adjustedEnd": "0:00:26.667",
+                                "start": "0:00:25.6",
+                                "end": "0:00:26.667"
+                            },
+                            {
+                                "confidence": 0.9433,
+                                "adjustedStart": "0:00:27.733",
+                                "adjustedEnd": "0:01:14.667",
+                                "start": "0:00:27.733",
+                                "end": "0:01:14.667"
+                            },
+                            {
+                                "confidence": 0.9206,
+                                "adjustedStart": "0:01:15.733",
+                                "adjustedEnd": "0:01:25.334",
+                                "start": "0:01:15.733",
+                                "end": "0:01:25.334"
+                            },
+                            {
+                                "confidence": 0.9266,
+                                "adjustedStart": "0:01:27.467",
+                                "adjustedEnd": "0:01:46.667",
+                                "start": "0:01:27.467",
+                                "end": "0:01:46.667"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "girl",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.8647,
+                                "adjustedStart": "0:00:07.467",
+                                "adjustedEnd": "0:00:08.534",
+                                "start": "0:00:07.467",
+                                "end": "0:00:08.534"
+                            },
+                            {
+                                "confidence": 0.85,
+                                "adjustedStart": "0:00:41.6",
+                                "adjustedEnd": "0:00:42.667",
+                                "start": "0:00:41.6",
+                                "end": "0:00:42.667"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "holding",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9171,
+                                "adjustedStart": "0:00:10.667",
+                                "adjustedEnd": "0:00:11.734",
+                                "start": "0:00:10.667",
+                                "end": "0:00:11.734"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "woman",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9312,
+                                "adjustedStart": "0:00:33.067",
+                                "adjustedEnd": "0:00:36.267",
+                                "start": "0:00:33.067",
+                                "end": "0:00:36.267"
+                            },
+                            {
+                                "confidence": 0.9375,
+                                "adjustedStart": "0:00:39.467",
+                                "adjustedEnd": "0:00:40.534",
+                                "start": "0:00:39.467",
+                                "end": "0:00:40.534"
+                            },
+                            {
+                                "confidence": 0.9146,
+                                "adjustedStart": "0:00:41.6",
+                                "adjustedEnd": "0:00:43.734",
+                                "start": "0:00:41.6",
+                                "end": "0:00:43.734"
+                            },
+                            {
+                                "confidence": 0.9277,
+                                "adjustedStart": "0:01:06.133",
+                                "adjustedEnd": "0:01:07.2",
+                                "start": "0:01:06.133",
+                                "end": "0:01:07.2"
+                            },
+                            {
+                                "confidence": 0.9194,
+                                "adjustedStart": "0:01:08.267",
+                                "adjustedEnd": "0:01:09.334",
+                                "start": "0:01:08.267",
+                                "end": "0:01:09.334"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "young",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9013,
+                                "adjustedStart": "0:00:41.6",
+                                "adjustedEnd": "0:00:42.667",
+                                "start": "0:00:41.6",
+                                "end": "0:00:42.667"
+                            },
+                            {
+                                "confidence": 0.8344,
+                                "adjustedStart": "0:01:06.133",
+                                "adjustedEnd": "0:01:07.2",
+                                "start": "0:01:06.133",
+                                "end": "0:01:07.2"
+                            },
+                            {
+                                "confidence": 0.866,
+                                "adjustedStart": "0:01:09.333",
+                                "adjustedEnd": "0:01:10.4",
+                                "start": "0:01:09.333",
+                                "end": "0:01:10.4"
+                            }
+                        ]
+                    }
+                ],
+                "shots": [
+                    {
+                        "id": 0,
+                        "keyFrames": [
+                            {
+                                "id": 0,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "b562c049-422a-4f25-a11f-2b7a1de96a07",
+                                        "adjustedStart": "0:00:05",
+                                        "adjustedEnd": "0:00:05.033",
+                                        "start": "0:00:05",
+                                        "end": "0:00:05.033"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "8ccae4a4-1b3e-42e6-ad14-6834e42a0f78",
+                                        "adjustedStart": "0:00:10.533",
+                                        "adjustedEnd": "0:00:10.566",
+                                        "start": "0:00:10.533",
+                                        "end": "0:00:10.566"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "d4f5f145-8352-4587-915a-a2ba7ad6cb28",
+                                        "adjustedStart": "0:00:38.9",
+                                        "adjustedEnd": "0:00:38.933",
+                                        "start": "0:00:38.9",
+                                        "end": "0:00:38.933"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:41.667",
+                                "start": "0:00:00",
+                                "end": "0:00:41.667"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "keyFrames": [
+                            {
+                                "id": 3,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "72e7c29a-b912-4d31-b2ea-1eefb689abfa",
+                                        "adjustedStart": "0:00:41.667",
+                                        "adjustedEnd": "0:00:41.7",
+                                        "start": "0:00:41.667",
+                                        "end": "0:00:41.7"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "02906e9b-f3a1-44d4-8085-4e6fa47030c8",
+                                        "adjustedStart": "0:00:56.133",
+                                        "adjustedEnd": "0:00:56.166",
+                                        "start": "0:00:56.133",
+                                        "end": "0:00:56.166"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "966f3aaa-a097-454e-bc9a-3673ca6a00e0",
+                                        "adjustedStart": "0:01:05.367",
+                                        "adjustedEnd": "0:01:05.4",
+                                        "start": "0:01:05.367",
+                                        "end": "0:01:05.4"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:41.667",
+                                "adjustedEnd": "0:01:06.433",
+                                "start": "0:00:41.667",
+                                "end": "0:01:06.433"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "keyFrames": [
+                            {
+                                "id": 6,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "282825e6-4eb7-47d6-8dee-234cf1f4446d",
+                                        "adjustedStart": "0:01:06.433",
+                                        "adjustedEnd": "0:01:06.466",
+                                        "start": "0:01:06.433",
+                                        "end": "0:01:06.466"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 7,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "9d3b50d6-be30-47a7-9d96-a77042d1faff",
+                                        "adjustedStart": "0:01:07.2",
+                                        "adjustedEnd": "0:01:07.233",
+                                        "start": "0:01:07.2",
+                                        "end": "0:01:07.233"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 8,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "f5dcfeda-58c2-4f8e-859c-511fb485e43d",
+                                        "adjustedStart": "0:01:08.567",
+                                        "adjustedEnd": "0:01:08.6",
+                                        "start": "0:01:08.567",
+                                        "end": "0:01:08.6"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:06.433",
+                                "adjustedEnd": "0:01:09.533",
+                                "start": "0:01:06.433",
+                                "end": "0:01:09.533"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "keyFrames": [
+                            {
+                                "id": 9,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "3166bb0a-b9a6-41cc-9e27-7ddd3c622d6b",
+                                        "adjustedStart": "0:01:09.533",
+                                        "adjustedEnd": "0:01:09.566",
+                                        "start": "0:01:09.533",
+                                        "end": "0:01:09.566"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 10,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "47ccf28d-0ba5-43f5-aef6-b907ccaa3102",
+                                        "adjustedStart": "0:01:37.533",
+                                        "adjustedEnd": "0:01:37.566",
+                                        "start": "0:01:37.533",
+                                        "end": "0:01:37.566"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 11,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "3a8de572-3b1c-4025-b75e-3134501af7f8",
+                                        "adjustedStart": "0:01:46.7",
+                                        "adjustedEnd": "0:01:46.733",
+                                        "start": "0:01:46.7",
+                                        "end": "0:01:46.733"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:09.533",
+                                "adjustedEnd": "0:01:47.067",
+                                "start": "0:01:09.533",
+                                "end": "0:01:47.067"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "keyFrames": [
+                            {
+                                "id": 12,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "39a5a20c-cfe3-4c65-911a-edbd7a3cbdae",
+                                        "adjustedStart": "0:01:47.067",
+                                        "adjustedEnd": "0:01:47.1",
+                                        "start": "0:01:47.067",
+                                        "end": "0:01:47.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 13,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "4cfda541-1807-47b0-8fd6-a22a1cec6d10",
+                                        "adjustedStart": "0:01:47.167",
+                                        "adjustedEnd": "0:01:47.2",
+                                        "start": "0:01:47.167",
+                                        "end": "0:01:47.2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:47.067",
+                                "adjustedEnd": "0:01:47.2",
+                                "start": "0:01:47.067",
+                                "end": "0:01:47.2"
+                            }
+                        ]
+                    }
+                ],
+                "sentiments": [
+                    {
+                        "id": 0,
+                        "averageScore": 0.5,
+                        "sentimentType": "Neutral",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:02.93",
+                                "start": "0:00:00",
+                                "end": "0:01:02.93"
+                            },
+                            {
+                                "adjustedStart": "0:01:23.03",
+                                "adjustedEnd": "0:01:47.279",
+                                "start": "0:01:23.03",
+                                "end": "0:01:47.279"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "averageScore": 0.138,
+                        "sentimentType": "Negative",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:02.93",
+                                "adjustedEnd": "0:01:23.03",
+                                "start": "0:01:02.93",
+                                "end": "0:01:23.03"
+                            }
+                        ]
+                    }
+                ],
+                "emotions": [
+                    {
+                        "id": 0,
+                        "type": "Fear",
+                        "instances": [
+                            {
+                                "confidence": 0.6901,
+                                "adjustedStart": "0:01:02.93",
+                                "adjustedEnd": "0:01:23.03",
+                                "start": "0:01:02.93",
+                                "end": "0:01:23.03"
+                            }
+                        ]
+                    }
+                ],
+                "blocks": [
+                    {
+                        "id": 0,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:33.05",
+                                "start": "0:00:00",
+                                "end": "0:00:33.05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:33.05",
+                                "adjustedEnd": "0:01:23.03",
+                                "start": "0:00:33.05",
+                                "end": "0:01:23.03"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:23.03",
+                                "adjustedEnd": "0:01:47.279",
+                                "start": "0:01:23.03",
+                                "end": "0:01:47.279"
+                            }
+                        ]
+                    }
+                ],
+                "speakers": [
+                    {
+                        "id": 1,
+                        "name": "Speaker #1",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:15.64",
+                                "start": "0:00:00",
+                                "end": "0:00:15.64"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Speaker #2",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:15.65",
+                                "adjustedEnd": "0:00:33.06",
+                                "start": "0:00:15.65",
+                                "end": "0:00:33.06"
+                            },
+                            {
+                                "adjustedStart": "0:00:36.79",
+                                "adjustedEnd": "0:00:56.1",
+                                "start": "0:00:36.79",
+                                "end": "0:00:56.1"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Speaker #5",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:56.91",
+                                "adjustedEnd": "0:01:02.46",
+                                "start": "0:00:56.91",
+                                "end": "0:01:02.46"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Speaker #6",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:02.94",
+                                "adjustedEnd": "0:01:23.04",
+                                "start": "0:01:02.94",
+                                "end": "0:01:23.04"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "Speaker #7",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:23.46",
+                                "adjustedEnd": "0:01:27.31",
+                                "start": "0:01:23.46",
+                                "end": "0:01:27.31"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "name": "Speaker #8",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:27.68",
+                                "adjustedEnd": "0:01:34.63",
+                                "start": "0:01:27.68",
+                                "end": "0:01:34.63"
+                            },
+                            {
+                                "adjustedStart": "0:01:42.21",
+                                "adjustedEnd": "0:01:47.279",
+                                "start": "0:01:42.21",
+                                "end": "0:01:47.279"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "name": "Speaker #9",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:34.95",
+                                "adjustedEnd": "0:01:41.6",
+                                "start": "0:01:34.95",
+                                "end": "0:01:41.6"
+                            }
+                        ]
+                    }
+                ],
+                "textualContentModeration": {
+                    "id": 0,
+                    "bannedWordsCount": 0,
+                    "bannedWordsRatio": 0,
+                    "instances": []
+                },
+                "statistics": {
+                    "correspondenceCount": 7,
+                    "speakerTalkToListenRatio": {
+                        "1": 0.194,
+                        "2": 0.313,
+                        "5": 0.059,
+                        "6": 0.216,
+                        "7": 0.037,
+                        "8": 0.116,
+                        "9": 0.063
+                    },
+                    "speakerLongestMonolog": {
+                        "1": 18,
+                        "2": 29,
+                        "5": 5,
+                        "6": 20,
+                        "7": 3,
+                        "8": 6,
+                        "9": 5
+                    },
+                    "speakerNumberOfFragments": {
+                        "1": 1,
+                        "2": 5,
+                        "5": 1,
+                        "6": 1,
+                        "7": 2,
+                        "8": 3,
+                        "9": 3
+                    },
+                    "speakerWordCount": {
+                        "1": 1,
+                        "2": 5,
+                        "5": 1,
+                        "6": 1,
+                        "7": 2,
+                        "8": 3,
+                        "9": 3
+                    }
+                },
+                "sourceLanguageConfidence": 1
+            },
+            "thumbnailId": "eb8e4e50-b2d1-4a2d-84a7-2bf283ac84fb",
+            "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/453e8184-724a-4b69-9c2a-4b62ef434e2e/a32638e2-7865-43fa-a439-b191a043.ism/manifest(encryption=cbc)",
+            "publishedProxyUrl": null,
+            "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiI1OTQzNjE5ZS04YjY1LTQ1ZmQtODIwMy1jZjVlZDI4Mjk5MmYiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NDY0NDE5MjgsIm5iZiI6MTU0NjM1NTQ2OH0.VyqWPs4LrhAjbtvxnet-KHQCkSQxU95mSo8cECY94PM",
+            "detectSourceLanguage": false,
+            "sourceLanguage": "ja-JP",
+            "language": "ja-JP",
+            "indexingPreset": "Default",
+            "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+            "personModelId": "00000000-0000-0000-0000-000000000000",
+            "isAdult": false
+        }
+    ],
+    "videosRanges": [
+        {
+            "videoId": "02378533c9",
+            "range": {
+                "start": "0:00:00",
+                "end": "0:01:47.328"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1506 @@
+{
+  "accountId": "befbcc2a-3d47-4edd-b239-5165d2c58eca",
+  "id": "9774b5e671",
+  "partition": null,
+  "name": "IMG_9513",
+  "description": null,
+  "userName": "Naoki Saito",
+  "created": "2018-12-25T15:39:06.0640735+00:00",
+  "privacyMode": "Private",
+  "state": "Processed",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 60,
+  "summarizedInsights": {
+    "name": "IMG_9513",
+    "id": "9774b5e671",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:01:00.375",
+      "seconds": 60.4
+    },
+    "thumbnailVideoId": "9774b5e671",
+    "thumbnailId": "811d8c96-dd5a-469e-944a-272ba40b0174",
+    "faces": [
+      {
+        "id": 1000,
+        "videoId": "9774b5e671",
+        "referenceId": null,
+        "referenceType": "Bing",
+        "knownPersonId": "00000000-0000-0000-0000-000000000000",
+        "confidence": 0,
+        "name": "Unknown #1",
+        "description": null,
+        "title": null,
+        "thumbnailId": "114c9bf0-bd12-4f46-847a-7fc407c3897b",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.375",
+            "startSeconds": 0,
+            "endSeconds": 60.4
+          }
+        ],
+        "seenDuration": 60.4,
+        "seenDurationRatio": 1
+      }
+    ],
+    "keywords": [
+      {
+        "id": 0,
+        "name": "一人旅",
+        "appearances": [
+          {
+            "startTime": "0:00:01",
+            "endTime": "0:00:12.77",
+            "startSeconds": 1,
+            "endSeconds": 12.8
+          },
+          {
+            "startTime": "0:00:12.78",
+            "endTime": "0:00:27.88",
+            "startSeconds": 12.8,
+            "endSeconds": 27.9
+          },
+          {
+            "startTime": "0:00:36.64",
+            "endTime": "0:00:46.78",
+            "startSeconds": 36.6,
+            "endSeconds": 46.8
+          }
+        ],
+        "isTranscript": true
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:12.78",
+            "startSeconds": 0,
+            "endSeconds": 12.8
+          },
+          {
+            "startTime": "0:00:27.88",
+            "endTime": "0:00:48.58",
+            "startSeconds": 27.9,
+            "endSeconds": 48.6
+          },
+          {
+            "startTime": "0:00:58.65",
+            "endTime": "0:01:00.375",
+            "startSeconds": 58.6,
+            "endSeconds": 60.4
+          }
+        ],
+        "seenDurationRatio": 0.5831
+      },
+      {
+        "sentimentKey": "Positive",
+        "appearances": [
+          {
+            "startTime": "0:00:12.78",
+            "endTime": "0:00:27.88",
+            "startSeconds": 12.8,
+            "endSeconds": 27.9
+          },
+          {
+            "startTime": "0:00:48.58",
+            "endTime": "0:00:58.65",
+            "startSeconds": 48.6,
+            "endSeconds": 58.6
+          }
+        ],
+        "seenDurationRatio": 0.4169
+      }
+    ],
+    "emotions": [
+      {
+        "type": "Joy",
+        "appearances": [
+          {
+            "startTime": "0:00:12.78",
+            "endTime": "0:00:27.88",
+            "startSeconds": 12.8,
+            "endSeconds": 27.9
+          },
+          {
+            "startTime": "0:00:48.58",
+            "endTime": "0:00:58.65",
+            "startSeconds": 48.6,
+            "endSeconds": 58.6
+          }
+        ],
+        "seenDurationRatio": 0.4169
+      }
+    ],
+    "audioEffects": [],
+    "labels": [
+      {
+        "id": 1,
+        "name": "person",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.042",
+            "startSeconds": 0,
+            "endSeconds": 60
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "wall",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.042",
+            "startSeconds": 0,
+            "endSeconds": 60
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "indoor",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.042",
+            "startSeconds": 0,
+            "endSeconds": 60
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "name": "woman",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:58.709",
+            "startSeconds": 0,
+            "endSeconds": 58.7
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "smiling",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:34.666",
+            "startSeconds": 0,
+            "endSeconds": 34.7
+          },
+          {
+            "startTime": "0:00:38.667",
+            "endTime": "0:00:58.709",
+            "startSeconds": 38.7,
+            "endSeconds": 58.7
+          }
+        ]
+      }
+    ],
+    "brands": [],
+    "statistics": {
+      "correspondenceCount": 0,
+      "speakerTalkToListenRatio": { "1": 1 },
+      "speakerLongestMonolog": { "1": 54 },
+      "speakerNumberOfFragments": { "1": 5 },
+      "speakerWordCount": { "1": 5 }
+    },
+    "topics": [
+      {
+        "id": 0,
+        "name": "Tourism/visiting And Travel/visiting And Travel Advice",
+        "referenceUrl": null,
+        "iptcName": null,
+        "confidence": 0.9758,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.375",
+            "startSeconds": 0,
+            "endSeconds": 60.4
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "International Travel Hacks",
+        "referenceUrl": null,
+        "iptcName": null,
+        "confidence": 0.9681,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.375",
+            "startSeconds": 0,
+            "endSeconds": 60.4
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Tourism",
+        "referenceUrl": null,
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.9306,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.375",
+            "startSeconds": 0,
+            "endSeconds": 60.4
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Tourism/visiting And Travel/travel Hacks",
+        "referenceUrl": null,
+        "iptcName": null,
+        "confidence": 0.6742,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.375",
+            "startSeconds": 0,
+            "endSeconds": 60.4
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Tourism/visiting And Travel/adventure Travel",
+        "referenceUrl": null,
+        "iptcName": null,
+        "confidence": 0.656,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:00.375",
+            "startSeconds": 0,
+            "endSeconds": 60.4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "befbcc2a-3d47-4edd-b239-5165d2c58eca",
+      "id": "9774b5e671",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureCode": "None",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:01:00.375",
+        "sourceLanguage": "ja-JP",
+        "language": "ja-JP",
+        "transcript": [
+          {
+            "id": 0,
+            "text": "こんにちは私は先週生まれて初めて一人旅を体験しました。三泊四日で吸収を横断する電車の旅をしてきました。",
+            "confidence": 1,
+            "speakerId": 1,
+            "language": "ja-JP",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01",
+                "adjustedEnd": "0:00:12.77",
+                "start": "0:00:01",
+                "end": "0:00:12.77"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "一人旅でのつく力はたくさんあって中でもコミュニケーション能力が一番伸びるとおもいます。例えば、今回の旅では海外から来た旅行さんの友達になって一日一緒に観光しました。",
+            "confidence": 1,
+            "speakerId": 1,
+            "language": "ja-JP",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.78",
+                "adjustedEnd": "0:00:27.88",
+                "start": "0:00:12.78",
+                "end": "0:00:27.88"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "さらに地元の人にガイドに載っていない観光スポットを教えてもらって設計を見てきました。",
+            "confidence": 1,
+            "speakerId": 1,
+            "language": "ja-JP",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.36",
+                "adjustedEnd": "0:00:35.99",
+                "start": "0:00:28.36",
+                "end": "0:00:35.99"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "一人旅では人との出会いを大切にして常に冒険心を持ってその場を楽しむことがすごく大事です。",
+            "confidence": 1,
+            "speakerId": 1,
+            "language": "ja-JP",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.64",
+                "adjustedEnd": "0:00:46.78",
+                "start": "0:00:36.64",
+                "end": "0:00:46.78"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "どんどん人とのコミュニケーション能力が盛んになっていくとおもいます。次は海外旅行に挑戦したいと思います。ありがとうございました。",
+            "confidence": 1,
+            "speakerId": 1,
+            "language": "ja-JP",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.58",
+                "adjustedEnd": "0:00:58.65",
+                "start": "0:00:48.58",
+                "end": "0:00:58.65"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 0,
+            "text": "一人旅",
+            "confidence": 0.6211,
+            "language": "ja-JP",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:21.65",
+                "start": "0:00:00",
+                "end": "0:00:21.65"
+              },
+              {
+                "adjustedStart": "0:00:36.65",
+                "adjustedEnd": "0:00:48.58",
+                "start": "0:00:36.65",
+                "end": "0:00:48.58"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 0,
+            "name": "Visiting And Travel Advice",
+            "referenceId": "Tourism/visiting And Travel/visiting And Travel Advice",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.9758,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:00",
+                "end": "0:01:00.375"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "International Travel Hacks",
+            "referenceId": "International Travel Hacks",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.9681,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:00",
+                "end": "0:01:00.375"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Tourism",
+            "referenceId": "Tourism",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Lifestyle and Leisure",
+            "confidence": 0.9306,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:00",
+                "end": "0:01:00.375"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Travel Hacks",
+            "referenceId": "Tourism/visiting And Travel/travel Hacks",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.6742,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:00",
+                "end": "0:01:00.375"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Adventure Travel",
+            "referenceId": "Tourism/visiting And Travel/adventure Travel",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.656,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:00",
+                "end": "0:01:00.375"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1000,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "114c9bf0-bd12-4f46-847a-7fc407c3897b",
+            "referenceId": null,
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "813c26c2-d335-4d44-97eb-7d45447df3a2",
+                "fileName": "FaceThumbnail_813c26c2-d335-4d44-97eb-7d45447df3a2.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00",
+                    "adjustedEnd": "0:00:00.042",
+                    "start": "0:00:00",
+                    "end": "0:00:00.042"
+                  }
+                ]
+              },
+              {
+                "id": "5c082d1c-5d63-445f-968e-de5e4c98fc3c",
+                "fileName": "FaceThumbnail_5c082d1c-5d63-445f-968e-de5e4c98fc3c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05",
+                    "adjustedEnd": "0:00:05.042",
+                    "start": "0:00:05",
+                    "end": "0:00:05.042"
+                  }
+                ]
+              },
+              {
+                "id": "5b8e15d7-56c2-46d4-83d7-eb164ff87a83",
+                "fileName": "FaceThumbnail_5b8e15d7-56c2-46d4-83d7-eb164ff87a83.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10",
+                    "adjustedEnd": "0:00:10.042",
+                    "start": "0:00:10",
+                    "end": "0:00:10.042"
+                  }
+                ]
+              },
+              {
+                "id": "30aaade1-c93f-4746-849c-b1d045ee6ef6",
+                "fileName": "FaceThumbnail_30aaade1-c93f-4746-849c-b1d045ee6ef6.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15",
+                    "adjustedEnd": "0:00:15.042",
+                    "start": "0:00:15",
+                    "end": "0:00:15.042"
+                  }
+                ]
+              },
+              {
+                "id": "bd401250-4acc-4628-a914-909dd2542e10",
+                "fileName": "FaceThumbnail_bd401250-4acc-4628-a914-909dd2542e10.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20",
+                    "adjustedEnd": "0:00:20.042",
+                    "start": "0:00:20",
+                    "end": "0:00:20.042"
+                  }
+                ]
+              },
+              {
+                "id": "114c9bf0-bd12-4f46-847a-7fc407c3897b",
+                "fileName": "FaceThumbnail_114c9bf0-bd12-4f46-847a-7fc407c3897b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:22.083",
+                    "adjustedEnd": "0:00:22.125",
+                    "start": "0:00:22.083",
+                    "end": "0:00:22.125"
+                  }
+                ]
+              },
+              {
+                "id": "8ab6c627-8b8a-4b5d-aa06-95514b1309ec",
+                "fileName": "FaceThumbnail_8ab6c627-8b8a-4b5d-aa06-95514b1309ec.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:25",
+                    "adjustedEnd": "0:00:25.042",
+                    "start": "0:00:25",
+                    "end": "0:00:25.042"
+                  }
+                ]
+              },
+              {
+                "id": "a0cb8051-e1ff-4219-85d0-1ede5d950f28",
+                "fileName": "FaceThumbnail_a0cb8051-e1ff-4219-85d0-1ede5d950f28.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:30",
+                    "adjustedEnd": "0:00:30.042",
+                    "start": "0:00:30",
+                    "end": "0:00:30.042"
+                  }
+                ]
+              },
+              {
+                "id": "94f0c262-0dd2-475d-9f75-f1634b1c79cc",
+                "fileName": "FaceThumbnail_94f0c262-0dd2-475d-9f75-f1634b1c79cc.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:35",
+                    "adjustedEnd": "0:00:35.042",
+                    "start": "0:00:35",
+                    "end": "0:00:35.042"
+                  }
+                ]
+              },
+              {
+                "id": "9ffe84cc-c887-418f-9c85-2cae29c988e0",
+                "fileName": "FaceThumbnail_9ffe84cc-c887-418f-9c85-2cae29c988e0.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:40",
+                    "adjustedEnd": "0:00:40.042",
+                    "start": "0:00:40",
+                    "end": "0:00:40.042"
+                  }
+                ]
+              },
+              {
+                "id": "dd2f6639-34a0-4715-b5ad-99872b285e36",
+                "fileName": "FaceThumbnail_dd2f6639-34a0-4715-b5ad-99872b285e36.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:45",
+                    "adjustedEnd": "0:00:45.042",
+                    "start": "0:00:45",
+                    "end": "0:00:45.042"
+                  }
+                ]
+              },
+              {
+                "id": "87ea0980-d96d-4e41-9757-e5feb3c95c12",
+                "fileName": "FaceThumbnail_87ea0980-d96d-4e41-9757-e5feb3c95c12.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:50",
+                    "adjustedEnd": "0:00:50.042",
+                    "start": "0:00:50",
+                    "end": "0:00:50.042"
+                  }
+                ]
+              },
+              {
+                "id": "dce59f13-2d00-478c-b6c8-a6c7c5d46575",
+                "fileName": "FaceThumbnail_dce59f13-2d00-478c-b6c8-a6c7c5d46575.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:55",
+                    "adjustedEnd": "0:00:55.042",
+                    "start": "0:00:55",
+                    "end": "0:00:55.042"
+                  }
+                ]
+              },
+              {
+                "id": "d54deca9-fd2a-4275-977b-7399bb8c98cf",
+                "fileName": "FaceThumbnail_d54deca9-fd2a-4275-977b-7399bb8c98cf.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:00",
+                    "adjustedEnd": "0:01:00.042",
+                    "start": "0:01:00",
+                    "end": "0:01:00.042"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [ "813c26c2-d335-4d44-97eb-7d45447df3a2", "dd2f6639-34a0-4715-b5ad-99872b285e36", "87ea0980-d96d-4e41-9757-e5feb3c95c12", "5c082d1c-5d63-445f-968e-de5e4c98fc3c", "dce59f13-2d00-478c-b6c8-a6c7c5d46575", "d54deca9-fd2a-4275-977b-7399bb8c98cf", "5b8e15d7-56c2-46d4-83d7-eb164ff87a83", "30aaade1-c93f-4746-849c-b1d045ee6ef6", "bd401250-4acc-4628-a914-909dd2542e10", "114c9bf0-bd12-4f46-847a-7fc407c3897b", "8ab6c627-8b8a-4b5d-aa06-95514b1309ec", "a0cb8051-e1ff-4219-85d0-1ede5d950f28", "94f0c262-0dd2-475d-9f75-f1634b1c79cc", "9ffe84cc-c887-418f-9c85-2cae29c988e0" ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:00",
+                "end": "0:01:00.375"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 0,
+            "name": "woman",
+            "language": "ja-JP",
+            "instances": [
+              {
+                "confidence": 0.9672,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.666",
+                "start": "0:00:00",
+                "end": "0:00:02.666"
+              },
+              {
+                "confidence": 0.9824,
+                "adjustedStart": "0:00:02.667",
+                "adjustedEnd": "0:00:06.666",
+                "start": "0:00:02.667",
+                "end": "0:00:06.666"
+              },
+              {
+                "confidence": 0.9543,
+                "adjustedStart": "0:00:06.667",
+                "adjustedEnd": "0:00:10.666",
+                "start": "0:00:06.667",
+                "end": "0:00:10.666"
+              },
+              {
+                "confidence": 0.9749,
+                "adjustedStart": "0:00:10.667",
+                "adjustedEnd": "0:00:14.666",
+                "start": "0:00:10.667",
+                "end": "0:00:14.666"
+              },
+              {
+                "confidence": 0.9698,
+                "adjustedStart": "0:00:14.667",
+                "adjustedEnd": "0:00:18.666",
+                "start": "0:00:14.667",
+                "end": "0:00:18.666"
+              },
+              {
+                "confidence": 0.9881,
+                "adjustedStart": "0:00:18.667",
+                "adjustedEnd": "0:00:22.666",
+                "start": "0:00:18.667",
+                "end": "0:00:22.666"
+              },
+              {
+                "confidence": 0.9771,
+                "adjustedStart": "0:00:22.667",
+                "adjustedEnd": "0:00:26.666",
+                "start": "0:00:22.667",
+                "end": "0:00:26.666"
+              },
+              {
+                "confidence": 0.9598,
+                "adjustedStart": "0:00:26.667",
+                "adjustedEnd": "0:00:30.666",
+                "start": "0:00:26.667",
+                "end": "0:00:30.666"
+              },
+              {
+                "confidence": 0.9758,
+                "adjustedStart": "0:00:30.667",
+                "adjustedEnd": "0:00:34.666",
+                "start": "0:00:30.667",
+                "end": "0:00:34.666"
+              },
+              {
+                "confidence": 0.9542,
+                "adjustedStart": "0:00:34.667",
+                "adjustedEnd": "0:00:38.666",
+                "start": "0:00:34.667",
+                "end": "0:00:38.666"
+              },
+              {
+                "confidence": 0.9544,
+                "adjustedStart": "0:00:38.667",
+                "adjustedEnd": "0:00:42.666",
+                "start": "0:00:38.667",
+                "end": "0:00:42.666"
+              },
+              {
+                "confidence": 0.955,
+                "adjustedStart": "0:00:42.667",
+                "adjustedEnd": "0:00:46.666",
+                "start": "0:00:42.667",
+                "end": "0:00:46.666"
+              },
+              {
+                "confidence": 0.9653,
+                "adjustedStart": "0:00:46.667",
+                "adjustedEnd": "0:00:50.666",
+                "start": "0:00:46.667",
+                "end": "0:00:50.666"
+              },
+              {
+                "confidence": 0.9655,
+                "adjustedStart": "0:00:50.667",
+                "adjustedEnd": "0:00:54.666",
+                "start": "0:00:50.667",
+                "end": "0:00:54.666"
+              },
+              {
+                "confidence": 0.9671,
+                "adjustedStart": "0:00:54.667",
+                "adjustedEnd": "0:00:58.666",
+                "start": "0:00:54.667",
+                "end": "0:00:58.666"
+              },
+              {
+                "confidence": 0.9794,
+                "adjustedStart": "0:00:58.667",
+                "adjustedEnd": "0:00:58.709",
+                "start": "0:00:58.667",
+                "end": "0:00:58.709"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "person",
+            "language": "ja-JP",
+            "instances": [
+              {
+                "confidence": 0.9986,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.666",
+                "start": "0:00:00",
+                "end": "0:00:02.666"
+              },
+              {
+                "confidence": 0.9982,
+                "adjustedStart": "0:00:02.667",
+                "adjustedEnd": "0:00:06.666",
+                "start": "0:00:02.667",
+                "end": "0:00:06.666"
+              },
+              {
+                "confidence": 0.9964,
+                "adjustedStart": "0:00:06.667",
+                "adjustedEnd": "0:00:10.666",
+                "start": "0:00:06.667",
+                "end": "0:00:10.666"
+              },
+              {
+                "confidence": 0.9986,
+                "adjustedStart": "0:00:10.667",
+                "adjustedEnd": "0:00:14.666",
+                "start": "0:00:10.667",
+                "end": "0:00:14.666"
+              },
+              {
+                "confidence": 0.9986,
+                "adjustedStart": "0:00:14.667",
+                "adjustedEnd": "0:00:18.666",
+                "start": "0:00:14.667",
+                "end": "0:00:18.666"
+              },
+              {
+                "confidence": 0.9984,
+                "adjustedStart": "0:00:18.667",
+                "adjustedEnd": "0:00:22.666",
+                "start": "0:00:18.667",
+                "end": "0:00:22.666"
+              },
+              {
+                "confidence": 0.9987,
+                "adjustedStart": "0:00:22.667",
+                "adjustedEnd": "0:00:26.666",
+                "start": "0:00:22.667",
+                "end": "0:00:26.666"
+              },
+              {
+                "confidence": 0.997,
+                "adjustedStart": "0:00:26.667",
+                "adjustedEnd": "0:00:30.666",
+                "start": "0:00:26.667",
+                "end": "0:00:30.666"
+              },
+              {
+                "confidence": 0.999,
+                "adjustedStart": "0:00:30.667",
+                "adjustedEnd": "0:00:34.666",
+                "start": "0:00:30.667",
+                "end": "0:00:34.666"
+              },
+              {
+                "confidence": 0.998,
+                "adjustedStart": "0:00:34.667",
+                "adjustedEnd": "0:00:38.666",
+                "start": "0:00:34.667",
+                "end": "0:00:38.666"
+              },
+              {
+                "confidence": 0.9982,
+                "adjustedStart": "0:00:38.667",
+                "adjustedEnd": "0:00:42.666",
+                "start": "0:00:38.667",
+                "end": "0:00:42.666"
+              },
+              {
+                "confidence": 0.9973,
+                "adjustedStart": "0:00:42.667",
+                "adjustedEnd": "0:00:46.666",
+                "start": "0:00:42.667",
+                "end": "0:00:46.666"
+              },
+              {
+                "confidence": 0.9989,
+                "adjustedStart": "0:00:46.667",
+                "adjustedEnd": "0:00:50.666",
+                "start": "0:00:46.667",
+                "end": "0:00:50.666"
+              },
+              {
+                "confidence": 0.9973,
+                "adjustedStart": "0:00:50.667",
+                "adjustedEnd": "0:00:54.666",
+                "start": "0:00:50.667",
+                "end": "0:00:54.666"
+              },
+              {
+                "confidence": 0.9981,
+                "adjustedStart": "0:00:54.667",
+                "adjustedEnd": "0:00:58.666",
+                "start": "0:00:54.667",
+                "end": "0:00:58.666"
+              },
+              {
+                "confidence": 0.9962,
+                "adjustedStart": "0:00:58.667",
+                "adjustedEnd": "0:00:58.709",
+                "start": "0:00:58.667",
+                "end": "0:00:58.709"
+              },
+              {
+                "confidence": 0.9978,
+                "adjustedStart": "0:01:00",
+                "adjustedEnd": "0:01:00.042",
+                "start": "0:01:00",
+                "end": "0:01:00.042"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "wall",
+            "language": "ja-JP",
+            "instances": [
+              {
+                "confidence": 0.9952,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.333",
+                "start": "0:00:00",
+                "end": "0:00:01.333"
+              },
+              {
+                "confidence": 0.9894,
+                "adjustedStart": "0:00:02.667",
+                "adjustedEnd": "0:00:06.666",
+                "start": "0:00:02.667",
+                "end": "0:00:06.666"
+              },
+              {
+                "confidence": 0.9893,
+                "adjustedStart": "0:00:06.667",
+                "adjustedEnd": "0:00:10.666",
+                "start": "0:00:06.667",
+                "end": "0:00:10.666"
+              },
+              {
+                "confidence": 0.9882,
+                "adjustedStart": "0:00:10.667",
+                "adjustedEnd": "0:00:14.666",
+                "start": "0:00:10.667",
+                "end": "0:00:14.666"
+              },
+              {
+                "confidence": 0.9779,
+                "adjustedStart": "0:00:14.667",
+                "adjustedEnd": "0:00:18.666",
+                "start": "0:00:14.667",
+                "end": "0:00:18.666"
+              },
+              {
+                "confidence": 0.9894,
+                "adjustedStart": "0:00:18.667",
+                "adjustedEnd": "0:00:22.666",
+                "start": "0:00:18.667",
+                "end": "0:00:22.666"
+              },
+              {
+                "confidence": 0.9836,
+                "adjustedStart": "0:00:22.667",
+                "adjustedEnd": "0:00:26.666",
+                "start": "0:00:22.667",
+                "end": "0:00:26.666"
+              },
+              {
+                "confidence": 0.9564,
+                "adjustedStart": "0:00:29.333",
+                "adjustedEnd": "0:00:30.666",
+                "start": "0:00:29.333",
+                "end": "0:00:30.666"
+              },
+              {
+                "confidence": 0.9767,
+                "adjustedStart": "0:00:30.667",
+                "adjustedEnd": "0:00:34.666",
+                "start": "0:00:30.667",
+                "end": "0:00:34.666"
+              },
+              {
+                "confidence": 0.9791,
+                "adjustedStart": "0:00:34.667",
+                "adjustedEnd": "0:00:38.666",
+                "start": "0:00:34.667",
+                "end": "0:00:38.666"
+              },
+              {
+                "confidence": 0.9843,
+                "adjustedStart": "0:00:38.667",
+                "adjustedEnd": "0:00:42.666",
+                "start": "0:00:38.667",
+                "end": "0:00:42.666"
+              },
+              {
+                "confidence": 0.9769,
+                "adjustedStart": "0:00:42.667",
+                "adjustedEnd": "0:00:46.666",
+                "start": "0:00:42.667",
+                "end": "0:00:46.666"
+              },
+              {
+                "confidence": 0.9833,
+                "adjustedStart": "0:00:46.667",
+                "adjustedEnd": "0:00:50.666",
+                "start": "0:00:46.667",
+                "end": "0:00:50.666"
+              },
+              {
+                "confidence": 0.9916,
+                "adjustedStart": "0:00:50.667",
+                "adjustedEnd": "0:00:54.666",
+                "start": "0:00:50.667",
+                "end": "0:00:54.666"
+              },
+              {
+                "confidence": 0.9717,
+                "adjustedStart": "0:00:54.667",
+                "adjustedEnd": "0:00:58.666",
+                "start": "0:00:54.667",
+                "end": "0:00:58.666"
+              },
+              {
+                "confidence": 0.9895,
+                "adjustedStart": "0:00:58.667",
+                "adjustedEnd": "0:00:58.709",
+                "start": "0:00:58.667",
+                "end": "0:00:58.709"
+              },
+              {
+                "confidence": 0.9567,
+                "adjustedStart": "0:01:00",
+                "adjustedEnd": "0:01:00.042",
+                "start": "0:01:00",
+                "end": "0:01:00.042"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "smiling",
+            "language": "ja-JP",
+            "instances": [
+              {
+                "confidence": 0.8812,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.333",
+                "start": "0:00:00",
+                "end": "0:00:01.333"
+              },
+              {
+                "confidence": 0.8635,
+                "adjustedStart": "0:00:02.667",
+                "adjustedEnd": "0:00:05.333",
+                "start": "0:00:02.667",
+                "end": "0:00:05.333"
+              },
+              {
+                "confidence": 0.9136,
+                "adjustedStart": "0:00:06.667",
+                "adjustedEnd": "0:00:10.666",
+                "start": "0:00:06.667",
+                "end": "0:00:10.666"
+              },
+              {
+                "confidence": 0.8302,
+                "adjustedStart": "0:00:10.667",
+                "adjustedEnd": "0:00:14.666",
+                "start": "0:00:10.667",
+                "end": "0:00:14.666"
+              },
+              {
+                "confidence": 0.8556,
+                "adjustedStart": "0:00:16",
+                "adjustedEnd": "0:00:18.666",
+                "start": "0:00:16",
+                "end": "0:00:18.666"
+              },
+              {
+                "confidence": 0.8975,
+                "adjustedStart": "0:00:18.667",
+                "adjustedEnd": "0:00:22.666",
+                "start": "0:00:18.667",
+                "end": "0:00:22.666"
+              },
+              {
+                "confidence": 0.9186,
+                "adjustedStart": "0:00:22.667",
+                "adjustedEnd": "0:00:25.333",
+                "start": "0:00:22.667",
+                "end": "0:00:25.333"
+              },
+              {
+                "confidence": 0.9184,
+                "adjustedStart": "0:00:26.667",
+                "adjustedEnd": "0:00:30.666",
+                "start": "0:00:26.667",
+                "end": "0:00:30.666"
+              },
+              {
+                "confidence": 0.8699,
+                "adjustedStart": "0:00:30.667",
+                "adjustedEnd": "0:00:34.666",
+                "start": "0:00:30.667",
+                "end": "0:00:34.666"
+              },
+              {
+                "confidence": 0.8472,
+                "adjustedStart": "0:00:38.667",
+                "adjustedEnd": "0:00:41.333",
+                "start": "0:00:38.667",
+                "end": "0:00:41.333"
+              },
+              {
+                "confidence": 0.8715,
+                "adjustedStart": "0:00:42.667",
+                "adjustedEnd": "0:00:44",
+                "start": "0:00:42.667",
+                "end": "0:00:44"
+              },
+              {
+                "confidence": 0.8563,
+                "adjustedStart": "0:00:45.333",
+                "adjustedEnd": "0:00:46.666",
+                "start": "0:00:45.333",
+                "end": "0:00:46.666"
+              },
+              {
+                "confidence": 0.9118,
+                "adjustedStart": "0:00:46.667",
+                "adjustedEnd": "0:00:48",
+                "start": "0:00:46.667",
+                "end": "0:00:48"
+              },
+              {
+                "confidence": 0.9064,
+                "adjustedStart": "0:00:49.333",
+                "adjustedEnd": "0:00:50.666",
+                "start": "0:00:49.333",
+                "end": "0:00:50.666"
+              },
+              {
+                "confidence": 0.8975,
+                "adjustedStart": "0:00:50.667",
+                "adjustedEnd": "0:00:54.666",
+                "start": "0:00:50.667",
+                "end": "0:00:54.666"
+              },
+              {
+                "confidence": 0.8823,
+                "adjustedStart": "0:00:54.667",
+                "adjustedEnd": "0:00:58.666",
+                "start": "0:00:54.667",
+                "end": "0:00:58.666"
+              },
+              {
+                "confidence": 0.833,
+                "adjustedStart": "0:00:58.667",
+                "adjustedEnd": "0:00:58.709",
+                "start": "0:00:58.667",
+                "end": "0:00:58.709"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "indoor",
+            "language": "ja-JP",
+            "instances": [
+              {
+                "confidence": 0.9391,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.666",
+                "start": "0:00:00",
+                "end": "0:00:02.666"
+              },
+              {
+                "confidence": 0.9713,
+                "adjustedStart": "0:00:02.667",
+                "adjustedEnd": "0:00:06.666",
+                "start": "0:00:02.667",
+                "end": "0:00:06.666"
+              },
+              {
+                "confidence": 0.9785,
+                "adjustedStart": "0:00:06.667",
+                "adjustedEnd": "0:00:10.666",
+                "start": "0:00:06.667",
+                "end": "0:00:10.666"
+              },
+              {
+                "confidence": 0.9759,
+                "adjustedStart": "0:00:10.667",
+                "adjustedEnd": "0:00:14.666",
+                "start": "0:00:10.667",
+                "end": "0:00:14.666"
+              },
+              {
+                "confidence": 0.961,
+                "adjustedStart": "0:00:14.667",
+                "adjustedEnd": "0:00:18.666",
+                "start": "0:00:14.667",
+                "end": "0:00:18.666"
+              },
+              {
+                "confidence": 0.9707,
+                "adjustedStart": "0:00:18.667",
+                "adjustedEnd": "0:00:22.666",
+                "start": "0:00:18.667",
+                "end": "0:00:22.666"
+              },
+              {
+                "confidence": 0.9604,
+                "adjustedStart": "0:00:22.667",
+                "adjustedEnd": "0:00:26.666",
+                "start": "0:00:22.667",
+                "end": "0:00:26.666"
+              },
+              {
+                "confidence": 0.8933,
+                "adjustedStart": "0:00:26.667",
+                "adjustedEnd": "0:00:30.666",
+                "start": "0:00:26.667",
+                "end": "0:00:30.666"
+              },
+              {
+                "confidence": 0.9686,
+                "adjustedStart": "0:00:30.667",
+                "adjustedEnd": "0:00:34.666",
+                "start": "0:00:30.667",
+                "end": "0:00:34.666"
+              },
+              {
+                "confidence": 0.9554,
+                "adjustedStart": "0:00:34.667",
+                "adjustedEnd": "0:00:38.666",
+                "start": "0:00:34.667",
+                "end": "0:00:38.666"
+              },
+              {
+                "confidence": 0.9763,
+                "adjustedStart": "0:00:38.667",
+                "adjustedEnd": "0:00:42.666",
+                "start": "0:00:38.667",
+                "end": "0:00:42.666"
+              },
+              {
+                "confidence": 0.9566,
+                "adjustedStart": "0:00:42.667",
+                "adjustedEnd": "0:00:46.666",
+                "start": "0:00:42.667",
+                "end": "0:00:46.666"
+              },
+              {
+                "confidence": 0.9708,
+                "adjustedStart": "0:00:46.667",
+                "adjustedEnd": "0:00:50.666",
+                "start": "0:00:46.667",
+                "end": "0:00:50.666"
+              },
+              {
+                "confidence": 0.9566,
+                "adjustedStart": "0:00:50.667",
+                "adjustedEnd": "0:00:54.666",
+                "start": "0:00:50.667",
+                "end": "0:00:54.666"
+              },
+              {
+                "confidence": 0.9492,
+                "adjustedStart": "0:00:54.667",
+                "adjustedEnd": "0:00:58.666",
+                "start": "0:00:54.667",
+                "end": "0:00:58.666"
+              },
+              {
+                "confidence": 0.9624,
+                "adjustedStart": "0:00:58.667",
+                "adjustedEnd": "0:00:58.709",
+                "start": "0:00:58.667",
+                "end": "0:00:58.709"
+              },
+              {
+                "confidence": 0.975,
+                "adjustedStart": "0:01:00",
+                "adjustedEnd": "0:01:00.042",
+                "start": "0:01:00",
+                "end": "0:01:00.042"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 0,
+            "keyFrames": [
+              {
+                "id": 0,
+                "instances": [
+                  {
+                    "thumbnailId": "784bf0a5-4e54-438a-b6d6-45e2e5e9c190",
+                    "adjustedStart": "0:00:11.5",
+                    "adjustedEnd": "0:00:11.542",
+                    "start": "0:00:11.5",
+                    "end": "0:00:11.542"
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "8c417497-fc19-4bb6-b672-51ec7cb02d9f",
+                    "adjustedStart": "0:00:29.083",
+                    "adjustedEnd": "0:00:29.125",
+                    "start": "0:00:29.083",
+                    "end": "0:00:29.125"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "0067d377-730e-4a2b-8302-d14fd361e271",
+                    "adjustedStart": "0:00:41.5",
+                    "adjustedEnd": "0:00:41.542",
+                    "start": "0:00:41.5",
+                    "end": "0:00:41.542"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.5",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:11.5",
+                "end": "0:01:00.375"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 0,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:12.78",
+                "start": "0:00:00",
+                "end": "0:00:12.78"
+              },
+              {
+                "adjustedStart": "0:00:27.88",
+                "adjustedEnd": "0:00:48.58",
+                "start": "0:00:27.88",
+                "end": "0:00:48.58"
+              },
+              {
+                "adjustedStart": "0:00:58.65",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:58.65",
+                "end": "0:01:00.375"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "averageScore": 0.955,
+            "sentimentType": "Positive",
+            "instances": [
+              {
+                "adjustedStart": "0:00:12.78",
+                "adjustedEnd": "0:00:27.88",
+                "start": "0:00:12.78",
+                "end": "0:00:27.88"
+              },
+              {
+                "adjustedStart": "0:00:48.58",
+                "adjustedEnd": "0:00:58.65",
+                "start": "0:00:48.58",
+                "end": "0:00:58.65"
+              }
+            ]
+          }
+        ],
+        "emotions": [
+          {
+            "id": 0,
+            "type": "Joy",
+            "instances": [
+              {
+                "confidence": 0.7203,
+                "adjustedStart": "0:00:12.78",
+                "adjustedEnd": "0:00:27.88",
+                "start": "0:00:12.78",
+                "end": "0:00:27.88"
+              },
+              {
+                "confidence": 0.6703,
+                "adjustedStart": "0:00:48.58",
+                "adjustedEnd": "0:00:58.65",
+                "start": "0:00:48.58",
+                "end": "0:00:58.65"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:35.99",
+                "start": "0:00:00",
+                "end": "0:00:35.99"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:35.99",
+                "adjustedEnd": "0:01:00.375",
+                "start": "0:00:35.99",
+                "end": "0:01:00.375"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.165",
+                "start": "0:00:00",
+                "end": "0:01:00.165"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 0,
+          "speakerTalkToListenRatio": { "1": 1 },
+          "speakerLongestMonolog": { "1": 54 },
+          "speakerNumberOfFragments": { "1": 5 },
+          "speakerWordCount": { "1": 5 }
+        },
+        "sourceLanguageConfidence": 1
+      },
+      "thumbnailId": "811d8c96-dd5a-469e-944a-272ba40b0174",
+      "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/f1a22ff2-296a-4e96-9f21-0e60f11501f2/9230d380-24e8-4db7-be04-de92e3eb.ism/manifest(encryption=cbc)",
+      "publishedProxyUrl": null,
+      "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiIxOTkyYWY1YS0xM2E1LTRmZjUtOGQ5Yy02MDEwY2Y3YWU5OGQiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NDU4NDQwMDUsIm5iZiI6MTU0NTc1NzU0NX0.cHnnpLSWpmklongQ52F-3nWNauP1dcVqAoMWsYoB6Zg",
+      "detectSourceLanguage": false,
+      "sourceLanguage": "ja-JP",
+      "language": "ja-JP",
+      "indexingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "isAdult": false
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "9774b5e671",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:01:00.375"
+      }
+    }
+  ]
+}

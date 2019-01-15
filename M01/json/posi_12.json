@@ -1,0 +1,1071 @@
+{
+    "accountId": "7ef52027-e24c-4ead-8353-106298b23434",
+    "id": "3ca214b7c9",
+    "partition": null,
+    "name": "posi_12",
+    "description": null,
+    "userName": "",
+    "created": "2019-01-01T14:42:23.0865275+00:00",
+    "privacyMode": "Private",
+    "state": "Processed",
+    "isOwned": true,
+    "isEditable": true,
+    "isBase": true,
+    "durationInSeconds": 63,
+    "summarizedInsights": {
+        "name": "posi_12",
+        "id": "3ca214b7c9",
+        "privacyMode": "Private",
+        "duration": {
+            "time": "0:01:03.638",
+            "seconds": 63.6
+        },
+        "thumbnailVideoId": "3ca214b7c9",
+        "thumbnailId": "63b819d4-dcdd-4448-a39f-19b44fe01201",
+        "faces": [
+            {
+                "id": 1622,
+                "videoId": "3ca214b7c9",
+                "referenceId": "a6e7477e-1862-41e3-a46a-9e2786b4301e",
+                "referenceType": "Bing",
+                "knownPersonId": "00000000-0000-0000-0000-000000000000",
+                "confidence": 0.9065,
+                "name": "HIKAKIN",
+                "description": "HIKAKIN（ヒカキン、1989年4月21日 - ）は、日本のYouTuber、ヒューマンビートボクサーである。UUUMファウンダー、最高顧問。 1989年4月21日、新潟県新井市（現：妙高市）で次男として生まれる。小さい頃は、教室のすみっこにいるちょっと変わった少年だったという。雪の多い上越地方で育ったことから、小学生の頃 …",
+                "title": null,
+                "thumbnailId": "ea2b00b5-42e1-4207-8ec3-a3d295481198",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.602",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ],
+                "seenDuration": 63.6,
+                "seenDurationRatio": 0.9994
+            }
+        ],
+        "keywords": [],
+        "sentiments": [
+            {
+                "sentimentKey": "Neutral",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:00:10.63",
+                        "startSeconds": 0,
+                        "endSeconds": 10.6
+                    },
+                    {
+                        "startTime": "0:00:11.27",
+                        "endTime": "0:00:31.69",
+                        "startSeconds": 11.3,
+                        "endSeconds": 31.7
+                    },
+                    {
+                        "startTime": "0:00:34.27",
+                        "endTime": "0:00:38.5",
+                        "startSeconds": 34.3,
+                        "endSeconds": 38.5
+                    },
+                    {
+                        "startTime": "0:00:38.92",
+                        "endTime": "0:00:45.05",
+                        "startSeconds": 38.9,
+                        "endSeconds": 45
+                    },
+                    {
+                        "startTime": "0:00:45.38",
+                        "endTime": "0:00:56.21",
+                        "startSeconds": 45.4,
+                        "endSeconds": 56.2
+                    },
+                    {
+                        "startTime": "0:00:56.63",
+                        "endTime": "0:01:03.602",
+                        "startSeconds": 56.6,
+                        "endSeconds": 63.6
+                    }
+                ],
+                "seenDurationRatio": 0.9305
+            }
+        ],
+        "emotions": [],
+        "audioEffects": [],
+        "labels": [
+            {
+                "id": 0,
+                "name": "curtain",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.599",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "indoor",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.599",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "person",
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.599",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "sitting",
+                "appearances": [
+                    {
+                        "startTime": "0:01:02.92",
+                        "endTime": "0:01:03.599",
+                        "startSeconds": 62.9,
+                        "endSeconds": 63.6
+                    }
+                ]
+            }
+        ],
+        "brands": [
+            {
+                "id": 1,
+                "name": "Gucci",
+                "referenceId": "Gucci",
+                "referenceUrl": "http://en.wikipedia.org/wiki/Gucci",
+                "confidence": 1,
+                "description": "Gucci is a Italian luxury brand of fashion and leather goods, part of the Gucci Group, which is owned by the French holding company Kering. Gucci was founded by Guccio Gucci in Florence in 1921.",
+                "appearances": [
+                    {
+                        "startTime": "0:00:59.5",
+                        "endTime": "0:01:00.5",
+                        "startSeconds": 59.5,
+                        "endSeconds": 60.5
+                    }
+                ],
+                "seenDuration": 1
+            }
+        ],
+        "statistics": {
+            "correspondenceCount": 5,
+            "speakerTalkToListenRatio": {
+                "1": 0.279,
+                "3": 0.26,
+                "4": 0.459
+            },
+            "speakerLongestMonolog": {
+                "1": 9,
+                "3": 9,
+                "4": 19
+            },
+            "speakerNumberOfFragments": {
+                "1": 4,
+                "3": 3,
+                "4": 4
+            },
+            "speakerWordCount": {
+                "1": 4,
+                "3": 3,
+                "4": 4
+            }
+        },
+        "topics": [
+            {
+                "id": 0,
+                "name": "Songs",
+                "referenceUrl": null,
+                "iptcName": null,
+                "confidence": 1,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.602",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Music",
+                "referenceUrl": null,
+                "iptcName": "Arts, Culture, Entertainment and Media",
+                "confidence": 1,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.602",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Movies, Tv And Entertainment/song Identification",
+                "referenceUrl": null,
+                "iptcName": null,
+                "confidence": 0.9547,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.602",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Song Lyrics",
+                "referenceUrl": null,
+                "iptcName": null,
+                "confidence": 0.9135,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.602",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Singing",
+                "referenceUrl": null,
+                "iptcName": null,
+                "confidence": 0.7038,
+                "appearances": [
+                    {
+                        "startTime": "0:00:00",
+                        "endTime": "0:01:03.602",
+                        "startSeconds": 0,
+                        "endSeconds": 63.6
+                    }
+                ]
+            }
+        ]
+    },
+    "videos": [
+        {
+            "accountId": "7ef52027-e24c-4ead-8353-106298b23434",
+            "id": "3ca214b7c9",
+            "state": "Processed",
+            "moderationState": "OK",
+            "reviewState": "None",
+            "privacyMode": "Private",
+            "processingProgress": "100%",
+            "failureCode": "None",
+            "failureMessage": "",
+            "externalId": null,
+            "externalUrl": null,
+            "metadata": null,
+            "insights": {
+                "version": "1.0.0.0",
+                "duration": "0:01:03.638",
+                "sourceLanguage": "ja-JP",
+                "language": "ja-JP",
+                "transcript": [
+                    {
+                        "id": 0,
+                        "text": "歌って？",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00.59",
+                                "adjustedEnd": "0:00:01.39",
+                                "start": "0:00:00.59",
+                                "end": "0:00:01.39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "text": "最近ねはまってる歌があるんだよ。あの世界の終わりの新曲ですよ。あのぴょんちゃんオリンピックのテーマになっているって確か聞いたんですけど。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:01.91",
+                                "adjustedEnd": "0:00:10.62",
+                                "start": "0:00:01.91",
+                                "end": "0:00:10.62"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "めっちゃいいね。",
+                        "confidence": 1,
+                        "speakerId": 4,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:11.26",
+                                "adjustedEnd": "0:00:12.49",
+                                "start": "0:00:11.26",
+                                "end": "0:00:12.49"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "text": "いい夢を君へ思い出してさざんかって曲めっちゃいいよしっとりしてるせかお輪の中の曲ではだいぶしっかりしてるほうなんだけど聞けば聞くほど猫菓子とかねメロディーが良いんだよ。",
+                        "confidence": 1,
+                        "speakerId": 4,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:13.43",
+                                "adjustedEnd": "0:00:31.68",
+                                "start": "0:00:13.43",
+                                "end": "0:00:31.68"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "text": "なんかねあれいいんだよね。さざんかあのね。僕がグッときたのは。",
+                        "confidence": 1,
+                        "speakerId": 3,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:34.27",
+                                "adjustedEnd": "0:00:38.49",
+                                "start": "0:00:34.27",
+                                "end": "0:00:38.49"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "text": "主人公は？",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:38.92",
+                                "adjustedEnd": "0:00:40.41",
+                                "start": "0:00:38.92",
+                                "end": "0:00:40.41"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "text": "いつも笑われるからだって言う歌詞があるんだよね。あれが最高。",
+                        "confidence": 1,
+                        "speakerId": 1,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:40.85",
+                                "adjustedEnd": "0:00:45.05",
+                                "start": "0:00:40.85",
+                                "end": "0:00:45.05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "text": "笑われてなんぼだろうっていうそう。",
+                        "confidence": 1,
+                        "speakerId": 3,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:45.37",
+                                "adjustedEnd": "0:00:47.48",
+                                "start": "0:00:45.37",
+                                "end": "0:00:47.48"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "text": "キラキラぼう笑われてるわけよでそれでいつかヒーローになっているとか使い話だ違うから大丈夫だ。",
+                        "confidence": 1,
+                        "speakerId": 3,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:48.32",
+                                "adjustedEnd": "0:00:56.2",
+                                "start": "0:00:48.32",
+                                "end": "0:00:56.2"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "text": "囚人川はられる方法ではみたいなね。",
+                        "confidence": 1,
+                        "speakerId": 4,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:56.61",
+                                "adjustedEnd": "0:01:01.15",
+                                "start": "0:00:56.61",
+                                "end": "0:01:01.15"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "text": "いい曲なんだよ。",
+                        "confidence": 1,
+                        "speakerId": 4,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:01:01.7",
+                                "adjustedEnd": "0:01:02.73",
+                                "start": "0:01:01.7",
+                                "end": "0:01:02.73"
+                            }
+                        ]
+                    }
+                ],
+                "ocr": [
+                    {
+                        "id": 0,
+                        "text": "グッチ",
+                        "confidence": 964.3333,
+                        "left": 1045,
+                        "top": 425,
+                        "width": 199,
+                        "height": 71,
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:59.5",
+                                "adjustedEnd": "0:01:00.5",
+                                "start": "0:00:59.5",
+                                "end": "0:01:00.5"
+                            }
+                        ]
+                    }
+                ],
+                "topics": [
+                    {
+                        "id": 0,
+                        "name": "Songs",
+                        "referenceId": "Songs",
+                        "referenceType": "VideoIndexer",
+                        "confidence": 1,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:00",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "Music",
+                        "referenceId": "Music",
+                        "referenceType": "VideoIndexer",
+                        "iptcName": "Arts, Culture, Entertainment and Media",
+                        "confidence": 1,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:00",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Song Identification",
+                        "referenceId": "Movies, Tv And Entertainment/song Identification",
+                        "referenceType": "VideoIndexer",
+                        "confidence": 0.9547,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:00",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Song Lyrics",
+                        "referenceId": "Song Lyrics",
+                        "referenceType": "VideoIndexer",
+                        "confidence": 0.9135,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:00",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Singing",
+                        "referenceId": "Singing",
+                        "referenceType": "VideoIndexer",
+                        "confidence": 0.7038,
+                        "language": "en-US",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:00",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    }
+                ],
+                "faces": [
+                    {
+                        "id": 1622,
+                        "name": "HIKAKIN",
+                        "confidence": 0.9065,
+                        "description": "HIKAKIN（ヒカキン、1989年4月21日 - ）は、日本のYouTuber、ヒューマンビートボクサーである。UUUMファウンダー、最高顧問。 1989年4月21日、新潟県新井市（現：妙高市）で次男として生まれる。小さい頃は、教室のすみっこにいるちょっと変わった少年だったという。雪の多い上越地方で育ったことから、小学生の頃 …",
+                        "thumbnailId": "ea2b00b5-42e1-4207-8ec3-a3d295481198",
+                        "referenceId": "a6e7477e-1862-41e3-a46a-9e2786b4301e",
+                        "referenceType": "Bing",
+                        "title": null,
+                        "imageUrl": "https://www.bing.com/th?id=Afd097d84914c48e644b675552cfca2c6&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+                        "thumbnails": [
+                            {
+                                "id": "c091e90d-8049-4edf-8d85-d4edaa8c8d1a",
+                                "fileName": "FaceThumbnail_c091e90d-8049-4edf-8d85-d4edaa8c8d1a.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:00",
+                                        "adjustedEnd": "0:00:00.036",
+                                        "start": "0:00:00",
+                                        "end": "0:00:00.036"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "99bfb23a-29e0-495f-81ee-a73807411972",
+                                "fileName": "FaceThumbnail_99bfb23a-29e0-495f-81ee-a73807411972.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:05.005",
+                                        "adjustedEnd": "0:00:05.041",
+                                        "start": "0:00:05.005",
+                                        "end": "0:00:05.041"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "f1f7390f-ebf6-4e98-ba55-44d1aeebfafb",
+                                "fileName": "FaceThumbnail_f1f7390f-ebf6-4e98-ba55-44d1aeebfafb.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:10.01",
+                                        "adjustedEnd": "0:00:10.046",
+                                        "start": "0:00:10.01",
+                                        "end": "0:00:10.046"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "8581ff5c-9eac-4cd5-a39d-4c1c26a3eff4",
+                                "fileName": "FaceThumbnail_8581ff5c-9eac-4cd5-a39d-4c1c26a3eff4.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:15.015",
+                                        "adjustedEnd": "0:00:15.051",
+                                        "start": "0:00:15.015",
+                                        "end": "0:00:15.051"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "c30ed8d4-ffaa-4745-8667-d08d9819bc28",
+                                "fileName": "FaceThumbnail_c30ed8d4-ffaa-4745-8667-d08d9819bc28.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:20.02",
+                                        "adjustedEnd": "0:00:20.056",
+                                        "start": "0:00:20.02",
+                                        "end": "0:00:20.056"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "5a1daad0-157d-4319-b27d-9bc279c75cfc",
+                                "fileName": "FaceThumbnail_5a1daad0-157d-4319-b27d-9bc279c75cfc.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:25.025",
+                                        "adjustedEnd": "0:00:25.061",
+                                        "start": "0:00:25.025",
+                                        "end": "0:00:25.061"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "45917c36-6c5d-444b-8d65-fd76917e2324",
+                                "fileName": "FaceThumbnail_45917c36-6c5d-444b-8d65-fd76917e2324.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:30.03",
+                                        "adjustedEnd": "0:00:30.066",
+                                        "start": "0:00:30.03",
+                                        "end": "0:00:30.066"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "d1d85180-5db3-43e5-94b5-0c904d94813c",
+                                "fileName": "FaceThumbnail_d1d85180-5db3-43e5-94b5-0c904d94813c.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:35.035",
+                                        "adjustedEnd": "0:00:35.071",
+                                        "start": "0:00:35.035",
+                                        "end": "0:00:35.071"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ea2b00b5-42e1-4207-8ec3-a3d295481198",
+                                "fileName": "FaceThumbnail_ea2b00b5-42e1-4207-8ec3-a3d295481198.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:40.04",
+                                        "adjustedEnd": "0:00:40.076",
+                                        "start": "0:00:40.04",
+                                        "end": "0:00:40.076"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "cc11ab82-5ec2-4cfc-882f-693ea7de1bda",
+                                "fileName": "FaceThumbnail_cc11ab82-5ec2-4cfc-882f-693ea7de1bda.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:45.045",
+                                        "adjustedEnd": "0:00:45.081",
+                                        "start": "0:00:45.045",
+                                        "end": "0:00:45.081"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "82eb36d4-a125-4b71-abe3-e11f71ce0bef",
+                                "fileName": "FaceThumbnail_82eb36d4-a125-4b71-abe3-e11f71ce0bef.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:50.05",
+                                        "adjustedEnd": "0:00:50.086",
+                                        "start": "0:00:50.05",
+                                        "end": "0:00:50.086"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "15cb813b-754d-4938-8552-520a8bcd3f22",
+                                "fileName": "FaceThumbnail_15cb813b-754d-4938-8552-520a8bcd3f22.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:00:55.055",
+                                        "adjustedEnd": "0:00:55.091",
+                                        "start": "0:00:55.055",
+                                        "end": "0:00:55.091"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b259d434-1b74-4850-b45c-f080b3d31b8b",
+                                "fileName": "FaceThumbnail_b259d434-1b74-4850-b45c-f080b3d31b8b.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:00.06",
+                                        "adjustedEnd": "0:01:00.096",
+                                        "start": "0:01:00.06",
+                                        "end": "0:01:00.096"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "a33b537c-7c73-4b01-bd9d-928237324550",
+                                "fileName": "FaceThumbnail_a33b537c-7c73-4b01-bd9d-928237324550.jpg",
+                                "instances": [
+                                    {
+                                        "adjustedStart": "0:01:02.706",
+                                        "adjustedEnd": "0:01:02.742",
+                                        "start": "0:01:02.706",
+                                        "end": "0:01:02.742"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "thumbnailsIds": [
+                                    "c091e90d-8049-4edf-8d85-d4edaa8c8d1a",
+                                    "ea2b00b5-42e1-4207-8ec3-a3d295481198",
+                                    "cc11ab82-5ec2-4cfc-882f-693ea7de1bda",
+                                    "82eb36d4-a125-4b71-abe3-e11f71ce0bef",
+                                    "99bfb23a-29e0-495f-81ee-a73807411972",
+                                    "15cb813b-754d-4938-8552-520a8bcd3f22",
+                                    "b259d434-1b74-4850-b45c-f080b3d31b8b",
+                                    "a33b537c-7c73-4b01-bd9d-928237324550",
+                                    "f1f7390f-ebf6-4e98-ba55-44d1aeebfafb",
+                                    "8581ff5c-9eac-4cd5-a39d-4c1c26a3eff4",
+                                    "c30ed8d4-ffaa-4745-8667-d08d9819bc28",
+                                    "5a1daad0-157d-4319-b27d-9bc279c75cfc",
+                                    "45917c36-6c5d-444b-8d65-fd76917e2324",
+                                    "d1d85180-5db3-43e5-94b5-0c904d94813c"
+                                ],
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:00",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "id": 0,
+                        "name": "curtain",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9973,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.599",
+                                "start": "0:00:00",
+                                "end": "0:01:03.599"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "indoor",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9915,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.599",
+                                "start": "0:00:00",
+                                "end": "0:01:03.599"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "person",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9824,
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:01:03.599",
+                                "start": "0:00:00",
+                                "end": "0:01:03.599"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "sitting",
+                        "language": "ja-JP",
+                        "instances": [
+                            {
+                                "confidence": 0.9552,
+                                "adjustedStart": "0:01:02.92",
+                                "adjustedEnd": "0:01:03.599",
+                                "start": "0:01:02.92",
+                                "end": "0:01:03.599"
+                            }
+                        ]
+                    }
+                ],
+                "shots": [
+                    {
+                        "id": 0,
+                        "keyFrames": [
+                            {
+                                "id": 0,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "0efbfed9-2792-4fb2-b9c2-32ad16957fb8",
+                                        "adjustedStart": "0:00:16.838",
+                                        "adjustedEnd": "0:00:16.874",
+                                        "start": "0:00:16.838",
+                                        "end": "0:00:16.874"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "7e6dc269-0e42-478a-b8d7-9a37723b74a7",
+                                        "adjustedStart": "0:00:28.779",
+                                        "adjustedEnd": "0:00:28.815",
+                                        "start": "0:00:28.779",
+                                        "end": "0:00:28.815"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "instances": [
+                                    {
+                                        "thumbnailId": "da5d9c5e-7a82-43d4-ac49-0d8aa6c25153",
+                                        "adjustedStart": "0:00:46.725",
+                                        "adjustedEnd": "0:00:46.761",
+                                        "start": "0:00:46.725",
+                                        "end": "0:00:46.761"
+                                    }
+                                ]
+                            }
+                        ],
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:16.838",
+                                "adjustedEnd": "0:01:03.599",
+                                "start": "0:00:16.838",
+                                "end": "0:01:03.599"
+                            }
+                        ]
+                    }
+                ],
+                "brands": [
+                    {
+                        "id": 1,
+                        "name": "Gucci",
+                        "referenceId": "Gucci",
+                        "referenceUrl": "http://en.wikipedia.org/wiki/Gucci",
+                        "referenceType": "Wiki",
+                        "description": "Gucci is a Italian luxury brand of fashion and leather goods, part of the Gucci Group, which is owned by the French holding company Kering. Gucci was founded by Guccio Gucci in Florence in 1921.",
+                        "tags": [],
+                        "confidence": 1,
+                        "isCustom": false,
+                        "instances": [
+                            {
+                                "brandType": "Ocr",
+                                "adjustedStart": "0:00:59.5",
+                                "adjustedEnd": "0:01:00.5",
+                                "start": "0:00:59.5",
+                                "end": "0:01:00.5"
+                            }
+                        ]
+                    }
+                ],
+                "sentiments": [
+                    {
+                        "id": 0,
+                        "averageScore": 0.4756,
+                        "sentimentType": "Neutral",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:10.63",
+                                "start": "0:00:00",
+                                "end": "0:00:10.63"
+                            },
+                            {
+                                "adjustedStart": "0:00:11.27",
+                                "adjustedEnd": "0:00:31.69",
+                                "start": "0:00:11.27",
+                                "end": "0:00:31.69"
+                            },
+                            {
+                                "adjustedStart": "0:00:34.27",
+                                "adjustedEnd": "0:00:38.5",
+                                "start": "0:00:34.27",
+                                "end": "0:00:38.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:38.92",
+                                "adjustedEnd": "0:00:45.05",
+                                "start": "0:00:38.92",
+                                "end": "0:00:45.05"
+                            },
+                            {
+                                "adjustedStart": "0:00:45.38",
+                                "adjustedEnd": "0:00:56.21",
+                                "start": "0:00:45.38",
+                                "end": "0:00:56.21"
+                            },
+                            {
+                                "adjustedStart": "0:00:56.63",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:56.63",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    }
+                ],
+                "blocks": [
+                    {
+                        "id": 0,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:31.68",
+                                "start": "0:00:00",
+                                "end": "0:00:31.68"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:31.68",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:31.68",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    }
+                ],
+                "speakers": [
+                    {
+                        "id": 1,
+                        "name": "Speaker #1",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:00",
+                                "adjustedEnd": "0:00:10.63",
+                                "start": "0:00:00",
+                                "end": "0:00:10.63"
+                            },
+                            {
+                                "adjustedStart": "0:00:38.92",
+                                "adjustedEnd": "0:00:45.05",
+                                "start": "0:00:38.92",
+                                "end": "0:00:45.05"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Speaker #4",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:11.27",
+                                "adjustedEnd": "0:00:31.69",
+                                "start": "0:00:11.27",
+                                "end": "0:00:31.69"
+                            },
+                            {
+                                "adjustedStart": "0:00:56.63",
+                                "adjustedEnd": "0:01:03.602",
+                                "start": "0:00:56.63",
+                                "end": "0:01:03.602"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Speaker #3",
+                        "instances": [
+                            {
+                                "adjustedStart": "0:00:34.27",
+                                "adjustedEnd": "0:00:38.5",
+                                "start": "0:00:34.27",
+                                "end": "0:00:38.5"
+                            },
+                            {
+                                "adjustedStart": "0:00:45.38",
+                                "adjustedEnd": "0:00:56.21",
+                                "start": "0:00:45.38",
+                                "end": "0:00:56.21"
+                            }
+                        ]
+                    }
+                ],
+                "textualContentModeration": {
+                    "id": 0,
+                    "bannedWordsCount": 0,
+                    "bannedWordsRatio": 0,
+                    "instances": []
+                },
+                "statistics": {
+                    "correspondenceCount": 5,
+                    "speakerTalkToListenRatio": {
+                        "1": 0.279,
+                        "3": 0.26,
+                        "4": 0.459
+                    },
+                    "speakerLongestMonolog": {
+                        "1": 9,
+                        "3": 9,
+                        "4": 19
+                    },
+                    "speakerNumberOfFragments": {
+                        "1": 4,
+                        "3": 3,
+                        "4": 4
+                    },
+                    "speakerWordCount": {
+                        "1": 4,
+                        "3": 3,
+                        "4": 4
+                    }
+                },
+                "sourceLanguageConfidence": 1
+            },
+            "thumbnailId": "63b819d4-dcdd-4448-a39f-19b44fe01201",
+            "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/e4bb98ff-3a78-46a0-8f0c-5c1772fae425/8666ae2d-64f1-498e-b343-d477ddbe.ism/manifest(encryption=cbc)",
+            "publishedProxyUrl": null,
+            "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiI0OGZlYmE4NC00YWIwLTRlMDAtYjlkZi0wZGZmYjU4ZjA5MTEiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NDY0NDE4NjAsIm5iZiI6MTU0NjM1NTQwMH0.UAGafmbbmEB-nEubzj7eslVu2i8pRw5rH86g2PQgXFc",
+            "detectSourceLanguage": false,
+            "sourceLanguage": "ja-JP",
+            "language": "ja-JP",
+            "indexingPreset": "Default",
+            "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+            "personModelId": "00000000-0000-0000-0000-000000000000",
+            "isAdult": false
+        }
+    ],
+    "videosRanges": [
+        {
+            "videoId": "3ca214b7c9",
+            "range": {
+                "start": "0:00:00",
+                "end": "0:01:03.638"
+            }
+        }
+    ]
+}

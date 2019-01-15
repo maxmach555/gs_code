@@ -1,0 +1,21 @@
+190101
+filename:./json/samp_01.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:301!!nash!!! 3_1_$labels_cnt:8 3_2_$brands_cnt:5 3_3_$topics_cnt:0 4_1_$keywords_cnt:8 <
+filename:./json/nega_01.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:1 2_1_$WordCount_cnt:20!!nash!!! 3_1_$labels_cnt:6 3_2_$brands_cnt:0 3_3_$topics_cnt:4 4_1_$keywords_cnt:0 <
+filename:./json/nega_02.json 1_1_$sentiments_cnt:1 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:6!!nash!!! 3_1_$labels_cnt:3 3_2_$brands_cnt:0 3_3_$topics_cnt:3 4_1_$keywords_cnt:2 <
+filename:./json/nega_03.json 1_1_$sentiments_cnt:1 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:7!!nash!!! 3_1_$labels_cnt:7 3_2_$brands_cnt:0 3_3_$topics_cnt:1 4_1_$keywords_cnt:2 <
+filename:./json/posi_01.json 1_1_$sentiments_cnt:3 1_2_$emotions_cnt:2 2_1_$WordCount_cnt:7!!nash!!! 3_1_$labels_cnt:6 3_2_$brands_cnt:0 3_3_$topics_cnt:5 4_1_$keywords_cnt:3 <
+filename:./json/posi_02.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:1 2_1_$WordCount_cnt:5!!nash!!! 3_1_$labels_cnt:5 3_2_$brands_cnt:0 3_3_$topics_cnt:5 4_1_$keywords_cnt:1 <
+filename:./json/posi_03.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:1 2_1_$WordCount_cnt:5!!nash!!! 3_1_$labels_cnt:4 3_2_$brands_cnt:0 3_3_$topics_cnt:2 4_1_$keywords_cnt:1 <
+filename:./json/posi_04.json 1_1_$sentiments_cnt:1 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:11!!nash!!! 3_1_$labels_cnt:9 3_2_$brands_cnt:0 3_3_$topics_cnt:2 4_1_$keywords_cnt:2 <
+
+
+old
+filename:./json/samp_01.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:301 3_1_$labels_cnt:8 3_2_$brands_cnt:5 3_3_$topics_cnt:0 4_1_$keywords_cnt:8 <
+filename:./json/nega_01.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:20 2_1_$WordCount_cnt:19 3_1_$labels_cnt:6 3_2_$brands_cnt:0 3_3_$topics_cnt:4 4_1_$keywords_cnt:0 <
+filename:./json/nega_02.json 1_1_$sentiments_cnt:1 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:6 3_1_$labels_cnt:3 3_2_$brands_cnt:0 3_3_$topics_cnt:3 4_1_$keywords_cnt:2 <
+filename:./json/nega_03.json 1_1_$sentiments_cnt:1 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:7 3_1_$labels_cnt:7 3_2_$brands_cnt:0 3_3_$topics_cnt:1 4_1_$keywords_cnt:2 <
+filename:./json/posi_01.json 1_1_$sentiments_cnt:3 1_2_$emotions_cnt:2 2_1_$WordCount_cnt:7 3_1_$labels_cnt:6 3_2_$brands_cnt:0 3_3_$topics_cnt:5 4_1_$keywords_cnt:3 <
+filename:./json/posi_02.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:1 2_1_$WordCount_cnt:5 3_1_$labels_cnt:5 3_2_$brands_cnt:0 3_3_$topics_cnt:5 4_1_$keywords_cnt:1 <
+filename:./json/posi_03.json 1_1_$sentiments_cnt:2 1_2_$emotions_cnt:1 2_1_$WordCount_cnt:5 3_1_$labels_cnt:4 3_2_$brands_cnt:0 3_3_$topics_cnt:2 4_1_$keywords_cnt:1 <
+filename:./json/posi_04.json 1_1_$sentiments_cnt:1 1_2_$emotions_cnt:0 2_1_$WordCount_cnt:11 3_1_$labels_cnt:9 3_2_$brands_cnt:0 3_3_$topics_cnt:2 4_1_$keywords_cnt:2 <
+
