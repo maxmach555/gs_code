@@ -1,0 +1,128 @@
+<?php
+// 卒開：松井さんPJ
+// mp_ViApi_req.php
+//  ・Video Indexerの動画アップリクエスト
+//  ・
+
+$UpMovFile = $_GET["UpMovFile"];
+$vireq_Filename=$UpMovFile;
+// var_dump($jsonfile); 
+
+//JSONファイル指定解析
+// $jsonfilename = './json/nega_04.json';
+echo ' $vireq_Filename:',$vireq_Filename,' ';
+
+
+// VIへの動画分析リクエスト処理
+
+$vireq_Location = "trial";
+$vireq_AccId = "7ef52027-e24c-4ead-8353-106298b23434";
+$vireq_AllEdit ="true";
+$vireq_PSubkey ="9abaeab33270435db75089d07087dd31";
+$vireq_Body ="";
+$vireq_AccToken ="";
+
+//
+//1.Get Account Access Token
+//
+
+// This sample uses the Apache HTTP client from HTTP Components (http://hc.apache.org/httpcomponents-client-ga/)
+require_once 'HTTP/Request2.php';
+
+// $ReqUrl = 'https://api.videoindexer.ai/auth/'.$vireq_Location."/Accounts"."/".$vireq_AccId.'/AccessToken'."?allowEdit=".$vireq_AllEdit;
+
+$ReqUrl = 'https://api.videoindexer.ai/auth/'.$vireq_Location."/Accounts"."/".$vireq_AccId.'/AccessToken';
+
+echo ' $ReqUrl:',$ReqUrl;
+
+$request = new Http_Request2($ReqUrl);
+$url = $request->getUrl();
+
+$headers = array(
+    // Request headers
+    'Ocp-Apim-Subscription-Key' => $vireq_PSubkey,
+);
+
+$request->setHeader($headers);
+
+$parameters = array(
+    // Request parameters
+    'allowEdit' => $vireq_AllEdit,
+);
+
+$url->setQueryVariables($parameters);
+
+$request->setMethod(HTTP_Request2::METHOD_GET);
+
+// Request body
+$request->setBody($vireq_Body);//無し
+
+try
+{
+    $response = $request->send();
+    $vireq_AccToken = $response->getBody();
+}
+catch (HttpException $ex)
+{
+    echo $ex;
+   
+}
+
+echo ' ==STEP 1 COMP== ',"\n";
+echo $vireq_AccToken,"\n";
+echo ' ==STEP 1 COMP== ',"\n";
+
+//
+//2.Upload Video
+// This sample uses the Apache HTTP client from HTTP Components (http://hc.apache.org/httpcomponents-client-ga/)
+
+require_once 'HTTP/Request2.php';
+
+
+$ReqUrl = 'https://api.videoindexer.ai/auth/'.$vireq_Location.'/Accounts'.'/'.$vireq_AccId.'Videos?accessToken='.$vireq_AccToken.'&name='.$vireq_Filename;
+
+echo ' $ReqUrl videoUpload:',$ReqUrl;
+
+$request = new Http_Request2($ReqUrl);
+
+$url = $request->getUrl();
+
+$headers = array(
+    // Request headers
+    'Content-Type' => 'multipart/form-data',
+);
+
+$request->setHeader($headers);
+
+$parameters = array(
+    // Request parameters
+    'description' => 'speech Video Upload',
+    'language' => 'ja-JP',
+    'fileName' => $UpMovFile,
+    'privacy' => 'Private',
+);
+
+$url->setQueryVariables($parameters);
+
+$request->setMethod(HTTP_Request2::METHOD_POST);
+
+// Request body
+$request->setBody($vireq_Body);//無し
+
+
+var_dump($response);
+
+try
+{
+    $response = $request->send();
+    echo $response->getBody();
+}
+catch (HttpException $ex)
+{
+
+    echo $ex;
+}
+
+echo ' ==STEP 2 COMP== ';
+
+?>
